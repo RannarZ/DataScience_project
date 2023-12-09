@@ -1,0 +1,22 @@
+I Teema: Mudeli koostamise alused
+- sotsiaalse süsteemi mudeldamise alused
+- süsteemi elementide ülekandmine mudelisse
+- võistluse ja koostöö element mudeldusmängus (Zimmerman)
+
+II Teema: 
+-  Mängu mudelipõhine disain
+- töö juhenditega (mängija ja mängujuhi manuaal)
+- Mudeldusmängu läbiviimine ja juhtimine.
+
+III teema: Mudeldusmängu dekonstruktsioon
+Läbivad teemad: 
+- süntaks, semantika, pragmaatika (Klabbers, Henricks)
+- rollid, reeglid, ressursid (Duke)
+- Mudeldusmängu etapid
+Kirjeldada referentsüstseemi kajastamist mudelis; Anda ülevaade mudeldusmängu konstruktsioonist ja disaini etappidest; aidata omandada mudeldusmängu disaini aluseid ja tutvuda  mudeldusmängu alaliikide ning ülesehitusega.
+- tunneb referentssüsteemi kirjeldamise aluseid
+- kirjeldab mudeldusmängu funktsionaalset ülesehitust
+- määratleb ja sõnastab mudeldusmängu koostamise etappe
+- konstrueerib lihtsama mudeldusmängu
+- koostab mudeldusmängu läbiviimise juhendi
+- oskab mudeldusmängu juhendada ja läbi viia.

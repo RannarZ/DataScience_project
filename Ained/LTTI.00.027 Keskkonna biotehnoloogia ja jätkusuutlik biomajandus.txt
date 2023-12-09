@@ -1,0 +1,9 @@
+Kursusel uuritakse biotehnoloogiliste protsesside rakendatavust nt. saaste eemaldamisel, taastuvenergia või biomassi tootmisel selleks bioloogilisi protsesse kasutades ning kuidas neid tehnikaid kaasaegsesse majandusse integreerida.
+Kursuse üks osa on põhiteemade teoreetilise taustaga loengud ja teises osas tegelevad üliõpilased juhtumianalüüsidega tegeliku elu probleemidele lahenduste otsimiseks.
+Kursuse eesmärk on anda ülevaade biotehnoloogia rakenduste kasutamisest keskkonnaprobleemide lahendamisel ning erinevate organimide kasutamine bioökonoomikas.
+Kursuse läbinud tudengid omandavad järgmised teadmised: 
+* erienvate organismide kasutamine keskkonna puhastamisel ja parendamisel
+* mikroorganismide abil reovee käitlemise tehnoloogia alused
+* erienvate organismide kasutamine biokütuse ja biopolümeeride tootmisel
+* organismide abil energia ja ressursside kasutamise tõhustamine
+* Euroopa biomajanduse strateegiad

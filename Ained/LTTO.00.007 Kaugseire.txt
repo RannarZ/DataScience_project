@@ -1,0 +1,7 @@
+Kaugseire põhimõtted, elektromagnetkiirguse spekter, päikesekiirgus Maa atmosfääris. Päikesekiirguse peegeldumine erinevatelt aluspinnatüüpidelt: taimkattelt, mullapinnalt, veepinnalt.
+Kaugseiremõõteriistade omadused: ruumiline, spektraalne ja radiomeetriline lahutus. Kiirgusvastuvõtjad satelliitidel spektri optiliseses, lähisinfrapunases ja soojuskiirguse piirkonnas.
+Kaugseirepiltide (satelliidipiltide) eeltöötlus: piltide geomeetriline korrektsioon, atmosfääri korrektsiooni meetodid, võtted pildi kontrastsuse suurendamiseks. Mitme  spektripiirkonna piltidest arvutatud vegetatsiooniindeksid ja nende kasutusvõimalused, piltide filtreerimine.
+Kaugseirepiltide klassifitseerimise meetodid: klassifitseerimine õpetava valimiga ja ilma õpetava valimita.
+Klassifitseerimistulemuse veahinnangud. Aja jooksul toimunud muutuste hindamine piltide aegridadest.
+Sissejuhatav kursus kaugseire põhimõtetest ning satelliidipiltidelt kasuliku teabe hankimise viisidest.
+Suudab kasutada kaugseire andmeid

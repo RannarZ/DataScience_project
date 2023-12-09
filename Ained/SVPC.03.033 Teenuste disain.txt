@@ -1,0 +1,9 @@
+Mõisted - disain ja selle liigid, toode/teenus sarnasused/erinevused disaini kontekstis. Teenuste pakkumise protsessi visualiseerimine (klienditeekond, teenindusplaan). Loov mõtlemine versus lineaarne/loogiline mõtlemine. Tootearenduse protsessi etapid. Teenusedisaini mõiste, loova mõtlemise printsiibid ja tehnikad. Teenuste disaini mudelid ja seonduvad meetodid/tehnikad. Kliendi vajaduste identifitseerimine ja lähteülesande koostamine teenuse loomiseks/arendamiseks. Lähteülesandest lähtuvalt töö planeerimine ja meeskonnaliikmete komplekteerimine. Teenuse testimine ja lõpliku lahenduse valik ning juurutamine. Loovus, innovatsioon ja vigadest õppimine teenuste pakkumise protsessis. Asukoht, nõudlus ja tagasiside teenuste kvaliteedi kohta.
+Aine eesmärk on, et tudeng teaks loovmõtlemise, disainijuhtimise ja teenuste disaini seoseid ning teenuste disainimise protsessi etappe ning oskaks kasutada seonduvaid meetodeid.
+Õppeaine läbinud õppija: 
+* teab disainmõtlemise olemust ja erinevust induktiivsest ja deduktiivsest mõtlemisest
+* teab teenuste disaini protsessi kirjeldavaid mudeleid ning teenusedisaini protsessi etappides rakendatavaid meetodeid, sh teenuste pakkumise protsessi visualiseerimise põhimeetodeid (klienditeekond ja teenindusplaan jmt)
+* teab kasutajakeskse disaini põhimõtteid ja protsessi
+* oskab koostada olemasoleva teenuse klienditeekonna ja teenindusplaani
+* oskab teostada olemasoleva teenuse kasutajauuringut ja analüüsida teenuseprotsesse
+* oskab disainida lähtuvalt analüüsist uusi lihtsamaid teenuseid või parendada olemasoleva teenuse disaini

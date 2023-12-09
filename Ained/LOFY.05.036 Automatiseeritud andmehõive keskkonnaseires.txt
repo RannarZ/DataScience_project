@@ -1,0 +1,4 @@
+Kursuses käsitletakse põhiliste keskkonnaparameetrite automatiseeritud mõõtmist keskkonnaseires. Vaadeldakse selleks sobivaid andureid ja nende ühendamist automatiseeritud süsteemi. Tutvutakse lihtsamate seiresüsteemidega.
+ Praktilistes töödes  koostatakse automaatne süsteem mingi parameetri seireks, teostatakse lühiajaline praktiline monitooring koos järgneva piiratud mahus andmete töötlusega, tulemuste kirjaliku vormistamise ja  suulise ettekandmisega.
+Kursusel osalevad üliõpilased saavad vajaliku üldteadmiste baasi selleks, et rakendada ja hooldada arvutiseeritud mõõte- ja juhtimissüsteeme keskkonnaseires.
+Kursuse läbinu oskab üles seada lihtsa keskkonnaseise süsteemi, koguda ja talletada keskkonna andmeid, neid esialgselt analüüsida ja esitada tulemused.

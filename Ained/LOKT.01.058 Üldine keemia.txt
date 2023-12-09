@@ -1,0 +1,9 @@
+Loengukursuses käsitletakse termodünaamika, keemilise kineetika ja tasakaalu ning redoksprotsesside põhialuseid, antakse ülevaade lahuste põhiomadustest ja aineehitusest.
+Eesmärgiks on anda üliõpilastele edasises õppetöös vajalikud põhiteadmised keemiast.
+Kursuse läbinud üliõpilane
+1. Kursuse läbinud üliõpilane teab keemias enamlevinud ühendite nomenklatuuri, aineklasse, keemia põhimõisteid ja põhiseadusi ning oskab neid rakendada erinevates süsteemides.
+2.Teab ja oskab hinnata ning rakendada keemilise termodünaamika ning keemilise kineetika alaseid põhimõisteid ja põhiseaduspärasusi.
+2.Teab elektrokeemia, aatomi ehituse ja keemilise sideme põhiseisukohti ja oskab neid rakendada ainete omaduste üle otsustamisel.
+3. Oskab tõlgendada ja põhjendada elektrolüütide lahustes esinevaid protsesse ja oskab eristada erinevaid tekkivaid süsteeme üksteisest ning lahendada vastavaid arvutus- ning probleemülesandeid.
+4.Teab redoksprotsesside kulgemise põhimõtteid, oskab määrata elementide oksüdatsiooniastmeid ning tasakaalustada redoksreaktsioone nii elektron- kui ioonelektronselmeetodil.
+5.Teab aatomi ehituse ja keemilise sideme põhiseisukohti.

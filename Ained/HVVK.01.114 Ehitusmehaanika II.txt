@@ -1,0 +1,8 @@
+Mitmesildelised talad: tala jaotamine korrusskeemi järgi, toereaktsioonide leidmine, sisejõudude epüürid.
+Talafermid: toereaktsioonide leidmine, sisejõudude määramine, sõlmede eraldamise meetod, momentide meetod.
+Kolme liigendiga kaared ja raamid: toereaktsioonide määramine, sisejõudude epüürid.
+Anda üliõpilasele üldised teadmised mitmest varraselemendist koosneva staatikaga määratud konstruktsiooni tööst, välisjõudude mõjul neis tekkivatest sisejõududest, nende määramise meetoditest ning nende konstruktsioonide kandevõime määramisest.
+Kursuse edukalt läbinud üliõpilane
+- oskab koostada reaalse konstruktsiooni varrasmudelit (arvutusskeemi);
+- oskab määrata konstruktsiooni staatikalise määramatuse astet;
+- oskab määrata varrasmudelile mõjuvate välisjõudude poolt põhjustatud toereaktsioone ja sisejõude.

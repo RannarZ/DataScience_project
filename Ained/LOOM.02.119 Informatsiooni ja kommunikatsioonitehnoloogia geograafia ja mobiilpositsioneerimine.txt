@@ -1,0 +1,18 @@
+IKT geograafia olemus
+Digitaalne lõhe
+Asukohamääramise meetodid
+Asukohapõhiste teenuste toimimine
+Mobiilpositsioneerimise rakendamine turismitööstuses ja teadusuuringutes
+IT- mull ja IKT-ga seotud turvariskid 
+Privaatsuse riskid ja kaitse
+IKT mõjud ühiskonnale. Ühiskonna mõjutamine IKT vahenditega
+IKT mõju inimeste ajalis-ruumilisele käitumisele
+IKT  tulevikutrendid
+anda ülevaade IKT levikust maailmas, tutvustada selle ühiskondlike mõjude geograafilisi aspekte; kirjeldada peamisi mobiilpositsioneerimise meetodeid, vastavate andmekogude struktuure, positsioneerimisandmete kasutamist teadusuuringutes ning asukohapõhiste teenuste arendamisel.
+Kursuse läbinud üliõpilased mõistavad:
+*	IKT geograafia sisu ja teoreetilisi seisukohti
+*	Orienteeruvad IKT ühiskondliku ja personaalse taseme mõjudes
+*	Tunnevad peamisi asukohamääramise meetodeid, nende rakendamist ja täpsust
+*	Saavad aru asukohapõhiste teenuste toimimise põhimõtetest ja peamistest rakendusvaldkondadest
+*	Valdavad IKT-ga seotud privaatsuse ja turvariske, on kursis selle õigusliku taustaga
+*	On kursis IKT tulevikutrendide prognoosidega

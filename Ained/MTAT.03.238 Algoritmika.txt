@@ -1,0 +1,6 @@
+Kursus annab ülevaate eri tüüpi algoritmidest ja nende disaini printsiipidest, algoritmide teoreetilise hindamise (ajaline ja mahuline keerukus) alustest.
+Omandatakse peamised algoritmide ja andmestruktuuride disaini ja analüüsi printsiibid ja olulisemad eritüübilised algoritmid.
+Kursuse läbinud üliõpilane on võimeline
+- Valima algoritme ja hindama nende sobivust ja keerukust
+- Realiseerima algoritme ja võrdlema nende efektiivsust
+- Aru saama erinevate andmestruktuuride ja algoritmide olemusest ja analüüsist

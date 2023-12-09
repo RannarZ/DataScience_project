@@ -1,0 +1,11 @@
+Aines käsitletakse 
+-- kaasaegseid aatomspektroskoopia meetodeid (AAS, AES, XRF, aatom-massispektromeetria), nende eeliseid ja piiranguid ning kasutusvaldkondi; 
+-- nende meetodite tööpõhimõtteid ning tulemusi mõjutavaid faktoreid; 
+-- aatomspektroskoopia metoodika kirjelduse põhjal selle metoodika adekvaatsuse ja kvaliteedi hindamist ning selle metoodika sobivuse hindamist etteantud probleemi lahendamiseks; 
+-- teiste uurijate poolt esitatavate aatomspektroskoopia andmete adekvaatsuse ja kvaliteedi hindamist.
+Aine eesmärk on anda ülevaade kaasaegsetest analüütilise aatomspektroskoopia meetoditest. Kursus tutvustab meetodite tööpõhimõtteid ja praktilisi aspekte ning erivõtteid, samuti nende eeliseid ja puuduseid.
+Aine läbinud tudeng 
+-- omab head ülevaadet kaasaegsetest aatomspektroskoopia meetoditest (AAS, AES, XRF, aatom-massispektromeetria), nende eelistest ja piirangutest ning kasutusvaldkondadest; 
+-- teab nende meetodite tööpõhimõtteid ning tulemusi mõjutavaid faktoreid; 
+-- on võimeline aatomspektroskoopia metoodika kirjelduse põhjal hindama selle metoodika adekvaatsust ja kvaliteeti ning selle sobivust etteantud probleemi lahendamiseks; 
+-- on võimeline hindama teiste uurijate poolt esitatavate aatomspektroskoopia andmete adekvaatsust ja kvaliteeti.

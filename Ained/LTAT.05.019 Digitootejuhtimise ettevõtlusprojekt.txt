@@ -1,0 +1,8 @@
+Kursusel käsitletakse järgmisi teemasid: probleemi tausta- ja turuuuring; toote ideearendus ja visioon; tootestrateegia ja mõõdikud; visandamine ja prototüüpimine, projektiesitlus
+Kursuse raames rakendavad tudengid tootedisaini ja -juhtimise erialamooduli varasemates ainetes omandatud teadmisi ja oskusi projektides partnerettevõtetega.
+Kursuse eduka läbimise järel on tudengid võimelised:
+1.	probleemipüstitusest arendama toote visiooni.
+2.	välja arendama tootestrateegia ja mõõdikud edukuse hindamiseks. 
+3. looma ja testima prototüüpe.
+3.	tutvustama prototüüpi potentsiaalsetele kasutajatele.
+4.	mõistma, kuidas käib tarkvaratoote juhtimine praktikas

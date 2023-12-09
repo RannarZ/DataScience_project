@@ -1,0 +1,9 @@
+Üldhariv kursus, mis käsitleb bioprotsessides toimuvaid keemilisi reaktsioone, hõlmates staatilist biokeemiat (raku molekulaarsed komponendid), ensümoloogiat (biokeemiline katalüüs) ning peatükke dünaamilisest biokeemiast (tähtsamad ainevahetusrajad) .
+Biomolekulide keemia baasteadmiste kujundamine ning ülevaate andmine mõningatest nende metabolismi reaktsioonidest.. Lähtudes orgaanilise keemia baasteadmistest jõutakse mitmete looduses toimuvate protsesside keemilise mõistmiseni. Omandatud teadmised võimaldavad keemia teadmiste rakendamist erinevate bioloogilisi materjale ja biokeemilisi reaktsioone hõlmavate protsesside arusaamiseks, mõjutamiseks ning juhtimiseks..
+Toetatakse suulise erialase eneseväljenduse arengut tutvustades omandatud materjali kaasüliõpilatele
+Kursuse läbinu:
+*	Teab põhilisi biomolekulide struktuure ja oskab hinnata nende keemilisi omadusi.
+*	Teab biomolekulide keemia eripärasid ning orienteerub klassikalistes biopolümeride analüüsimeetodites.
+*	Oskab rakendada orgaanilise keemia baaskursuse teadmisi biomolekulide metabolismiradades  toimuvate reaktsioonide kirjeldamisel.
+*	On omandanud biomolekulide metabolismi põhimõisted ning omab ülevaadet tähtsamatest  ainevahetusradadest.
+*	Oskab rakendada füüsiko-keemilist lähenemist biokeemiliste protsesside kirjeldamisel ja juhtimisel ning oskab seda selgitada mitteeriala kuulajatele

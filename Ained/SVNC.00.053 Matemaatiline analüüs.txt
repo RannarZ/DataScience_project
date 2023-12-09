@@ -1,0 +1,17 @@
+Funktsioon ja tema liigid. Piirväärtus ja funktsiooni pidevus. Tuletis ja selle rakendamisvõimalused. Diferentsiaal. Funktsiooni uurimine teoreemide abil. Määramata ja määratud integraal. Muutuja funktsioon. Diferentsiaalvõrrandid. Kursus on üles ehitatud praktiliste ülesannete lahendamisele
+Omandada diferentsiaal- ja integraalarvutuse teoreetilised alused. Õppida lahendama mainitud teooriaga seotud põhilisi ülesandeid. Näha diferentsiaal- ja integraalarvutuse võimalikke rakendusi praktikas ja teistes teadusharudes. Arendada matemaatilist mõtlemist
+Kursuse läbinud üliõpilane: 
+
+-teab, funktsiooni liike, piirväärtus tja funktsiooni pidevus.  
+
+- leiab lihtsamaid piirväärtusi, uurib funktsiooni pidevust ja kasutab pideva funktsiooni omadusi ülesannete lahendamisel. 
+
+- tunneb mõisteid tuletis ja diferentsiaal, oskab neid leida. Teab tuletise rakendusvõimalusi.  
+
+- tunneb teoreeme, mille alusel funktsioone uuritakse. 
+
+- leiab lihtsamaid määramata ja määratud integraale., kasutab määratud integraali lihtsamate tasandiliste kujundite pindala ja ruumiliste kujundite ruumala arvutamiseks. 
+
+- teab mitme muutuja funktsiooni, selle osatuletiste mõisteid, oskab lahendada lihtsamaid ekstreemumülesandeid. 
+
+- lahendab eralduvate muutujatega diferentsiaalvõrrandeid.

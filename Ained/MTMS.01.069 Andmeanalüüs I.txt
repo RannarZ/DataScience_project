@@ -1,0 +1,11 @@
+Õpetatakse andmete kogumise, salvestamise, kontrollimise põhiprintsiipe ja võtteid; andmete esmast töötlemist ja analüüsimist; lihtsamate järelduste sõnastamist; tulemuste vormikohast esitamist ja visualiseerimist.
+Aine üldeesmärkideks on
+- õppida tundma andmete kogumise ja korrastamise põhilisi meetodeid.
+- õppida tundma kirjeldava statistika põhilisi meetodeid.
+- teha tutvust statistiliste hüpoteeside kontrollimise meetoditega.
+- õppida analüüsi tulemusi tõlgendama.
+Aine läbinud üliõpilane
+- tunneb andmeanalüüs põhimõisteid;
+- oskab teha kirjeldavat analüüsi;
+- oskab interpreteerida saadud tulemusi;
+- kasutab andmeanalüüsi põhimõisteid nii kirjalikult kui suuliselt  statistilise analüüsi aruandes ning esitluses.

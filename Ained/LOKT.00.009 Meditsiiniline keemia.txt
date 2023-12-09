@@ -1,0 +1,20 @@
+Kursusel käsitletakse organismide elutalituse aluseks olevate keemiliste protsesside kulgemise seaduspärasusi.  Vaadeldakse lähemalt vesilahustes asetleidvate protsesside toimumist, sõltuvalt lahuse pH-st, hüdrolüüsist, osmoosist. Õpitakse tundma termodünaamika ja kineetika seadusi ning nende rakendamist keemiliste reaktsioonide korral. Tutvutakse kolloidsüsteemides kehtivate seaduspärasustega ja mõningate kaasaegses meditsiinis kasutatavate analüüsimeetoditega.
+Kursuse eesmärgiks on selgitada organismides kulgevate protsesside füüsikalis-keemilisi ja kolloidsüsteemide  aluseid ning anda ülevaade meditsiinis kasutatavatest analüütilistest meetoditest.
+Meditsiinilise keemia kursuse raames omandab üliõpilane keemia põhiteadmised mõistmaks inimorganismis toimuvate protsesside seaduspärasusi, keemilisi mehhanisme ning füüsikokeemilisi tasakaale ja instrumentaalanalüüsi meetodeid. (meditsiinilise keemia kursuse kava vastab arstiteaduse erialaainete mooduli õpiväljundile 1 ja 9)
+
+Üldised õpiväljundid:
+1.	Teab ja oskab korrektselt kasutada keemia-alaseid põhimõisteid, sümboleid, ühikuid.
+2.	Oskab luua seoseid teoreetiliste keemia alaste põhiteadmiste ja eluliste näidete vahel.
+3.	Omab süsteemseid teadmisi aine ehituse põhialustest. Oskab hinnata parameetrite mõju protsessi tasakaalule ja kineetikale.
+4.	Oskab kriitiliselt hinnata ja eristada olulist informatsiooni ebaolulisest, rakendada teoreetilisi teadmisi alus-happe tasakaalude, lahuse kontsentratsioonide ja osmootse rõhu ülesannete lahendamisel.
+5.	Oskab kirjeldada piirpindadel ja kolloidsüsteemides toimuvaid protsesse ja selgitada nende füsikokeemilisi aluseid.
+6.	Eristab instrumentaalanalüüsi meetodeid üksteisest ja teab nende põhimõtet. Teab ja oskab hinnata instrumentaalanalüüsi kvaliteeti mõjutavaid parameetreid. Oskab valida proovi analüüsiks vajalikku meetodit. 
+
+Praktikum
+7.	Teab laboris töötamise peamisi ohutusnõudeid, oskab ohutult planeerida ning läbi viia lihtsamaid praktilisi töid. 
+8.	Teab laboris töötamise põhilisi töövõtteid ja oskab korrektselt kasutada lihtsamaid laboritarvikuid ja aparatuuri.
+9.	Oskab nii kirjalikult kui ka suuliselt esitada eksperimenditulemusi, neid kriitiliselt analüüsida, tõlgendada ja teha vastavaid järeldusi ning luua seoseid.
+
+Ülekantavad oskused: 
+1.	Praktiliste tööde teotamise ja vastamiste raames arendatakse üliõpilase kirjalikku väljendusviisi ja suulise eneseväljenduse oskusi. Arendatakse meeskonnatöö planeerimise ja meeskonnas töötamise oskuseid. 
+2.	Arendatakse matemaatikapädevust, analüüsi ja järelduste tegemise oskust.

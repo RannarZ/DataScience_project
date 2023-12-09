@@ -1,0 +1,9 @@
+Seminaris käsitletakse robootika, arvutitehnika, kosmose-  ja infotehnoloogiliste rakendustega seonduvaid üldisi või spetsiifilisi probleeme.
+
+Seminaride info edastatakse listi <b>it_seminar@lists.ut.ee</b>
+
+<b>NB!</b> Ainele ÕIS-is registreerumine <i>ei ole vajalik</i>. Küll aga on oluline liituda postiloendiga it_seminar@lists.ut.ee, sest ainult seal toimub kogu ainega seonduv infovahetus. Postiloendiga liitumiseks tuleb minna aadressile: http://lists.ut.ee/wws/info/it_seminar
+Tutvustada üliõpilastele robootika, arvutitehnika, kosmose- ja infotehnoloogia aktuaalseid probleeme. Luua tudengile tingimused õppimaks esitluste koostamist ja nende ettekandmist.
+Aine läbinud tudeng
+1) oskab koostada erialast ettekannet ning seda auditooriumi ees ette kanda.
+2) on võimeline andma vastuseid ettekandega seonduvatele ootamatutele küsimustele.

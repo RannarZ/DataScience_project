@@ -1,0 +1,6 @@
+Loengutes, praktikumides ja seminarides tutvustatakse meditsiinile orienteeritud biofüüsika olulisemaid teoreetilisi teemasid ja uurimismeetodeid
+Kursus tutvustab inimorganismi funktsioneerimise biofüüsikalisi aluseid ja kirjeldab erinevate mõõteseadmete kasutamist organismi talitluse hindamiseks ning saadud tulemuste graafilist kujutamist.
+Kursuse läbinud tudeng:
+-on suuteline aru saama valemite keelest, st interpreteerima, millised on nendes esitatud sõltuvused.
+-on suuteline tegema mõõtmisi ettevalmistatud katseseadmetega, lugema ja koostama graafikuid
+-tunneb mehaanika, vedelikufüüsika, elektrinähtuste, optika, termodünaamika ja kiirgusfüüsika põhilisi seaduspärasusi ning oskab neid seostada inimorganismi ja diagnostikaseadmete funktsioneerimise põhimõtetega.

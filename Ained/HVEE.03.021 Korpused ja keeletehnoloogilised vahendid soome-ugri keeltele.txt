@@ -1,0 +1,3 @@
+.
+Kursuse eesmärk on anda üliõpilastele, lingvistilise uurimistöö koostamiseks ja läbiviimiseks vajalikud põhioskused ja teadmised, kasutades soome-ugri keelte korpusi ja keelatehnoloogiaid. Kursus on mõeldud ennekõike üliõpilastele, kes pole varem korpuste ja andmeanalüüsi meetoditega töötanud. Kursus pakub teoreetilist tausta ja praktilisi oskusi olemasolevate keeleandmetega töötamiseks, kasutades peamiselt korpuseid, ning keskendudes nii kvalitatiivsetele kui ka kvantitatiivsetele meetoditele.
+.

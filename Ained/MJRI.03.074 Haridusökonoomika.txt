@@ -1,0 +1,5 @@
+Haridusökonoomika lisab haridusesüsteemide ja hariduspoliitika käsitlusele majandusliku mõõtme. Teemad, mida kursuse jooksul tutvustatakse on: hariduse kasulikkus inimesele ja ühiskonnale, sh tasuvus, välismõjud ja seos majandusarenguga; inimkapitali ja signaliseerimisteooria, haridusteenuse pakkumine ning hariduse tootmisfunktsioon.
+Kursuse eesmärk on anda tudengitele ülevaade haridusküsimuste käsitlemisest majandusteaduse seisukohast ning tutvustada majandusteaduslike meetodite kasutusvõimalusi haridusteadustes.
+*mõistavad haridusökonoomika keskmes olevaid teoreetilisi seisukohti ja suundumusi;
+*oskavad selgitada hariduse omandamisega kaasnevaid efekte indiviidi ja ühiskonna jaoks haridusökonoomika kontekstis;
+*oskavad rakendada olulisemaid printsiipe enamlevinumate hariduspoliitiliste, hariduskorralduslike ja hariduse finantseerimise instrumentide üle arutledes.

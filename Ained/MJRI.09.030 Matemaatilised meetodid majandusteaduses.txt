@@ -1,0 +1,8 @@
+Kursus tutvustab teoreetilistes majandusmudelites kasutatavaid matemaatilisi meetodeid (maatriksalgebra, diferentsiaal- ja integraalarvutus, optimeerimine, diferentsiaal- ja diferentsvõrrandid, faasidiagrammid), mille tundmine on vajalik majandusteaduslike õpikute ning teadusartiklite mõistmiseks. Käsitletavate matemaatiliste meetodite kasutusvõimalusi majandusteaduses illustreerivad näited majandusteooriast hõlmates nii staatilist, võrdlev-staatilist kui ka dünaamilist analüüsi. Sealjuures ei ole eesmärgiks näitena kasutatud majandusmudelite täielik analüüs ja tõlgendamine, viimast tehakse järgmiste kursuste käigus.
+Kursus täiendab tudengi oskusi ja teadmisi erinevate matemaatiliste meetodite kohta näitlikustades neid kasutusvõimaluste abil majandusteoreetilistes mudelites
+Aine läbinud üliõpilane
+* tunneb erinevaid, nii lihtsaid kui keerulisemaid, matemaatilisi meetodeid (diferentseerimine, integreerimine, optimeerimine, maatriksarvutus, diferentsvõrrandid, diferentsiaalvõrrandid, faasidiagrammid; staatiline, võrdlev-staatiline ja dünaamiline analüüs);
+* saab aru erinevate meetodite olemusest;
+* oskab näha erinevate meetodite kasutusvõimalusi erinevate mudelite analüüsimisel;
+* oskab valida mudeli analüüsimiseks sobiva matemaatilise meetodi ning seda kasutada;
+* oskab analüüsi tulemusi tõlgendada

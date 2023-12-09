@@ -1,0 +1,9 @@
+Üliõpilaste varasemaid füüsikateadmisi eeldamata viiakse nad kiiresti kaasaegse füüsika põhiideedeni (aine ja väli, fermionid ja bosonid, tõrjutusprintsiip, energia minimiseerumine, absoluutkiirus, dualism, määramatus). Kuulajate teadvuses püütakse eelkõige tekitada füüsikalisi protsesse peegeldavaid kujutluspilte. Matemaatiliste meetodite rakendamise kohta füüsikas tuuakse markantseid näiteid (diferentseerimine, integreerimine, kompleksarvud). Käsitluse üldist matemaatilist rangust ei taotleta.
+Tutvustada füüsikat kui tervikut ja füüsika rolli indiviidi kui vaatleja isikliku looduspildi kujundamisel.
+Aine läbinud üliõpilane:
+1. Mõistab füüsikat kui kõige üldisemaid põhjuslikke seoseid uurivat, loodusnähtuste mudeleid loovat ja nii sisemist kui välist nähtavushorisonti edasi nihutavat teadust;
+2. Oskab väljendada füüsikalise maailmapildi alusprintsiipe (näiteks: atomistika, energia minimiseerumine, tõrjutus, absoluutkiirus, dualism, lõtkuprintsiip) ja viidata nende avaldumisele;
+3. Oskab loengute kavas toodud märksõnade raames füüsikaliselt arutleda, eristades olulist ebaolulisest ja kasutades korrektselt füüsika termineid;
+4. Valdab füüsikaliste protsesside kirjeldamiseks vajalikke matemaatilisi võtteid (graafilised meetodid, diferentseerimine ja integreerimine, kompleksarvude kasutamine) ning tunneb peamiste füüsikas esinevate funktsionaalsete sõltuvuste omadusi ja tekke tingimusi (lineaarne, astme-, eksponent- ja harmooniline funktsioon);
+5. Tunneb kaasaegse füüsikalise maailmapildi põhimõisteid aineveebis toodud põhivaraga (30 A4 lehekülge) määratletud tasemel;
+6. Suudab lahendada füüsikalisi arvutusülesandeid aine veebipõhise õppesüsteemi näidisülesannetega määratletud tasemel.

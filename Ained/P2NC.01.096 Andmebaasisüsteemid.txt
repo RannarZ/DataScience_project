@@ -1,0 +1,12 @@
+Käsitleb andmemudelite projekteerimise loomisega seonduvaid teemasid. Praktilise töö käigus modelleeritakse erinevaid 
+andmestruktuure, luuakse andmebaase ja töötatakse SQL-keelega.
+Anda ülevaade andmebaaside kavandamise metoodikatest, andmebaaside loomise ning käsitlemise meetoditest ja 
+andmebaasisüsteemide kasutamisest infosüsteemide loomisel.
+Kursuse läbinud üliõpilane:
+- teab andmemudeli koostamise protsessi, kasutatavaid tehnikaid ning kuidas kasutada andmekäsitluskeelt SQL.
+- teab andmekäsitluse optimeerimise tehnikaid, lukustusmehhanisme andmebaasides ja lukustamisega kaasnevaid probleeme.
+- teab normaliseerimise ja denormaliseerimise elementaarseid reegleid, erinevate normaalkujude anomaaliaid.
+- mõistab kasutajaõigustest tulenevaid probleeme.
+- ülevaadet andmebaaside haldamiseks tehtavatest toimingutest ja indeksite kasutamisest andmebaasides.
+- loob iseseisvalt väiksemaid andmebaasisüsteemidel põhinevaid infosüsteeme.
+- osaleb suurte infosüsteemide arendusprotsessides.

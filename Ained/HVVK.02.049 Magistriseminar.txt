@@ -1,0 +1,7 @@
+Ettevalmistused magistritöö kirjutamiseks või magistriprojekti läbiviimiseks.
+Arendada süvendatult uurimistöö tegemise ja kirjutamise või magistriprojekti teostamise oskusi.
+Üliõpilane on:
+- koostanud magistritöö või magistriprojekti kirjaliku kavandi, milles on sõnastanud selgelt lõputöö teema, eesmärgid, teoreetilised ja metodoloogilised lähtekohad ning töö läbiviimise ajakava;
+- võimeline analüüsima potentsiaalseid riske ja probleeme ning võimalusi nende lahendamiseks;
+- kaardistanud ära magistriprojekti või magistritöö valmimise jaoks vajalikud tehnilised nõuded;
+- moodustanud magistriprojekti jaoks sobiliku meeskonna, samuti ajakava projekti toimumiseks.

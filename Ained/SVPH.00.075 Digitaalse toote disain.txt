@@ -1,0 +1,9 @@
+Digitaalsetest pädevustest on kaasaegses maailmas kujunenud esmavajalikud oskused igapäevaelus edukalt hakkama saamiseks ning tööturul konkurentsivõimelisena püsimiseks. Antud kursus keskendub spetsiifilisemalt graafilisele sisuloomele digitaalse toote loomise kontekstis, hõlmates ka kasutajakogemuse disaini. Kasutajakogemuse disainer kujundab tehnoloogia ja inimese vahelist suhtlust, luues näiteks mobiili- ja veebirakendusi, isesõitvate autode ja robotite kasutajaliideseid, aga ka e-teenuseid ja interaktiivseid platvorme. 
+Esimeses kolmes loengus käiakse läbi kasutajakogemuse disainiprotsessi elementaarsed etapid, jõudes kasutaja vajaduste kaardistamisest ja andmete süstematiseerimisest prototüübi disainimise ja testimise ning projekti üleandmiseni. Sellele järgneb 11 kohtumist praktilise digidisaini teemal koos vastavate harjutustega. Kursuse võtab lõpus kokku kasutajakogemust ja digidisaini ühendav digitaalse toote prototüübi loomine.
+Anda tulevastele lõpetajatele (1) terviklik ja praktiline ülevaade digitaalse toote arendusprotsessist alustades kasutajate vajaduste kaardistamisest kuni graafilise disaini põhimõteteni, mis võimaldab lõpetajatel edaspidi algaja tasemel sarnaseid ülesandeid iseseisvalt täita ning lisaks (2) ülekantavaid oskusi disaini ja kujunduse vallast, mida rakendada ka teistes valdkondades.
+Kursuse läbinud üliõpilane: 
+- Kasutab ideearenduses funktsionaalset kombinatoorikat.
+- Kasutab ideearenduses GROW ja SMART täpsustamise meetodeid.
+- Loob digitaalseid vahendeid kombineerides algupärast sisu.
+- Teostab elementaarset kasutajakogemuse disainiprotsessi, jõudes kasutaja vajaduste kaardistamisest ja andmete süstematiseerimisest prototüübi disainimise ja testimise ning projekti üleandmiseni.
+- Omab ülevaadet erinevatest kasutajaliideste tüüpidest.

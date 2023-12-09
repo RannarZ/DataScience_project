@@ -1,0 +1,3 @@
+Keele C saamislugu, loomise põhjused ja eesmärgid; C kui süsteemiprogrammeerimise keel; C-programmi struktuur, makrovahendid, standardfunktsioonide tee-gid; andmetüübid ja -struktuurid, viidatüüp ja dünaa-miline mälujaotus; juhtimisstruktuurid; alamprogram-mid ja funktsioonid; sisend ja väljund; katkestusete töötlemine (DOS ja BIOS); eraldi transleeritavad alamprogrammid.
+Omandada C-keel
+Kursuse läbinu teab C-keele võimalusi ja suudab ot-sustada, milliste ülesannete programmeerimiseks on see keel otstarbekohane; oskab lugeda ja kirjutada C-programme (sh. madalama taseme programme), oskab programme komplekteerida, siluda ja testida.

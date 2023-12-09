@@ -1,0 +1,9 @@
+Magistrieksam koosneb kahest osast:
+1) Teoreetiline osa: kirjalik test ja ühe juhtumi või ülesande lahendamine, millega kontrollitakse üliõpilase teoreetilisi teadmisi õpetajakoolituse kutseõpingute alusmooduli  raames.
+2) Praktiline uurimuslik osa, millega üliõpilane tõendab oskusi kutsetööks ja kutsetöös esineda võivate probleemide teadus- ja tõenduspõhiseks lahendamiseks. Üliõpilane koostab uurimuse (tegevus- või arendusuuringu) vastavalt lõpueksami praktilise osa kirjutamise ja vormistamise juhendile (moodles). Tegevusuuringu puhul on eelduseks, et üliõpilane töötab koolis või on õpetajakoolituse õpingute raames põhipraktikal.
+Suunata üliõpilast erialase, pedagoogilise või didaktilise probleemi uurimisele, töö käigus leitavale lahendusele või oluliste järelduste tegemisele toetudes adekvaatsetele meetoditele ja allikatele.
+1) oskab rakendada omandatud teadmisi erialaste või pedagoogilismetoodiliste probleemide sõnastamisel ja vastavate uuringute planeerimisel ja läbiviimisel;
+2) tunneb pedagoogika põhimõisteid, olulisemaid teooriaid ja käsitlusi ning uurimismeetodeid;
+3) oskab leida ja analüüsida erialast infot (ka võõrkeelset) ning seostada oma uurimusega;
+4) oskab oma mõtteid arusaadavalt presenteerida, oponentidega diskuteerida ja oma argumenteeritud seisukohti kaitsta;
+5) oskab adekvaatselt hinnata oma töö tulemusi ja näha võimalusi jätkuõppeks.

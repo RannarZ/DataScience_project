@@ -1,0 +1,23 @@
+Rahvusvahelise arbitraažimenetluse näol tegemist on ühe komplekssema, samas universaalsema vaidluste lahendamise meetodiga. Seminar sisaldab järgmisi rahvusvahelise arbitraažimenetluse aspekte:
+
+1.	Rahvusvaheline arbitraaž vaidluse lahendamise viisina, sh selle erinevus teistest vaidluste lahendamise meetoditest (kui ka seos nendega) ning eelised ja puudused
+2.	Rahvusvahelise arbitraažimenetluse erinevad vormid 
+2.1.	Kommerts- või investeerimisarbitraaž
+2.2.	Institutsionaalne või ad hoc arbitraaž
+2.3.	Muud vormid
+3.	Rahvusvahelise arbitraaži olulisemad institutsioonid ja nende reeglid
+4.	Arbitraažikokkulepe kommerts- ja investeerimisvaidlustes
+5.	Rahvusvahelise arbitraaži õiguslik raamistik (sh lex arbitri põhimõte, New Yorgi Konventsioon, menetlusõiguslikud reeglistikud, IBA Rules on the Taking of Evidence in International Arbitration) 
+6.	Kohtu ning poolte ja nende esindajate roll menetluses
+7.	Eksperdid, tunnistajad
+8.	Arbitraažimenetluse etapid
+9.	Menetlusdokumendid ja nende koostamine
+10.	Menetlusstrateegia
+11.	Ristküsitlus
+12.	Arbitraažimenetluse istung
+13.	Arbitraažiotsuse tunnustamine ja täitmine
+Aine eesmärgiks on anda osalejatele teoreetilised teadmised rahvusvahelisest arbitraažimenetluse põhiprintsiipidest ning rahvusvahelise arbitraažimenetluse erinevusest teistest vaidluste lahendamise meetoditest (sh kohtumenetlus, lepitusmenetlus, kokkuleppemenetlus). Lisaks on aine eesmärgiks rahvusvahelise arbitraaži praktiliste kogemuste omandamine (dokumentide kooostamine ja simulatsioon arbitraažimenetlus).
+*	teab ja oskab selgitada rahvusvahelise arbitraaži olemust, selle ülesehitust, õiguslikku raamistikku ning erinevust teistest vaidluse lahendamise meetoditest;
+*	teab arbitraažiotsuste tunnustamise ja täitmise põhimõtteid;
+*	tunneb arbitraažimenetluses menetlusdokumentide koostamise põhimõtteid ja oskab neid praktikas rakendada;
+*	tunneb ristküsitluse põhiprintsiipe ja tehnikaid ning oskab neid praktikas rakendada.

@@ -1,0 +1,8 @@
+Kursusel tutvutakse ruumiandmete rakendusvõimalustega humanitaarteadustes, kasutades vabavaralisi rakendusi ja tarkvara (QGIS). Õpe toimub praktikumidena, aine läbimiseks tuleb lahendada jooksvalt koduseid ülesandeid ning esitada üks praktiline töö.
+Aine eesmärgiks on tutvustada põhilisi geoinfosüsteemide kasutusvõimalusi humanitaarteadustes ning sellega seotud tarkvara ning valmisrakendusi. Ühelt poolt võimaldab ruumiandmete ja humanitaarteadustes kasutatavate andmete ühendamine olemasolevaid kohti mitmekülgsemalt iseloomustada, teiselt poolt annab see humanitaaria andmete analüüsile ka selge ruumilise dimensiooni või võimaldab esitada hoopis uusi uurimisküsimusi.
+Aine läbinu:
+*	teab, mis on geoinfosüsteemid;
+*	tunneb digihumanitaarias enamlevinud ruumiandmete rakendusvõimalusi;
+*	tunneb algtasemel ruumiandmete visualiseerimise ja analüüsi tarkvara ja oskab kasutada erinevaid valmisrakendusi;
+*	tunneb georefereerimise põhimõtteid;
+*	oskab kombineerida ruumiandmeid muude digitaalsete andmekihtidega (pildid, tekstid, sagedusinfo jne).

@@ -1,0 +1,6 @@
+Kursus katab järgnevaid teemasid: kommunikatsiooni mudel, kanalid, Hammingu kaugus, maksimaalse tõepära dekodeerimine, lineaarsed koodid, Hammingu koodid, Liitkoodid, Singeltoni tõke, Hammingu tõke, Gilbert-Vashamovi tõke, Reed-Solomoni koodid ja nende dekodeerimine, Tanneri graafid, Ekspanderkoodid, võrkude koodid.
+Tutvustada tudengitele kodeerimisteooria põhilisi tööriistu, mida saab hiljem kasutada rakendusteks kommunikatsiooni, võrkude, krüptograafia ja andmete arhiveerimise valdkondades.
+Pärast kursuse läbimit oskab tudeng:
+*  kasutada kodeerimisteooria põhitööriistu, nagu lineaarsed koodid, generaator ja paarsuskontrollimaatriksid ning dekodeerimisalgorimtid;
+*  lugeda ja mõista keskmise raskusega matemaatilisi ja insenertehnilisi teadusartikleid antud valkdonnas;
+*  Konstrueerida erinevate praktikas tekkivate olukordade jaoks sobivaid kodeerimis ja dekodeerimismeetodeid.

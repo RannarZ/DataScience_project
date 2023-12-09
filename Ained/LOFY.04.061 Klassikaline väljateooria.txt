@@ -1,0 +1,6 @@
+Kursus käsitleb klassikalisi relativistlikke välju tasases aegruumis, vaadeldes reaalset ja kompleksset Klein-Goroni välja, Maxwelli ja Yang-Millsi välju ning Diraci välja. Lähtudes mõjufunktsionaalist tuletatakse liikumisvõrrandid ja leitakse nende lahendid, kirjeldatakse väljade erinevaid sümmeetriaomadusi ning sümmeetria spontaanset rikkumist jõudes lõpuks elementaarosakeste standardmudeli täieliku lagranžiaanini. Kursuse viimases osas tutvustatakse soliton- ja instantonlahendeid.
+Kursuse eesmärk on anda sissejuhatus kaasaegsesse väljateooriasse ja seletada lahti elementaarosakeste standardmudel.
+Kursuse järel üliõüpilane:
++ tunneb Lie rühmade teooria aluseid (rühma aksioomid, esitused, generaatorid, algebra, Casimiri invariandid) ning O(N), U(N), Lorentzi ja Poincare rühmi ja nende esitusi;
++ saab aru relativistlike väljade mõjufunktsionaalide konstrueerimise printsiipidest, oskab etteantud mõjusfunktsionaalist tuletada liikumisvõrrandid ja jäävad suurused ning lugeda välja, millise dimensiooniga on mõjus esinevad suurused ja milliseid interaktsioone see kirjeldab;
++ tunneb elementaarosakeste standardmudeli kõiki välju ja parameetreid, sh Higgsi mehanismi.

@@ -1,0 +1,10 @@
+Sissejuhataval kursusel tutvustatakse Python'i ja R-i keskkonnas käsurealt töötamise olemust, võtteid ja tööriistu.
+Antakse ülevaade nö igapäevaste GIS-ülesannete lahendamise võimalustest Python'i ja R'i keskkonnas. Seejuures on rõhuasetus erinevate GIS-iga seotud ülesannete lahendamise dokumenteerimisel ja automatiseerimisel. 
+Ülesanded ei eelda varasemaid teadmisi vastavatest tööriistadest ja nende kasutamisest. Tegemist on rakendusliku kursusega, mis tähendab valdavalt töötamist arvutiga ning ülesannete lahendamist.
+Kursuse läbija saab aru ja oskab kasutada graafilise kasutajaliideseta ruumilise ja statistilise andmeanalüüsi meetodeid laialt levinud skriptimiskeskkondades Python ja R.
+Õpib tundma Python'i ja R-iga töötamise põhialuseid ning tunneb peamisi töövõtteid ja analüüsivahendeid.
+Omandab ülevaate olulisematest GIS-analüüsiks vajalikest Python'i ja R-i laiendustest.
+Saab aru, kuidas integreerida Python'it ja R'i teiste tarkvaraplatvormidega.
+On võimeline rakendama ja lahendama tavalisemaid andmetöötluse ülesandeid Python'i ja R'i tööriistade abil. 
+Oskab vastata erinevate andmetüüpidega (sh ruumilised)  seotud uurimisküsimustele.
+Oskab läbi viia, automatiseerida ja dokumenteerida standardseid GIS-analüüsiga seotud ülesandeid Pythoni ja R'i skriptimiskeskkonnas.

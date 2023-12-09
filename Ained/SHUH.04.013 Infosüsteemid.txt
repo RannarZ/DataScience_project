@@ -1,0 +1,21 @@
+1. Infosüsteemid (globaalses) maailmas.
+2. Infosüsteemid organisatsioonis. Organisatsiooni analüüs ja toimimsprotsessid, põhi- tugifunktsioonid. 
+3. Tehnoloogiline infrastruktuur organisatsioonis ja infosüsteemide korralduses.
+4. Sotsiaalsed, eetilised ja turvalisusega seotud aspektid.
+5. Infosüsteemide arendus ja juurutusprojekt, rahvusvaheline dimensioon.
+6. Avaliku ja erasektori infosüsteemid, andmebaasid.
+7. Infosüsteemid teadmusjuhtimises ja otsustusprotsessides.
+Kursuse eesmärk on anda ülevaade infosüsteemide rollist kaasaegses organisatsioonis. Tutvustatakse infosüsteemide tüüpe, arendust ja haldust.
+Õppeaine läbinud üliõpilane:
+- tunneb ja oskab kasutada infosüsteemide ja andmebaasidega seotud põhimõisteid
+- teab infosüsteemide rolli kaasaegses organisatsioonis
+- oskab nimetada põhilisi probleeme seoses infosüsteemide eetilisuse ja privaatsusküsimustega
+- oskab pakkuda lahendusi andmete kaitsmiseks
+- teab, miks on andmete haldamine kaasaegses organisatsioonis keeruline ja samas oluline
+- teab organisatsiooni põhiprotsesse toetavate infosüsteemide põhilisi tüüpe ja nende üldist toimimisloogikat
+- teab organisatsiooni tugiprotsesse toetavate infosüsteemide põhilisi tüüpe ja nende üldist toimimisloogikat
+- analüüsib infosüsteemide tüüpide peamisi funktsioone ja oskab määratleda infosüteemide eesmärke
+- teab avaliku sektori infosüsteemide õigulikke ja talituslikke eripärasid
+- teab, mis on organisatsiooni IT infrastruktuur, oskab kirjeldada selle toimimist ja haldust
+- tunneb infosüsteemide elukäiku ja oskab seda näidete varal analüüsida
+- tunneb infosüsteemi arendusprojekti läbiviimist: projekti etappe ning etappidega seotud tegevusi ja rolle.

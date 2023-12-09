@@ -1,0 +1,9 @@
+Ökotehnoloogia (Ecotechnology, Ecological engineering) on selliste jätkusuutlike ökosüsteemide rajamine ja kujundamine, mis integreerivad inimühiskonda loodusega selliselt, et sellest on kasu mõlemale. 
+
+Kursuse ülesanne on anda ülevaade erinevatest ökotehnoloogiatest: põhiprintsiibid; ökoloogilise arhitektuuri, ehituse ning materjalide ja tehnoloogiate hindamise üldpõhimõtted (nt olelustsükli hindamine, säästlike ehitiste kavandamine, säästvad ehitusmaterjalid, looduslikud värvid, ehitistes energia-säästmise tehnoloogiad, ehitiste passiivne energia, passiivmajad, sisekliima); säästvad veemajandus- ja puhastustehnoloogiad (nt rohelised infrastruktuurid, säästlikud drenaažisüsteemid, tehismärgalad); ökosüsteemide taastamine ja ökotehnoloogiad säästvas põllumajanduses. Kursuse osana peavad tudengid kirjutama ja esitama teadustöödel põhineva aruande.
+Anda ülevaade ökotehnoloogiliste põhimõtete rakendamisest erinevates valdkondades. Kursus koosneb loengutest ja seminaridest. Käsitletakse ökoloogilisi tehnoloogiad, sh energeetika (tuule-, vee-, päikeseenergia), ehitus (liginull,- null- ja negatiivse energiatarbega hooned, passiivhooned), veekasutus (puhta vee ja reovee käitlus), ökoloogiline arhitektuur.
+- teab ökotehnoloogia põhiprintsiipe ja mõisteid;
+- eristab ja oskab kirjeldada ökotehnoloogilisi lahendusi veekasutuses (puhas- ja reovesi); energiavajaduses ja -tõhususes, sh. ehituses; ökosüsteemide taastamises ning ökoloogilises põllumajanduses;
+- on teadlik keskkonnaprobleemide ennetamise ja lahendamise võimalustest;
+- analüüsib iseseisvalt ühe etteantud ökotehnoloogia valdkonna teadustöö tulemusi ja järeldusi ning koostab rühmatöö vormis läbi töötatud teadustööde põhjal raporti;
+- osaleb õppekäigul erinevates ökotehnoloogiate rakenduskohtades.

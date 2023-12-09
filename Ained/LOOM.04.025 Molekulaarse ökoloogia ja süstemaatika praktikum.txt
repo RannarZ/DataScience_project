@@ -1,0 +1,16 @@
+Praktikumi raames käsitletakse järgmisi aspekte:
+- DNA ekstraheerimine ja puhastamine, analüüsiks sobivate lookuste valik, PCR ja sekveneerimine;
+- Diskuteeritakse analüüsi võimalusi vanast ja lagunenud materjalist;
+- Järjestuste töötlemine analüüsikõlbulikuks, nende joondamine;
+- Fülogeneesi rekonstruktsioon;
+- Bioloogiliste probleemide lahendamine erinevate molekulaarsüstemaatika meetodite abil.
+
+NB! Laboripraktikumides osalemine on kohustuslik. Andmeanalüüsi toimub valdavalt iseseisvalt ja selleks kohale tulema ei pea.
+Praktikum annab igale bioloogile vajalikud praktilised oskused DNA järjestuste määramiseks ja fülogeneetiliste  analüüside teostamiseks
+Õppekava läbinud üliõpilane:
+1. tunneb molekulaarse süstemaatika põhilisi uurimismeetodeid 
+2. eristab erinevad ainekäsitluse viisid molekulaarses süstemaatikas ja hindab kriitiliselt
+erinevate meetodite rakendusvõimalusi;
+3. loob interdistsiplinaarseid seoseid molekulaarse süstemaatika ja teiste bioloogia ainevaldkondade vahel;
+4. seostab õpitu oma varasema õpikogemusega;
+5. demonstreerib süvendatud praktilisi oskusi valitud uurimisvaldkonnas

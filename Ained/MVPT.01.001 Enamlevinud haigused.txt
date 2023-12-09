@@ -1,0 +1,6 @@
+Kursuse käigus omandatakse teadmisi enamlevinud haigustest esmatasandi meditsiinis.
+Ülevaade enamlevinud haigustest ja terviseprobleemidest ning nende käsitlemisest esmatasandi meditsiinis.
+Kursuse läbimise järgselt üliõpilane:
+- tunneb levinumaid terviseprobleeme ja oskab nimetada nende diagnoosimise ja ravi põhimõtteid esmatasandil;
+- tunneb haiguste ennetamise põhimõtteid;
+- eristab erinevaid tõenduspõhise meditsiini sekkumisi.

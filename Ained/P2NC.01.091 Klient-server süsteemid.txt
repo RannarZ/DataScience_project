@@ -1,0 +1,11 @@
+HTML ja CSS kasutamine veebilehtede ehitamiseks ning kujundamiseks. JS kasutamine veebilehele interaktiivsuse lisamiseks. PHP kasutamine serveris veebilehe info hankimiseks ja töötlemiseks. MySQL kasutamine lihtsa andmebaasirakenduse teostamisel.
+Anda ülevaade erinevatest veebipõhiste infosüsteemide arendamise tehnoloogiatest ja olulisematest standarditest. Õppeaine loob oskusi lihtsate ja praktiliste veebipõhiste infosüsteemide ehitamiseks kasutades erinevaid tehnoloogiaid. Õppeaine annab õppurile alusteadmised ja praktilised oskused teise taseme võrgutehnoloogia ainete õppimiseks
+Kursuse läbinud üliõpilane: 
+
+- koostab HTML lehti kujundades neid Css-iga 
+
+- koostab  JS skripti ja  PHP rakendust. 
+
+- koostab MySQL päringuid ning  kasutab neid PHP rakendustes  
+
+- loeb ja selgitab  lihtsamaid HTML, CSS, JS, PHPkoode ja MySQL päringuid.

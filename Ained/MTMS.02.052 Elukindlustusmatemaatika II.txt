@@ -1,0 +1,5 @@
+Kursusel antakse ülevaade pidevate rahavoogudega neto- ja brutoreservi arvutustest ning tutvustatakse mitme-seisundiga mudeleid (sealhulgas pensionikindlustus) kasutades stohhastilisi meetodeid.
+Aine eesmärgiks on anda ülevaade elukindlustuse kaasaegsetest matemaatilistest mudelitest.
+Aine läbinud üliõpilane
+- Mõistab brutopreemiat ja preemia reserve.
+- Teab ja oskab kirjeldada elukindlustuse mitme-seisundiga mudeleid.

@@ -1,0 +1,11 @@
+Kursus annab ülevaate eetilistest ja õiguslikest väljakutsetest tehisintellekti süsteemide ja (tarkade) robotite kasutamisest kehtivas (Euroopa) õigusnormistikus ning (tulevikus) kehtivatest võimalustest nende tehnoloogiate kasutamist reguleerida.
+Kiire areng tehisintellekti (TI) ja robootika valdkonnas (mis tihti töötab teatud vormis TI tehnoloogial) esitab väljakutseid traditsioonilisele õiguse valdkonnale. TI süsteemid on laialdaselt kasutusel, võtmaks vastu otsuseid, mille kaugele ulatuvad tulemid avaldavad mõju indiviididele ja ühiskonnale.
+Ainekursus uurib võimalusi, aga ka väljakutseid, mida TI süsteemid esitavad praegu kehtivale (Euroopa) õiguskorrale.
+Lisaks annab see ülevaate mitmest võtmetähtsusega initsiatiivist eetika ja õigusregulatsioonide osas rahvusvahelisel ja Euroopa tasemel.
+Tudengid, kes läbivad õppeaine, on omandanud teadmised ja arusaamise: 
+- viimase aja tehnoloogia arengutest TI ja robootika valdkonnas;
+- aktuaalsematest eetilistest ja õiguslikest küsimuskohtadest, mis on tekkinud TI süsteemide ja (tarkade) robotite kasutamisega;
+- kohaldatavast õigusnormistikust, kontseptsioonidest, printsiipidest ning TI süsteemidele ja robootikale kohaldatavatest Euroopa õigusraamistiku regulatsioonidest ning Euroopa Kohtu ja Euroopa Inimõiguste Kohtu viimasest kohtupraktikast;
+- võtmetähtsusega eetika ja regulatsioonide initsiatiividest rahvusvahelisel ja Euroopa tasandil;
+- regulatiivsetest võimalustest, osates hinnata kehtiva õigusliku raamistiku moderniseerimise poolt- ja vastuargumente;
+- kuidas analüüsida tehnisintellekti ja robootikat puudutavaid õiguslikke küsimusi, saades sealjuures aru nende süsteemide kasutamise majanduslikest, poliitilistest ja sotsiaalsetest mõjuteguritest.

@@ -1,0 +1,9 @@
+E-õppe meetodid, e-kursuse kavandamine ja kujundamine,  õppijate hindamine e-keskkonnas,  e-kursuse õppematerjalide loomine.
+Tutvustada üliõpilastele erinevaid kaasaegseid e-õppe meetodeid ja e-õppe programme. Anda üliõpilastele ülevaadet õppeinfosüsteemidest ning nende kasutamise võimalustest erinevate sihtrühmade poolt (koolijuhid, õpetajad, klassijuhatajad, õpilased, lastevanemad).
+Kursuse läbinud üliõpilane:
+- oskab kavanda digipädevusi toetavat õppetööd (sh e-õpe) ja otsida selleks vajalikku infot;
+- oskab kasutada kursusel käsitletud digitehnoloogilisi vahendeid õppetöö läbiviimisel;
+- on suuteline looma uusi ja muutma juba olemasolevaid digitaalseid õppematerjale (tekstid, pildid, heli ja video, interaktiivsed õppematerjalid);
+- teab võimalusi, kuidas digitaalset sisu turvaliselt veebikeskkondades jagada;
+- mõistab autorikaitse olulisust digitaalsete õppematerjalide koostamisel;
+- oskab õppetöö kavandamisel ja läbiviimisel kasutada erinevaid digitehnoloogilisi kommunikatsioonivahendeid (nt. videokonverentsi kavandamine ja läbiviimine)

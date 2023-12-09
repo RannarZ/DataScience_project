@@ -1,0 +1,6 @@
+Kursusel omandatakse praktiline kogemus uurimustööst ühe konkreetse teoreetilise informaatika-alase töö osas Andmeturbe ja teaoreetilise informaatika õppetooli juures (nt matemaatilise tulemuste saamine, algoritmi / tarkvara väljatöötamine / rakendamine jne.) Projekti uurimissuund ja sisu lepitakse kokku juhendajaga.
+Kursuse eesmärgiks on anda üliõpilastele teadmisi ja oskusi uurimistööks teoreetilises informaatikas ja sellega seotud valdkondades. Üliõpilased kogevad, kuidas viiakse läbi uurimistööd Andmeturbe ja teoreetilise arvutiteaduse õppetooli juures ühe konkreetsete teadusteema raames (nt matemaatilise tulemuste saamine, algoritmi / tarkvara väljatöötamine / rakendamine jne)
+Kursuse edukal läbimisel on üliõpilane omandanud:
+- Kuidas rakendada loengukursustel omandatud teoreetilisi teadmisi suuremas uurimuslikus ülesandes.
+- Kuidas suhelda teiste uurimisrühma liikmetega (nt. juhendajaga) uurimustöö olemusest ja lahendustest.
+- Töötada iseseisvalt (juhendaja suunamisel) lahtise ülesande lahendamisel.

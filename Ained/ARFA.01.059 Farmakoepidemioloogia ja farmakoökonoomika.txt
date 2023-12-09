@@ -1,0 +1,7 @@
+Ainekursuse jooksul käsitletakse järgmisi teemasid:
+parmakoepidemioloogia ja farmakoökonoomika olemus ja uurimismeetodid, randomiseeritud kliinilised uuringud; ravimite kasutamine Eestis; biostatistilise analüüsi põhimõtted.
+Tutvustada farmakoepidemioloogia ja farmakoökonoomika mõisted ja vastavaid uurimismeetodeid. Õppida kriitiliselt analüüsima kirjeldatud valdkondade teadusartikleid ja praktiliselt kasutama farmakoökonoomika ja ravimite kasutamise uurimismeetodeid. Tutvuda ravimite kliiniliste uuringute põhimõtetega.
+- teab farmakoepidemioloogia, farmakoökonoomika ja ravimite kliiniliste uuringute mõisteid; 
+- oskab leida ja sisuliselt hinnata loetletud valdkondadesse puutuvat teavet; 
+- on võimeline omandatud teadmisi süstematiseerima ja vajadusel praktiliselt kasutama;
+- oskab vajaliku teabe otsimisel kasutada infotehnoloogia võimalusi.

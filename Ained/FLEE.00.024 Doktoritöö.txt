@@ -1,0 +1,15 @@
+Doktoritöö on iseseisev uurimistöö, milles on esitatud konkreetse teadusliku probleemi
+argumenteeritud originaalne lahendus ja mille tulemusi on rahvusvahelises erialakirjanduses
+piisavalt avalikustatud. Väitekiri peab sisaldama:
+1.1.1 ülevaadet uurimisvaldkonna hetkeseisust ja uurimisprobleemi kohast selles;
+1.1.2 uurimisülesande püstitust;
+1.1.3 kaitsmisele esitatavaid väiteid;
+1.1.4 metoodika kirjeldust;
+1.1.5 uurimisülesande lahendamise käiku ja tõestust;
+1.1.6 kokkuvõtet;
+1.1.7 kasutatud kirjanduse loetelu;
+1.1.8 ammendavat eestikeelset kokkuvõtet töö eri osade sisu kohta, kui väitekiri on
+kirjutatud võõrkeeles, ning ammendavat võõrkeelset kokkuvõtet töö kõigi osade sisu kohta,
+kui väitekiri on kirjutatud eesti keeles.
+Doktoritöö eesmärgiks on rakendades omandatud erialapädevusi luua iseseisev, uut teaduslikku informatsiooni sisaldav uurimus, milles on esitatud eriala oluliste teadusprobleemide argumenteeritud originaalne lahendus.
+Doktorant on omandanud iseseisva teadusliku uurimistöö oskused ja meetodid, oskab püstitada oma teaduserialal olulisi uurimisprobleeme ja pakkuda neile argumenteeritud originaalseid lahendusi, valdab erialase andmekogumise ja -analüüsi metoodikat, omab kõrgtasemel teadusliku analüüsi ja kriitika võimet, tal on oskus kirjutada rahvusvahelisel tasemel teaduspublikatsioone.

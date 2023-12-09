@@ -1,0 +1,7 @@
+Kursuse esimene osa käsitleb Matlabi kasutajaliideseid ja põhilisi funktsioone. Kursuse teine osa on graafikute tegemisest ja nende redigeerimisest. Kursuse kolmas osa käsitleb optimeerimist. Kursuse viimane osa vaatab, kuidas kirjutada kiirelt jooksvat Matlabi koodi.
+Õppeaine eesmärgiks on anda sissejuhatus koodi kirjutamisest Matlabis.
+Peale kursuse läbimist üliõpilane oskab
+- kirjutada skripte ja funktsioone Matlabis
+- kasutada optimeerimisfunktsioone lokaalsete ja globaalsete optimumide leidmiseks Matlabis
+- graafiliselt kujutada andmeid, vektoreid ja hindamistulemusi Matlabis
+- seadistada Matlabi koodi arvutuste kiirendamiseks

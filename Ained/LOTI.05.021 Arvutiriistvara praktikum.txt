@@ -1,0 +1,9 @@
+Kaheksa praktikumi, milles tutvutakse personaalarvutite ehitusega. Harjutatakse nende koostamist ja parandamist, samuti tarkvara paigaldamist.
+Kursuse eesmärgiks on anda tulevastele IKT erialal töötavatele spetsialistidele praktiline arvuti koostamise, parandamise ja seadmete konfigureerimise kogemus.
+Pärast aine läbimist oskab üliõpilane:
+1. panna komponetidest arvutit kokku;
+2. ehitada arvutitest kohtvõrku (sh seadistada WiFi ruuterit) ning tuua välja erinevate võrguseadmete mõju võrgu kiirusele;
+3. sektsioneerida arvuti kõvakettaid, paigaldada operatsioonisüsteemi ning luua virtuaalmasinaid;
+4. sõnastada erinevate kõvaketta tüüpide ja ühendusliideste võimalusi ja piiranguid;
+5. hinnata erinevate parameetrite/komponentide mõju arvuti jõudlusele;
+6. koostada ja vormistada etteantud nõuetele (s.h. eesti õigekeel) vastavaid praktikumiaruandeid.

@@ -1,0 +1,5 @@
+Kursuses käsitletakse järgmisi teemasid: üldistatud lineaarsed mudelid ja nende laiendamine, mudeli spetsifikatsioon, parameetrite ja täpsuse hindamine; mudeli kriitika; kirjeldavad, ennustavad ja põhjuslikud mudelid, uuringutulemusi mõjutavad tegurid ja nende kontroll, mõju tugevuse hindamine, tavaline lineaarse regressiooni mudel pidevatele väljunditele; mudelid riskide vahe, šansisuhte ja suhtelise riski hindamiseks, Poissoni regressioonimudel ja Cox'i võrdelise riski mudel intsidentsi määrade ning ellujäämise hindamiseks, tingimuslik logistiline regressioon sobitatud juhtkontroll uuringus. Üledispersioon, pseudo-tõepärasuhe, juhuslike efektidega mudel ja teised laiendused.
+Õpetada statistilise modelleerimise (sh prognoosimudelite) kasutamise võimalusi rahvatervises.
+Õppeaine läbinu:
+- oskab valida statistilisi mudeleid andmeanalüüsiks
+- kasutada statistilisi erinevaid mudeleid, mis võtavad arvesse segavaid tegureid

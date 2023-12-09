@@ -1,0 +1,3 @@
+Ringid, moodulid, moodulite kategooriad, endomorfismide ringid, otsekorrutised, otsesummad, poollihtsad moodulid, lõplikult moodustatud moodulid, ringi radikaal, projektiivsed, injektiivsed ja lamedad moodulid, ringide Morita ekvivalentsus ja Morita duaalsus.
+Aine eesmärk on anda põhiteadmised klassikalisest ühikelemendiga assotsiatiivsete ringide ja üle nende vaadeldavate moodulite teooriast.
+Kursuse läbinud üliõpilane tunneb klassikalise ringiteooria ja moodulite teooria põhimõisteid ja põhitulemusi.

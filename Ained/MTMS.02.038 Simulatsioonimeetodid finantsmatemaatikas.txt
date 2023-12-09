@@ -1,0 +1,9 @@
+Tutvutakse simulatsioonimeetodite rakendusvõimalustega optsioonide hindade ja hinnatuletiste arvutamisel ning vaadeldakse nõutud täpsusega tulemuste saavutamise erinevaid võtteid
+Aine eesmärgiks on 
+- Anda ülevaade simulatsiooni- ehk Monte Carlo meetodite kasutusvõimalustest finantsmatemaatika, eriti tuletisväärtpaberite hindamisega seotud küsimuste lahendamisel
+- Anda praktilised oskused simulatsioonimeetodite efektiivseks kasutamiseks finantsmatemaatika ülesannete lahendamisel.
+Aine läbinud  üliõpilane 
+- teab Monte-Carlo meetodi põhimõtteid ning veahinnanguid; 
+- oskab genereerida stohhastiliste diferentsiaalvõrrandite lahendite, sealhulgas aktsiahinna, trajektoore mitmesuguste turumudelite korral ning teab, kuidas seda oskust kasutada simulatsioonimeetodite konstrueerimiseks;
+- tunneb Monte-Carlo meetodi koonduvuse kiirendamise võtteid (antiteetiliste juhuslike suuruste kasutamine, kontrollmuutujate kasutamine, kihtvalimi meetod) ning oskab neid rakendada finantsoptsioonide hindade ja hinnatuletiste arvutamisel simulatsioonimeetoditega;
+- teab kvaasijuhuslike arvude mõistet ning kasutamise põhimõtteid, oskab neid kasutada optsioonide hindade arvutamisel.

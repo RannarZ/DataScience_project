@@ -1,0 +1,13 @@
+Kursus on mõeldud andmetöötluse põhiliste ideede, meetodite ja tehnikate tutvustamiseks käitumisteadusliku informatsiooni analüüsimisel. Käsitlus on rakenduslik ja suunatud tulemuste interpretatsioonile.
+Õpitakse tundma olulisemaid kirjeldava statistika mõisteid ja tehnikaid ning klassikalist statistiliste otsustuste printsiipi. Samuti tutvutakse olulisemate meetoditega valimite võrdlemiseks ning seoste analüüsiks. Kõne all on kaasaegse mitmemõõtmelise analüüsi põhilised ideed. Kitsamalt statistiliste meetodite kõrval käsitletakse ka andmekogumi struktuuri küsimusi, seda niihästi konkreetse tarkvara raames kui ka üldiselt. Olulisel kohal iga töötlusmeetodi korral on statistiliste tulemuste esitluse küsimused.
+Kursuse eesmärkideks on:
+1.	põhiliste  käitumisteadustes kasutatavate andmeanalüüsi meetodite tutvustamine, 
+2.	 nende meetodite rakendamine konkreetsete uurimisülesannete korral,
+3.	tutvustada statistilistest kokkuvõtete tegemise põhimõtteid ning neid tõlgendada uurimisülesandest lähtuvalt.
+Õppeaine eduka läbimise järel üliõpilane:
+
+1. teab peamisi statistika mõisteid
+2. oskab valida sobiva statistilise meetodi vastavalt oma andmetele ja hüpoteesile
+3. oskab teha kokkuvõtet saadud analüüsi tulemustest
+4. oskab analüüsi tulemusi tõlgendada vastavalt püstitatud hüpoteesile
+5. oskab kasutada programmi JASP statistiliste meetodite rakendamiseks

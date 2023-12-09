@@ -1,0 +1,7 @@
+Tarkvara, programmeerimine, programmeerimiskeele mõiste. Algoritmi mõiste, algoritmi struktuur - järjend, valik, iteratsioon. Programmi elemendid: väärtus, muutuja, andmetüüp, lause, juhtimisvoog. Programmeerimiskeele laused: muutuja kirjeldus, avaldis, omistamine, valik, tsükkel, tsükli katkestamine. Massiiv, massiivi töötlemine. Meetod (alamprogramm), parameetrid, tagastusväärtus. Sõnetöötluse elemendid. Mitmemõõtmeline massiiv. Veaolukordade töötlemine, erindid (exceptions). Ülevaade sisendist/väljundist, failid. Objektorienteeritud programmeerimise põhimõisted, klass, alamklass, pärimine, ülekate. Sissejuhatus graafilise kasutajaliidese realiseerimisse. Programmeerimise töövahendid, dokumenteerimine ja versioonihaldus
+1) arendada algoritmilist mõtlemist probleemide lahendamise kaudu;
+2) treenida rakenduste programmeerimist keeles Java;
+3) tutvustada Java arenduse töövahendeid ning häid programmeerimistavasid
+1. Saab aru teiste poolt koostatud Java programmidest. Tunneb ja oskab kasutada objektorienteeritud programmeerimise põhimõisteid: objekt, klass, alamklass, meetod, kapseldamine, pärilus, ülekate.
+2. On võimeline looma algoritme ülesannete lahendamiseks käsitletud teemade piires ning oskab etteantud algoritmi realiseerida Java programmina. 
+3. Üliõpilane tunneb ajakohaseid Java arenduse töövahendeid, s.h. elementaarset versioonihaldust, oskab leida tööks vajalikku informatsiooni, on valmis töötama meeskonna liikmena, tunneb koodistiili ja dokumenteerimise põhitõdesid. On valmis end täiendama.

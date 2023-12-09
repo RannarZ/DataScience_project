@@ -1,0 +1,8 @@
+Kursuse käigus saavad doktorandid ülevaate epidemioloogiliste uuringute kavandamise põhimõtetest. Vaadeldakse ja analüüsitakse avaldatud epidemioloogilisi töid kasutatud kavandite seisukohast. Antakse põhiteadmised iseseisva uurimustöö tegemiseks.
+Sissejuhatus epidemioloogia teooriasse ja praktikasse.
+Kursuse läbinul 
+* on ülevaade epidemioloogia kohast ja tähendusest teadus-distsipliinide seas;
+* oskus arvutada ja interpreteerida haiguse esinemise ning seoste erinevaid mõõdikuid ja arusaam, millistel uuringu kavanditel kirjeldatud mõõdikud põhinevad; 
+* tunneb peamisi uuringukavandeid, nende tugevusi ning piiranguid; 
+* teab ja oskab hinnata peamisi nihke allikaid epidemioloogilistes uuringutes; 
+* oskab rakendada epidemioloogilisi põhimõtteid teaduskirjanduse kriitilisel lugemisel ning tulemuste interpretatsioonil.

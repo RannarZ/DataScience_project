@@ -1,0 +1,10 @@
+Omakaalu-, kasus-, lume- ja tuulekoormused. Puidu mehaanilised omadused. Puidu ja puidupõhiste ehitusmaterjalide ja vastavate tarindite iseärasused; puittarindite kasutamise ajalugu. Kivitarindite mehaanilised omadused ja ajalugu. Puit- ja kivitarindite ning tarindiosade arvutused kande- ja kasutuspiirseisundis osavarutegurite meetodil. Puittarindite liited (sh kombinatsioonid teistel materjalidel põhinevate tarinditega).
+Anda oskus kontrollida ehitustarindite tugevust vastavalt standarditele.
+Kursuse edukal läbimisel üliõpilane
+-	tunneb koormuste liike;
+-	tunneb puidu mehaanilisi omadusi;
+-	tunneb puidust ja kivist ehitustarindite omadusi ja nende kasutamise ajalugu;
+-	tunneb üldkasutatavaid tarindite arvutamise meetodeid;
+-	oskab määrata konstruktsioonidele mõjuvaid koormusi ja koostada koormuskombinatsioone;
+-	oskab kontrollida puit- ja kivitarindite tugevust ja püsivust;
+-	tunneb puittarindite liiteid.

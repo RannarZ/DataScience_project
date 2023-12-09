@@ -1,0 +1,7 @@
+Aine annab ülevaate domeenist kui sellisest, alates elektromagneetilisest spektrist kuni interneti arhitektuuri ja mobiilsete turgude taristuni. Luuakse alusteadmised arvutitest, võrgust, koodist, veebilehtede ülesehitusest, domeeninimede süsteemist jne. Omandatakse oskus kasutada IKT valdkonna põhisõnavara. Samuti käsitletakse IKT kaasaegseid rakendusi, arengutrende ning peamisi vaidlus- ja konfliktteemasid nii riikide kui kasutajagruppide tasandil.
+Ka annab kursus baasülevaate IT projekti peamistest etappidest (nõuete analüüs, disain, rakendamise, testimine ja kasutuselevõtt).
+Anda süsteemsed ja põhjalikud baasteadmised IT valdkonnast, arvutite ja arvutivõrkude ülesehitusest, nende rakendusest äris ja mõjust ühiskondlikele protsessidele.
+Kursuse läbinu omab ülevaadet:
+*	infotehnoloogia põhielementidest ja -mõistetest,
+*	arvuti ja arvutivõrkude ülesehitusest ja
+*	infotehnoloogia rakendusest äris ja ühiskonnas.

@@ -1,0 +1,8 @@
+Arvutused ja andmetöötlus analüütilises keemias. Ettevalmistus praktikumitööde tulemuste arvutamiseks.
+Kinnistada loengus õpitut ülesannete lahendamise ja rakendusnäidete üle arutlemise teel.
+Tudeng on võimeline: 
+valima analüüsiks sobivaid vahendeid;
+valima ja valmsitama analüüsiks sobivaid lahuseid;
+teostama lihtsamat andmetöötlust keemilisel analüüsil saadavatele andmetele;
+arvutama analüüsi tulemust etteantud andmetele.
+Tudeng on võimeline hindama konkreetse analüüsimetoodika sobivust etteantud analüüsiülesande lahendamiseks.

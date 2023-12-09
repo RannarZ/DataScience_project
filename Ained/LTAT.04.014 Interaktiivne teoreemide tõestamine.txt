@@ -1,0 +1,6 @@
+See kursus tutvustab kuulajatele seda, kuidas interaktiivsed teoreemitõestajad töötavad, kuidas neid kasutada ja kuidas neid implementeerida, Isabelle/HOL-i näite baasil.
+Kursuse eesmärk on tutvustada kuulajale arvuti abi kasutavat interaktiivset teoreemide tõestamist.
+Selle kursuse lõpetanu:
+-oskab kasutada teoreemitõestajat Isabelle/HOL matemaatiliste tõestuste välja töötamiseks
+-saab aru, kuidas teoreemitõestajad töötavad
+-suudab implementeerida (väga lihtsaid) teoreemitõestajaid

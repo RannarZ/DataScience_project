@@ -1,0 +1,19 @@
+Õppeaines käsitletakse Windows-tööjaamade peamisi haldamise tegevusi: Windows operatsioonisüsteemi (hulgi)paigaldus, uuendamine, migreerimine. Võrguühenduste, tulemüüri seadistamine ja põhilisi töövahendeid. Käsitletakse Windows Server operatsioonisüsteemil baseeruvate serverite paigaldus, haldamine, turvamine ning veaotsing.
+Õppeaine eesmärgiks on tutvustada õppijale Windows operatsioonisüsteemiga tööjaamade haldamise vahendeid ja peamisi töövõtteid ning arendada seeläbi tööjaamade haldamise põhioskuseid ja -teadmisi, tutvustada Windows Server operatsioonisüsteemil baseeruvate serverite paigaldust, haldamist ja turvamist, õppeaine arendab õppija administreerimisoskuseid ning teadmisi serveritel kasutatavatest operatsioonisüsteemidest.
+Kursuse läbinud üliõpilane: 
+
+loob tagavarakoopiaid ning teostab lihtsamatel juhtudel riknenud andmete taastamist tagavarakoopiate abiga.  
+
+seadistab Windows tööjaamade põhiparameetreid (võrguühendused, tulemüür, ligipääsuõigused, uuendused).  
+
+teab ja kasutab Windows-tööjaamade peamisi paigaldusmeetodeid. 
+
+ paigaldab Windows Server tarkvaratoote.  
+
+selgitab Windows Serveri peamiseid rolle ning nende ülesandeid.  
+
+paigaldab Windows Server'ile AD DS, DHCP, DNS ning failiserveri rolle ning neid lihtsamatel juhtudel seadistada. 
+
+oskab hallata kasutajaid ning kasutajate gruppe ning rakendada grupipoliitikaid.  
+
+teostab lihtsamatel juhtudel tagavarakoopiaid ning taastab tagavarakoopiate abil riknenud andmeid taastada.

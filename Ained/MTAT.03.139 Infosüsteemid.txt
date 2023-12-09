@@ -1,0 +1,7 @@
+Saada infosüsteemi kirjeldamise oskus, et oleks võimeline ise organiseerima tarkvaratoodete loomist, edasiarendamist ja hooldust.
+Saada infosüsteemi kirjeldamise oskus, et oleks võimeline ise organiseerima tarkvaratoodete loomist, edasiarendamist ja hooldust.
+Kursuse läbinud üliõpilane on võimeline:
+Analüüsima ja dokumenteerima infosüsteemi nõudeid;
+Kavandama infosüsteemi arhitektuuri, 
+Hindama infosüsteemi ja selle osade toimeväärtust;
+Võrdlema erinevaid lähenemisviise ja võimalusi infosüsteemide planeerimiseks

@@ -1,0 +1,3 @@
+Iseseisev töö õppejõuga eelnevalt kokkulepitud teemal.
+Üliõpilasel on võimalus teha täiendavat iseseisvat uurimistööd  krüptograafia- või andmeturbealasel teemal.
+Üliõpilane saab esmase kogemuse krüptograafiliste allikmaterjalidega töötamisel ning arendab nende oskusi saadud tulemuste korrektsel vormistamisel ja esitlemisel.

@@ -1,0 +1,7 @@
+Magistrieksam käsitleb kõiki õppekava õppeaineid ning kinnistab neis omandatud teadmised.
+Magistrieksami eesmärgiks on kinnistada õppekava läbimisel omandatud teadmised.
+Magistrieksami sooritanud üliõpilane:
+* on kinnistanud teadmised ja oskused majanduspoliitikate kujundamisest muutuvas ja digitaliseeruvas maailmas; 
+* oskab hinnata majanduspoliitikate mõjusid kõige laiemas tähenduses;
+* oskab kasutada korrektselt erialaseid termineid ning selgitama valdkonna aktuaalseid probleeme ning olema kõneisikuks lahenduste pakkumisel;
+* oskab tõlgendada majandusanalüüsi raporteid ning näha seoseid erinevate majanduspoliitikate kujundamise meetmete vahel.

@@ -1,0 +1,26 @@
+- formaalne vs distributiivne semantika
+   - leksikaalsed ontoloogiad ja sõnatähendused
+   - semantilised rollid
+   - formaalsed ja leksikaalsed ontoloogiad
+   - tähenduse esitus ajus
+   - tähenduse kompositsioon (sõnatähendusest lausetähenduseni)
+Eesmärgid
+Kursuse eesmärgiks on anda ülevaade loomuliku keele semantikast läbi
+arvutiteaduse perspektiivi. Esmalt tutvume lingvistilise vaatepunktiga
+semantikale (leksikaalne semantika ja formaalne semantika) ning
+seejärel käsitleme distributiivset semantikat selle erinevates
+vormides, lihtsatest sõnavektoritest kuni viimase aja neuromudelitele
+toetuvate tähenduse representatsioonideni ja ontoloogiateni. Kursus
+käsitleb järgimisi teemasid:
+   1. Distributiivne semantika sõnavektoritest transformer-itel
+põhinevate neuromudeliteni
+   2. Leksikaalne semantika ja formaalsed ontoloogiad
+   3. Semantiline veeb ja ontoloogiad
+   4. Tähenduse kompositsioon (lausetähenduste loogilised esituskujud)
+   5. Kuidas esitatakse tähendust ajus
+Pärast kursuse läbimist on tudengil avar ja interdistsiplinaarne
+arusaamine loomuliku keele tähenduse modelleerimisest. Praktilisest
+küljest on tudeng võimeline implementeerima tähendust modelleerivaid
+keeletöötuse rakendusi. Lisaks annab see kursus baasteadmised
+tudengitele, kes soovivad doktoriõppes keskenduda loomuliku keele
+semantikale.

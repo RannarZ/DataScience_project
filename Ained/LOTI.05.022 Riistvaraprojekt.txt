@@ -1,0 +1,10 @@
+Aine sisuks on kontrollerpõhise riistvara projekti planeerimine, realiseerimine ja dokumenteerimine
+Aine eesmärgiks on õppide planeerima, läbi viiima, realiseerima ning dokumenteerima riistvara (kontrolleri) lähedasr IKT projekti
+Osaleja omandab järgmised oskused:
+Oskus valida riistvara vastavalt etteantud ülesandele
+Oskus planeerida projekti
+Oskus hankida riistvara
+Oskus realiseerida ja testida riistvaraline komponent
+Oskus programeerida seade
+Oskus koostada seadme dokumentatsioon
+Oskus kinni pidada tähtaegadest

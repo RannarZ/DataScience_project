@@ -1,0 +1,7 @@
+.
+.
+Aine läbinud üliõpilane
+* tunneb kõige levinumaid viise mikroökonoomikas kuidas kirjeldada eelistusi, tootmist ja otsustamist;
+* tunneb valikut lihtsamates ja laiemalt kasutatavatest meetoditest mikroökonoomika modelleerimiseks;
+* tunneb valikut standardsetest mikromudelitest kirjanduses;
+* oskab rakendada mudeleid ja mudelite põhist mõtlemist igapäeva situatsioonides.

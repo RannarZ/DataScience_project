@@ -1,0 +1,44 @@
+1. Sissejuhatus. Operatsioonisüsteem - üldinfo
+1.1 Milleks on vaja OS?
+1.2 Esimese OS Multics ajalugu
+1.3 MS-DOS
+1.4 OS tuum
+1.5 Kaitserõngad ja kaasaaegsed OS-id
+
+2. UNIX
+2.1 Loomise ajalugu
+2.2 Filosoofia: kõik on failid
+2.3 Standard POSIX
+2.4 UNIX variandid
+
+3. Linuxi struktuur ja käsud 
+3.1 Linuxi kataloogide struktuur
+3.2 Kuidas installida Linuxi tarkvara
+3.3 Linuxi distributsioonid
+3.4 Lihtsamad Linuxi käsud
+3.5 Linuxi kasutajad
+3.6 Töötamine failidega
+
+4. Voogud, loogilised käsud, protsessid, arvutivõrk, shell-skriptid
+4.1 Töö voogudega STDIN, STDOUT, STDERR
+4.2 Käskude ühendamine
+4.3 Monteerimine
+4.4 Tarkvara paigaldamine
+4.5 Protsessid
+4.6 Arvutivõrk
+4.7 Alglaadimise süsteemid
+4.8 Shell-skriptide koostamine
+
+5. Linuxi teenused ja serverid 
+5.1 Standard teenused
+5.2 Failiserver
+5.3 Kettajagude haldusvahend 
+5.4 Veebiserverid
+5.5 E-posti serverid
+Õpitakse tundma Linux operatsioonisüsteemi toimimist, paigaldama ja konfigureerima erinevaid standardteenuseid, antakse ülevaade administreerimis-toimingute automatiseerimisest shell-skriptide abil, omandatakse praktiline konfigureerimisfailide koostamise kogemus. Kursuse läbinu oskab iseseisvalt paigaldada ja konfigureerida Linux operatsioonisüsteemil põhinevat serverit (Web-Server, FTP-Server, Failiserver).
+Kursuse läbinud üliõpilane: 
+oskab töötada ja haldab Linux operatsioonisüsteemi; 
+paigaldab ja konfigureerib Linuxi standardteenuseid;
+koostab shell-skripte ja automatiseerib Linuxi tööd;
+paigaldab ja konfigureerib Linuxi põhinevat serverit (Web-Server, FTP-Server, Failiserver);
+saab uurida, analüüsida, paigaldada ja dokumenteerida Linux programm

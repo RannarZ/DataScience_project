@@ -1,0 +1,11 @@
+Kursus eeldab teadmisi üldfüüsikas ja -matemaatikas. Käsitletakse dünaamika põhiseadusi nii Newtoni kui Lagrange ja Hamiltoni formalismis. Matemaatilise meetodina kasutatakse variatsioonarvutust ja vähima mõju printsiipi. Sümmeetriad ja jäävusseadused esitatakse kaasaegse füüsika seisukohalt.
+Õppeaine eesmärk on anda ülevaade Lagrange'i ja Hamiltoni formalismist, nende teoreetilistest ja praktilistest rakendustest klassikalises mehaanikas.
+*Kursuse läbinud tudeng tunneb Newtoni mehaanikat ning Lagrange'i ja Hamiltoni formalismi klassikalises mehaanikas, sh nende kirjeldusviisidega seotud terminoloogiat, põhivõrrandeid ja olulisemaid teoreeme.
+
+*Ta suudab näidata erinevate lähenemiste samaväärsust, kusjuures teab, kuidas tuletada Lagrange'i võrrandeid d'Alambert'i ja vähima mõju printsiibist, ja seost Hamiltoni ja Lagrange'i võrrandite vahel.
+
+*Kursuse läbimisel oskab tudeng kirjeldada jäävusseadusi kõigis ülalmainitud formalismides, sh oskab sõnastada Noetheri teoreemi klassikalises mehaanikas. 
+
+*Ta on tuttav olulisemate sümmeetriatega ja neist tulenevate järeldustega.
+
+*Kursuse läbija peab oskama sõnastada ja analüüsida lihtsamaid mehaanikaülesandeid Lagrange'i ja Hamiltoni formalismi abil, sh suutma valida ülesande jaoks sobivat kirjeldusviisi.

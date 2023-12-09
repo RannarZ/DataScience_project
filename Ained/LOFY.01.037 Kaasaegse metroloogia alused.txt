@@ -1,0 +1,3 @@
+Kursusel osaleja saab ülevaate rahvusvahelise mõõtühikute süsteemi SI tänapäevasest ülesehitusest, toimimisest ning mõõtühikute praktilisest realiseerimisest. Käsitletakse SI-süsteemi nelja põhisuuruse mõõtühiku esitamise tehnilisi aspekte ning tulevikusuundumusi.
+Aine eesmärgiks on anda teadmised mõõtmiste korraldusest ning toimivast süsteemist ning aidata kursuse läbinul orienteeruda edasises praktilises töös, kus mõõtmised, mõõtetulemused ning nende interpreteerimine on olulised. Kursus annab ülevaate ülemaailmselt tunnustatud mõõtühikute süsteemi kujunemisest, organiseeritusest ja praktilisest toimimisest.
+Tudengil on süsteemne arusaamine ülemaailmse mõõtesüsteemi kujunemisest, organiseeritusest ja praktilisest toimimisest

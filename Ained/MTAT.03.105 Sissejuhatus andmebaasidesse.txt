@@ -1,0 +1,7 @@
+Relatsioonilise andmebaasi põhimõisted. SQL struktuur ja süntaks. Andmestruktuuride kirjeldamise (DDL) ja andmete muutmise keeled (DML). Lihtsad päringud, filtreerimine, grupeerimine, agregeerimine. Vaated ning andmetele ligipääsu piiramine. Andmeterviklikkus.
+Anda ülevaade üldlevinud andmebaaside päringukeelest SQL. Loengukursuse põhieesmärgiks on anda tudengile vajalikud oskused andmebaasist andmete saamiseks, teisendamiseks ning filtreerimiseks; arendada struktuur-loogilist mõtlemist. Eelnevat kogemust töös andmebaasidega ei eeldata, küll aga peaksid osalejad olema kursis tabeltöötluse ning personaalarvuti kasutamisega.
+Selle kursuse lõpetanu:
+* oskab koostada lihtsaid päringuid andmebaasidele kasutades SQL keeli;
+* oskab eristada andmekogumeid, mida saab modelleerida andmebaasisüsteemi abil nendest, mille modellerimiseks tuleb kasutada teisi vahendeid;
+* oskab koostada talle tuntud valdkondade lihtsaid andmemudeleid;
+* oskab kirjeldada andmebaase SQL-keeles;

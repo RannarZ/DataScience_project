@@ -1,0 +1,21 @@
+Väitekiri on iseseisev uurimistöö, milles on esitatud konkreetse teadusliku probleemi 
+argumenteeritud originaalne lahendus ja mille tulemused on avaldatud rahvusvahelises erialases 
+kirjanduses. 
+Väitekiri peab sisaldama 
+14.1. ülevaadet uurimisvaldkonna hetkeseisust ja uurimisprobleemi kohast selles;
+14.2. uurimisülesande püstitust;
+14.3. kaitsmisele esitatavaid väiteid;
+14.4. metoodika kirjeldust;
+14.5. uurimisülesande lahendamise käiku ja tõestust;
+14.6. kokkuvõtet;
+14.7. kasutatud kirjanduse loetelu;
+14.8. ammendavat eestikeelset kokkuvõtet töö eri osade sisu kohta, kui väitekiri on kirjutatud 
+võõrkeeles, ning ammendavat võõrkeelset kokkuvõtet töö eri osade sisu kohta, kui väitekiri on kirjutatud eesti keeles;
+Doktoritöö on iseseisev uurimus, mis esitab etnoloogia, folkloristika, kirjandus- või teatriteaduse olulisele probleemile uudse ja argumenteeritud  lahenduse. Doktoriväitekiri sisaldab uurimisülesannet, selle lahendamiseks sobiva metoodika ja teooria kirjeldust, ammendava andmestiku ning varasemate tõlgenduste veenvat analüüsi, uurimistulemuste üldistust, loogilist struktuuri ja korrektset esitust.
+.Doktorant
+-	Omandab ülevaate eksisteerivast teadmisest oma doktoriprojekti teemavaldkonnas ja suhestub sellega kriitiliselt;
+-	oskab püstitada olulisi uurimisprobleeme ja pakkuda neile uudseid lahendusi;
+-	valdab andmete kogumise, kriitilise analüüsi ja üldistamise metoodikat;
+-	tunneb uurimise teoreetilisi aluseid;
+-	oskab akadeemiliselt väidelda ja kirjutada ema- ning võõrkeelseid rahvusvahelisel tasemel teadustekste;
+-	demonstreerib omandatud teadmisi ja oskusi doktoridissertatsioonis.

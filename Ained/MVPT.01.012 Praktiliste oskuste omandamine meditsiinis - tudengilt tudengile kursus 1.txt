@@ -1,0 +1,8 @@
+Kursusel kasutatakse üksteise õpetamise meetodit (Peer-teaching method).
+Iga üliõpilane osaleb auditoorsel õppepäeval vähemalt neljas erinevas töötoas. Õppepäevale eelneb ja järgneb iseseisev töö. Kasutusel on Moodle tugi.
+Õpetada tulevastele arstidele vajalikke praktilisi oskusi.
+Peale kursuse läbimist üliõpilane:
+-tunneb patsiendi uurimise peamisi töövõtteid (vaatlus, auskulteerimine, palpeerimine) ja on neid praktiliselt harjutanud
+-teab konsultatsiooni põhiprintsiipe
+-on harjutanud haigete uurimise prioritiseerimist
+-oskab nimetada haavade esmaabi võtteid ja erinevaid haavade õmblustehnikaid ning on seda praktiliselt harjutanud

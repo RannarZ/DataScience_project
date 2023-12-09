@@ -1,0 +1,3 @@
+Levinud tarkvareteekide kasutamine failide ja muu andmeside krüpteerimiseks, autentimine, dokumentide võltsimiskindluse tagamine, avaliku võtme infrastruktuurid, turvaliste protokollide koostamine, juhubittide turvaline kogumine, kiipkaardid, digitaalsed allkirjastamisprotokollid.
+Aine läbinud üliõpilased oskavad tarkvarasüsteemide arendamisel korrektselt kasutada krüptograafia primitiive nagu räsifunktsioonid, signatuurid, sümmeetrilised ja asümmeetrilised krüptosüsteemid.
+Üliõpilane oskab kasutada levinud programmeerimisvahendeid erinevate krüptograafiliste konstruktsioonide realiseerimiseks. Üliõpilane omandab praktilise kogemuse, kuidas kasutada krüptograafilisi protokolle ja  avaliku võtme infrastruktuuri erinevate turvaeesmärkide saavutamiseks.

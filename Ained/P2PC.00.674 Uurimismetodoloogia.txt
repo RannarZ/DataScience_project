@@ -1,0 +1,7 @@
+Kursus kui üldine sissejuhatus sotsiaaluuringute meetoditesse hõlmab sotsiaalteaduste, uurimuse kavandamise, andmekogumise ja andmeanalüüsi aluseid ning sotsiaaluuringute eetikat. Kursust iseloomustab tuntavalt praktiline suunitlus: üliõpilastel on võimalus õppida auditoorselt, arvutipõhiselt ning klassiväliste ülesannete kaudu.
+Kursuse eesmärk on pakkuda põhjalikke teoreetilisi ja praktilisi teadmisi sotsiaalteaduste iseloomust ning toetada magistritöö ettevalmistust. Aine annab ülevaate teadustöö meetoditest nagu ankeet, intervjuu, vaatlus, eksperiment, etnograafiline uurimismeetod ja sisuanalüüs,  mis kõik aitavad sõnastada magistritöö eesmärke, püstitada hüpoteese ning analüüsida uurimistöö tulemusi.
+Õppeaine läbinud õppija:
+* on võimeline formuleerima uurimuse küsimusi ja hüpoteese ning kavandama uurimistööd
+ * on võimeline koguma andmeid, kasutades erinevaid meetodeid
+* on võimeline analüüsima kvalitatiivseid ja kvantitatiivseid andmeid ning tõlgendama tulemusi
+* on võimeline hindama kriitiliselt iseenda ning kaasüliõpilaste uurimusi

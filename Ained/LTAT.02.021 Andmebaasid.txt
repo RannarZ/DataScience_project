@@ -1,0 +1,12 @@
+* Sissejuhatus relatsioonikeeltesse (SQL)
+* Üksuse-suhte mudel
+* Relatsioonandmebaasi kujundamine
+* Komplekssed andmetüübid (JSON / XML)
+* Rakenduste arendamine
+* Suurandmed (ülevaade)
+* Andmete analüüs
+Kursuse eesmärk on valmistada andmeteadlasi ette andmebaasirakenduste tõhusaks arendamiseks. Kursusel tutvustatakse praeguste andmebaasiarhitektuuride põhijooni, pöörates erilist tähelepanu (i) üksus-suhte mudelile, (ii) relatsioonimudelile, (iii) täiustatud SQL-i ja andmebaasi rakenduste arendamisele. Kursus illustreerib põhiandmeid andmebaasisüsteemide arengus suurandmete valdkonnas.
+Üldine arusaam:
+* Relatsiooniandmebaasist: kuidas RDBMS-i kujundanda, juurutada ja kasutada
+* ACID omadustest ja tehingute haldamisest
+* RDBMS-i piiridest suurandmete kontekstis

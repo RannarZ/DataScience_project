@@ -1,0 +1,13 @@
+Infosüsteemide projekteerimine
+Infosüsteemide juhtimise
+Ettevõtte arhitektuur
+Ettevõttesüsteemide integreerimine
+Ettevõtte ressursside planeerimise süsteemid
+Ettevõtte koostöösüsteemid
+Äriprotsesside juhtimine
+Ärireeglid
+Äriteave
+Seminaris tutvutakse infosüsteemide süvateemadega, seda nii juhtimises kui ka insenerlikus aspektis. Omandatakse kogemused tööks kirjandusega selles valdkonnas, samuti vastava info presenteerimiseks ja  erialastes diskussioonides rakendamiseks
+Kursuse edukalt läbinud üliõpilane oskab
+1.	Struktureeritult koguda, analüüsida ja esitada infot infosüsteemide süvateemade kohta.
+2.	Asjatundlikult formuleerida vaateid ning selgitusi võtmeküsimuste kohta infosüsteemide valdkonnas.

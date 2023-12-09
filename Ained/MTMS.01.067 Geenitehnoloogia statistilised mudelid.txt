@@ -1,0 +1,6 @@
+Kursus annab ülevaate tänapäeva geeniuuringute aluseks olevaist matemaatilise statistika meetoditest. Põhipunktid: geenide kaardistamine ja üksikute geenide mõjude hindamine, segregatsioon- ja aheldusanalüüs ning assotsiatsiooniuuringud.
+Õppeaine üldeesmärgiks on tutvustada matemaatilise statistika meetodite rakendusi tänapäevastes geeniuuringutes.
+Õppeaine edukal läbimisel üliõpilane 
+- on võimeline valima sobiva analüüsimeetodi lähtuvalt andmete (fenotüübiandmed, põlvnemis- ja geeniinfo) struktuurist ja olemusest ning uurimisküsimusest,
+- oskab põhjendada valitud analüüsimeetodi sobivust nii matemaatika kui ka geneetika kontekstis ning esitada ja selgitada analüüside tulemusi,
+- oskab diskuteerida alternatiivsete analüüsimeetodite ja andmete struktuuride üle.

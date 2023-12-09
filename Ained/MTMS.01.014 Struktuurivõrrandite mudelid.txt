@@ -1,0 +1,12 @@
+Kovariatsioonistruktuuri esitamine teediagrammi kaudu. Regressioonivõrrandite süsteemid ja nende hindamine. Latentsed tunnused ja kinnitav faktoranalüüs. Üldine latentsete komponentidega struktuurivõrrandite mudel. Kovariatsioonialgebra struktuurimudelite identifitseeritavus  ja võrdlemine.  Struktuurimudeli hindamine praktikas, hinnatud mudeli diagnostika.
+Tutvustada varjatud (latentseid) tunnuseid sisaldavaid mudeleid ja põhjuslike seoste tuvastamiseks kasutatavaid statistikameetodeid.
+Aine läbinud tudeng
+* teab, mis on põhjuslik seos;
+* oskab kontrollida, kas põhjuslik mõju on hinnatav;
+* oskab valideerida põhjuslikke mõjusid kirjeldavaid mudeleid;
+* teab, mis on varjatud (latentne) tunnus;
+* teab, millisel viisil võivad tulemusi mõjutada vigaselt mõõdetud tunnused;
+* oskab koostada lihtsamaid mudeleid tunnustele kasutades mõõtmisvigasid sisaldavaid andmeid;
+* teab ja oskab kasutada kinnitavat faktoranalüüsi;
+* oskab kasutada üldist latentsete komponentidega struktuurivõrrandite mudelit kirjeldamaks põhjuslikke
+mõjusid varjatud tunnuste vahel.

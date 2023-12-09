@@ -1,0 +1,7 @@
+Kursus käsitleb treeningu süsteemset ülesehitust lähtudes treeningu teaduslikust ülesehitusest. Süvendatult käsitletakse erinevaid treeningu adaptatsioonilisi aspekte, organismi ja raku tasandil toimuvaid muutusi, treeningu periodiseerimist, treeningu ja testimise spetsiifilisust ja individualiseerimist ning tringuprotsessi teaduslikku monitooringut ja juhtimist.
+Aine õpetamise eesmärgiks on anda süsteemne teaduslik ülevaade treeninguprotsessi võtmeaspektidest.
+Pärast aine läbimist üliõpilane: 
+1) omab ülevaadet teaduslikust lähenemisest treeningu ülesehitusele; 
+2) seostab treeningu tulemusena toimuvaid muutusi organismis sportliku saavutusvõimega; 
+3) oskab planeerida ja põhjendada erinevaid treeninguprogramme; 
+4) tunneb treeningu monitooringu teaduslikke aspekte.

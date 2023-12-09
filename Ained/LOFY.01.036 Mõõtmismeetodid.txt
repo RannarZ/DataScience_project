@@ -1,0 +1,18 @@
+Tutvustatakse mõõtetehnika üldisi printsiipe ja mõõtmise energeetilisi aluseid. Käsitletakse erinevaid mõõtemuundureid (sh. termoelektrilisi, piesoelektrilisi, ülijuhtivaid) temperatuuri, vaakumi, rõhu, magnetvälja tugevuse ja teiste füüsikaliste suuruste mõõtmiseks. Aine on mõeldud rakendusfüüsika suuna magistrantidele.
+Antakse ülevaade füüsikaliste suuruste mõõtmise meetoditest.
+Kursuse läbinud üliõpilane
+1. Teab füüsikalisteks mõõtmisteks kasutatavate aparaatide peamisi koostisosi ja mõõtmistäpsust ja tundlikkust iseloomustavaid parameetreid ja neid limiteerivaid faktoreid (müra erinevad liigid).
+2. Teab mõõtmistäpsuse ja tundlikkuse tõstmise erinevaid meetodeid (sünkroonlukustusega võimendid, signaali moduleerimine-demoduleerimine, filtreerimine, korrelatsioonanalüüs).
+3. Tunneb järgmiste  füüsikaliste suuruste mõõtmise printsiipe ja aparaate:
+- Temperatuur, soojushulk, soojusjuhtivus, termograaf.
+- Pikkus, pindala, ruumala.
+- Positsioon ruumis (geopositsioneerimine).
+- Nurk, triangulatsioon.
+- Kiirus, kiirendus ja vibratsioon.
+- Aeg ja sagedus.
+- Mass, tihedus, jõud, pöördemoment, rõhk.
+- Gaaside ja vedelike dünaamilised omadused (vooluhulk, viskoossus).
+- Heli.
+- Elektrilised suurused (pinge, voolutugevus, võimsus, takistus).
+- Fotomeetrilised ja radiomeetrilised suurused.
+4. Teab füüsikaliste mõõtmiste rakendusi meditsiinis (biopotentsiaal, vererõhk, tomograafia).

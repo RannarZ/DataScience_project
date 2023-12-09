@@ -1,0 +1,7 @@
+Renormeerimisteooria tuli esialgselt tahkiste füüsikast, kus aitas kristallvõres kehtivaid seoseid üldistada täiskehale, üteldes midagi kriitiliste ilmingute nagu faasiüleminekute kohta. Mis seal on kriitilised eksponendid, on kvantväljateoorias parameetrite anomaalsed dimensioonid, ja renormeerimine aitab siin korralikult käituda silmuseintegraalides ilmuvate singulaarsustega. Loengukursuses saame regulariseerimise ja lahutamisega tuttavaks ja tegeleme kvantelektrodünaamika, kvantkromodünaamika ja elektronõrga teooria renormeerimisega ning renormeerimisrühma ja parameetrite jooksu mõistega.
+Õppeaine eesmärgiks on tutvustada meetoditega, mis võimaldavad eemaldada häiritusarvutuses ilmuvaid singulaarsusi.
+Aine läbinud õpilane:
+1. saab hinnata erinevate teooriate renormeerimisvõimalusi.
+2. oskab regulariseerimise kaudu kinni määrata ilmuvaid singulaarsusi.
+3. tunneb erinevaid meetodeid hajuvuste lahutamiseks.
+4. teab, kuidas hajuvusi saab lõpuks eemaldada.

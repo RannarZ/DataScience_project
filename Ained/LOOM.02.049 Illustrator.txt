@@ -1,0 +1,3 @@
+Kursuse käigus sooritatakse 12 praktikumitööd, mis käsitlevad põhikujundite loomist, graafika modifitseerimist, värvide ja gradienttäidete kasutamist, kujund- ja musterjoonte loomist, tööd tekstiga, stiilipakette, diagrammide valmistamist, samuti Illustratori kasutamist veebilehtede loomisel ja trükiettevalmistuses
+Tutvustada maailma üht hinnatumat graafilise kujunduse programmi Adobe Illustrator. Anda põhilised oskused mitmesuguste jooniste loomiseks ja kujundamiseks
+Kursuse läbinu teab ja oskab kasutada Illustratori põhilisi funktsioone tüüpjooniste ja infograafika valmistamiseks

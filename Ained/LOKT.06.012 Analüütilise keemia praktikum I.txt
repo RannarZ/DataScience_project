@@ -1,0 +1,12 @@
+Praktilised tööd analüütilisest keemiast: kaalumine, lahuste valmistamine, levinumate analüüsil kasutatavate laborivahendite käsitsemine, proovi eeltöötlus, titrimeetria, potentsiomeetria, kromatograafia, aatom- ja molekulspektroskoopia. 
+Iga töö sisaldab erinevaid etappe: etteantud andmete kohta arvutusfaili koostamine; suuline arutelu töö teooria ja rakenduste kohta; praktiline töö; arvutused reaalselt saadud andmetega tabelarvutusprogrammis ning tulemuste kriitiline hindamine.
+4 praktilist tööd toimub grupitööna ja seega saadakse praktikumi käigus ka meeskonnatöö kogemus laboratooriumis. Protokollide koostamise käigus õpitakse kasutama tabelarvutusprogrammi MS Excel keemilise analüüsi andmetöötluseks (tabelarvutusprogrammi toimimispõhimõtted, lineaarne regressioon, vajalikud funktsioonid).
+Anda tudengile praktilised teadmised tavalisemate keemiliste analüüside kohta. Toetada õppijate suulise eneväljendusoskuse arengut. Õppija arendab keemiliste analüüside läbiviimisega vajalikke õpioskusi (vajalikud töövõtted ja andmetöötlusoskused).
+Pärast praktikumi kursuse läbimist tudeng
+- teab ja tunneb põhimõtteid ja rakendusi järgmiste analüüsimeetodite kohta: tiitrimeetria, potentsiomeetria, fotomeetria, kromatograafia, aatomemissioon-spektromeetria;
+- oskab valida ja korrektselt kasutada levinumaid keemilisel analüüsil kasutatavaid laborivahendeid;
+- oskab korrektselt valmistada lahuseid ja kasutada analüütilist kaalu;
+- teab proovide ettevalmistamise põhitõdesid keemilises analüüsis;
+- tunneb selektiivsuse mõistet ja teab selektiivsuse saavutamise põhilisi mooduseid (eraldamine, maskeerimine);
+- viib iseseisvalt läbi lihtsamat keemilist analüüsi (sh proovi eeltöötlus)
+- arvutab keemilise analüüsi tulemuse, hinnates kriitiliselt kogutud andmeid sealjuures kasutades sihtotstarbeliselt tabelarvutusprogrammi (nt MS Excel).

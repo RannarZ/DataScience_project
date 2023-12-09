@@ -1,0 +1,7 @@
+Õppeaine võtab vaatluse alla käitumusliku majandusteaduse, ratsionaalse ja administratiivse mudeli, mänguteooria, heuristika, piiratud ja ökoloogilise ratsionaalsuse. Õppeaine toetub tugevalt kaasustele ja eksperimentide tutvustamisele.
+Kursuse eesmärgiks on ettevõtte juhtimisotsustele majandusteoreetilise tausta loomine.
+Kursuse edukalt läbinu:
+* oskab rakendada erinevaid tehnikaid majandusteoreetiliste mudelite loomiseks ja äriprobleemide lahendamiseks (optimeerimine, otsustamine määramatuse tingimustes, mänguteooria);
+* tunneb ratsionaalsete ning administratiivsete mudelite eripärasid ning erinevusi;
+* oskab ära tunda heuristikute ning kognitiivsete nihete mõju otsuste tegemisel;
+* oskab analüüsida tarbijate ja ettevõtete käitumist nii matemaatiliste mudelite kui ka käitumuslike mudelite abil.

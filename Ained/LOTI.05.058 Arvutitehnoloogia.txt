@@ -1,0 +1,10 @@
+Kursus tutvustab tudengitele mõningaid arvutitehnika valdkonna aktuaalseid teemasid ning innovatsioone. Tudengid uurivad neid teemasid ja teevad nendest ettekandeid. Lisaks on neil võimalus tutvuda mõningate olemasolevate süsteemidega nii tööstuses kui ka teadusasutustes.
+* Anda ülevaade osade arvutitehnoloogia valdkondade tehnika hetkeseisust
+* Võimaldada tudengitele ettekannete tegemine nendel teemadel
+* Tutvustada kohalikku tööstust ja sellest kasutatavat tehnoloogiat
+Kursuse edukal läbimisel on paranenud tudengite oskus:
+* uue või varsti turule jõudva tehnoloogia ettekannete koostamises ja esitamises;
+* mõista mõningaid hetke arengusuundi ning olulisi lahendamata probleeme;
+* esitada uue tehnoloogia "kavalat ideed" lühikese aja jooksul;
+* teadmised kohalikest ettevõtetest, kes neid tehnoloogiaid välja töötavad või rakendavad;
+* teha koostööd kasutades dokumendi malle ja versioonihaldustööriista git suurema organiseeritud teksti loomisel.

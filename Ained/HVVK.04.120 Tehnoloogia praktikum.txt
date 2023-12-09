@@ -1,0 +1,6 @@
+Tehnoloogia praktikumi käigus projekteeritakse ja luuakse avalikult eksponeeritav interaktiivne eksponaat.
+Arendada interdistsiplinaarset koostööd, arendada oskusi tehnika ja butafooria integreerimiseks.
+Kursuse edukalt läbinud üliõpilane:
+- oskab leida lahendusi tehnika ja tehnoloogia kasutamiseks lihtsamate liikuvate ja/või interaktiivsete objektide loomisel;
+- on kursis elektrotehnika kasutamise ohutusnõuetega ja oskab neid järgida;
+- oskab objekti kavandamisel arvestada selle funktsiooni ja integreeritavate komponentide eripäradega.

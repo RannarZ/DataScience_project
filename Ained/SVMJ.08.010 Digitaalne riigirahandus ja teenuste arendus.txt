@@ -1,0 +1,7 @@
+Avalikud digiteenused, nende kujundamise põhimõtted ja näited rakendustest.
+Õppeaine eesmärgiks on selgitada avalike digiteenuste kujundamise üldpõhimõtteid ja konkreetseid rakendusi (nt maksuhalduses, hariduses, tervishoius, sotsiaalkindlustuses ja maksetes, finantsteenustes, kodanikuosaluses). Soovitakse demonstreerida julgemaid ja eriilmelisemaid lahendusi ning diskuteerida tulevikuvõimaluste üle praktikute kaasabil.
+Kursuse edukalt läbinu: 
+* saab aru tehnoloogiliste arengute mõjudest avaliku sektori teenuste kujundamises; 
+* oskab näha tehnoloogiate rakendamise võimalusi keeruliste probleemide lahendamiseks spetsiifilistes avaliku sektori valdkondades; 
+* omab ülevaadet erinevatest digilahenduste väljakutsetest ja riskidest;   
+* suudab hinnata digitaalsete teenuste loomise investeeringute maksumust.

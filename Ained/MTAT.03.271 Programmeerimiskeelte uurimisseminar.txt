@@ -1,0 +1,5 @@
+Seminari teemad vahetuvad lähtuvalt registreerinud õpliaste huvidest. Läbiv fookus on aga töökindla tarkvara arendamisega seotud teemad. Seminarid keskenduvad kevadel artiklite lugemisele ja kevadel kirjutamisele.
+Seminari eesmärk on toetada üliõpilase huvi programmeerimiskeelte vallas ja tutvustada viimased arengud tarkvarateaduses.
+Aine läbinud tudeng oskab:
+* lugeda kõrgemate õppeastmete õpikuid ning teaduskirjandust programmeerimiskeelte valdkonnas.
+* etteantud teema ette kanda ja/või selle kohta kirjutada selliselt, et see on kaasõppuritele ka arusaadav.

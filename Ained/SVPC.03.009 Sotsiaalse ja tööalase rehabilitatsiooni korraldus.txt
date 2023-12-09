@@ -1,0 +1,34 @@
+Aine koosneb 4 moodulist:
+1. Sotsiaalse ja tööalase rehabilitatsiooni alused ja korraldus. 
+1.1. Rehabilitatsiooni peamised eesmärgid ning rehabilitatsiooni kujunemine 
+1.2. Rehabilitatsioonivaldkonna arengud ja arengut mõjutanud ühiskondlikud protsessid. 
+1.3. Rehabilitatsiooniteenuse õiguslikud alused Eestis (sotsiaalne ja tööalane rehabilitatsioon, eesmärgid, sihtgrupid, teenusele suunamine).
+1.4. Tööalase rehabilitatsiooni õiguslikud alused ja protsess (töövõime hindamine, tööalase rehabilitatsiooni eesmärgid, sihtgrupp, teenusele suunamine, tegevuskava koostamine ja tulemuste hindamine.
+2. Sotsiaalse rehabilitatsiooni protsess.
+2.1. Sotsiaalse rehabilitatsiooni õiguslikud alused ja protsess
+Rehabilitatsioonivajaduse hindamine Sotsiaalkindlustusametis,  sotsiaalse rehabilitatsiooni vajaduse hindamine teenuse osutaja tasandil.
+2.2. Sotsiaalse rehabilitatsiooni eesmärgistamine, teenuste osutamine, protsessi koordineerimine, barjääride ületamine. 
+2.3. Lastele rehabilitatsiooniplaani koostamine.  
+3. Tööalase rehabilitatsiooni protsess.
+3.1. Toetatud tööle rakendamise metoodika (definitsioon, põhitunnused)
+3.1.1. Toetatud töölerakendumise etapid (kutseprofiili koostamine, hindamis- ja nõustamisvahendid)
+3.2. Karjäärinõustamise põhimõtted
+3.3. Erinevad töötamise teenused
+4. Rehabilitatsiooniprogrammid, abivahendid ja sotsiaalse rehabilitatsiooniteenuse  kvaliteedi põhimõtted.
+4.1.1. Rehabilitatsiooni programmi üdalused, programmi sihtrühm ja eesmärgid.
+4.1.2. Programmi ettevalmistamine, hindamine ja planeerimine, sekkumine, tulemuste hindamine, programmi lõpetamine, pikaajalise tagasiside planeerimine.
+4.1.3. Programmide kinnitamise protsess Sotsiaalkindlustusametis.
+4.2. Abivahendite regulatsioon
+* arendada üliõpilaste teadmiseid rehabilitatsiooni erinevatest käsitlusest, peamistest põhimõtetest ning rahvusvahelistest rehabilitatsioonivaldkonda mõjutavatest raamdokumentidest
+* õppida tundma sotsiaalse- ja tööalase rehabilitatsiooni teenuse osutamise õiguslikke aluseid ja korraldust
+* arendada üliõpilaste praktilisi oskuseid sotsiaalse- ja tööalase rehabilitatsiooni teenuse osutamiseks ja rehabilitatsiooniprotsessi koordineerimiseks
+* arendada üliõpilaste teadmiseid rehabilitatsiooniprogrammide väljatöötamisest ja osutamisest ning toetatud töölerakendamise metoodika kasutamisest tööalases rehabilitatsioonis
+* tõsta teadlikkust sotsiaalteenuste kvaliteedi arendamisega seotud küsimustest, abivahendi vajaduse hindamisest ning peamistest põhimõtetest abivahendite vajaduse hindamisel
+Õppeaine läbinud õppija:
+* teab rehabilitatsiooni arengulugu ja erinevaid käsitlusi
+* teab rehabilitatsiooniasutuste töö korraldamise aluseid Eestis
+* teab sotsiaalse  ja tööalase rehabilitatsiooni sihtgruppe ja teenuse korralduse aluseid
+* oskab rakendada toetatud tööle rakendamise metoodikat
+* teab rehabilitatsiooniprogrammide osutamise aluseid
+* on kursis abivahendi taotlemise protsessiga
+* teab rehabilitatsiooniteenuse kvaliteedi põhimõtteid

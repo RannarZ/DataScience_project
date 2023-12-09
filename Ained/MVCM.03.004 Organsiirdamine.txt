@@ -1,0 +1,15 @@
+Valikaine on mõeldud vanemate kursuste üliõpilastele. Ainekava läbimisel on plaanis 8 loengut: neis antakse ülevaade elundsiirdamise ajaloost, organisatsioonist Eestis, siirdamisega seonduvatest immunoloogilistest probleemidest ja peamiste elundite  siirdamisest (neeru-, maksa-, pankrease-, kopsu- ja südamesiirdamisest).
+Parandada aine läbijate teadmisi elundisiirdamise organisatsioonist, üldistest põhimõtetest ja erinevate elundite siirdamise peamistest seisukohtadest (neeru-, maksa-, pankrease-, kopsu- ja südamesiirdamisest).
+Aine läbijad teavad organsiirdamise:
+-	organisatsiooni, logistikat ja statistikat Eestis.
+-	peamisi immunoloogilisi aspekte, mis on olulised organsiirdamiste juures.
+-	siirdamisjärgse immunosupressiooni põhiprintsiipe ja kaasnevaid probleeme. 
+-	immunosupressioonravi tüsistusi ja nende käsitluse põhimõtteid.
+-	elundite kaupa (neeru, maksa, pankrease, kopsu ja südame) siirdamise:
+o	ajalugu,
+o	näidustusi ja vastunäidustusi,
+o	patsientide valiku printsiipe ja siirdamise alternatiive,
+o	peamiseid kirurgilisi aspekte,
+o	tüsistusi,
+o	oodatavaid tulemusi,
+o	statistikat ja tulemusi Eestis.

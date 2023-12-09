@@ -1,0 +1,7 @@
+Kooli informaatika ainekava.Kombineeritud õpe. E-õppe tund. Digitaalne jalajälg, interneti riskid ja infoturve.Tunnikülastused, sh tunnianalüüs. IT-päev. Praktika: informaatikatunni andmine.
+Üliõpilane omandab teadmised ja esmased praktilised oskused informaatikaõpetajana töötamiseks.
+Kursuse läbinud üliõpilane on suuteline: 
+* kirjeldama kooli informaatika ainekava loomise protsessi;
+* läbi viima õppetundi;
+* analüüsima enda ja teiste läbiviidud tunde;
+* kirjeldama informaatikaõpetaja töö iseärasusi ja nendeks vajalikke pädevusi;

@@ -1,0 +1,8 @@
+Õppeaine hõlmab järgmisi teoreetilise ja praktilise tegevuse valdkondi: helitöötluseks vajaliku programmi, ekvalaiseri, dünaamika-protsessorite ning  erinevate efektiprotsessorite tundmaõppimine ja nende praktilise kasutamisoskuse omandamine. Järeltöötluse vormistamine ja selle helikandjale kandmine.
+Õppeaine eesmärgiks on: 
+Aine eesmärgiks on anda ülevaade digitaalses keskkonnas toimuvast helitöötlusest arvutil ja sellega seotud probleemidest, arendada üliõpilaste arvutikäsitsemise oskust ja tagada teadmiste miinimum kursuse "Digitaalne helitöötlus II" läbimiseks. Valikainena annab ta multimeediaalaseid lisaoskusi sõltumata erialast. Vormistada miksitud materjal CD  audio plaadile.
+Aine läbinud üliõpilane:
+*	oskab salvestada heli kasutades selleks digitaalset salvestustehnikat
+*	tunneb heli digitaalseks töötlemiseks vajalikke programme ja vahendeid
+*	oskab töödelda ja editeerida salvestatud materjali 
+*	oskab kokku mängida (miksida) salvestatud ja töödeldud materjali, kasutades selleks digitaalset raud- ja tarkvara.

@@ -1,0 +1,12 @@
+Annab ülevaate helistuudio- ja kontserttehnika seadmete ehitusest ja komplekteerimisest. Õpetab looma õigeid seadmeahelaid ja tutvustab ohutusnõudeid. Õpetab leidma võimalikke probleeme. Annab ülevaate helisalvestuses kasutatavatest arvutitest ja nende komponentidest ning õpetab optimeerima operatsioonisüsteeme ja paigaldama tarkvara.
+Õppeaine eesmärgiks on: 
+*	Õpetada planeerima ja komplekteerima vähemalt kodustuudio tasemel salvestusseadmete ahela
+*	Tutvustada ja õppida kasutama õigeid kaableid ja ühendusviise ning järgima ohutusnõudeid
+*	Tutvustada ja õpetada leidma võimalikke probleeme seadmeahelas ning võimalusel teostama esmast remonti
+*	Õpetada valima helitööks sobilikke arvutikomponente ja süsteeme ning paigaldama operatsioonisüsteeme ja helisalvestustarkvara.
+Aine läbinud üliõpilane:
+*	Omab teadmisi ja oskusi helistuudio seadmeahela komplekteerimiseks
+*	Tunneb helitehnoloogias kasutatavaid kaabli- ja pistikutüüpe ning oskab neid parandada
+*	mõistab peamisi helistuudios kasutatavaid salvestusprogramme ja tarkvaralisi töövahendeid
+*	oskab optimeerida salvestustööks sobiliku arvuti ning paigaldada tarkvara
+*	suudab iseseisvalt kasutada helistuudiot

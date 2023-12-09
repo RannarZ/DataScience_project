@@ -1,0 +1,8 @@
+Kursus tutvustab infektsooniga seotud teemasid kliinilise mikrobioloogia vaatepunktist. Kursuse vältel käsitletakse lisaks ka antibakteriaalse ravi küsimusi, kuna viimane teema on lahutamatult seotud mikroobide ja infektsiooniga. Kursuse käigus puudutatakse vaid olulisemaid ja sagedasemaid kliinilisi infektsioone: uro-, hingamisteede-, seksuaal-, seedekulglainfektsioone jne.
+Kliinilise mikrobioloogia kursuse eesmärgiks on varustada proviisoriõppe üliõpilased kliinilise mikrobioloogia baasteadmistega, mis on vajalikud erialaseks tööks kliinilise ja esmatasndi meditsiini tingimustes ja edaspidiseks elukestvaks enesetäienduseks.
+* Teab kliinilises praktikas olulisemate lokalisatsioonidega mikrobiaalsete nakkuste etioloogiat, patogeneesi ja ravi põhimõtteid.
+* Tunneb nende infektsioonide mikrobioloogilise diagnoosimise põhimõtteid.
+* Orienteerub haiglasiseste nakkuste olemuses ja teab nende ennetusvõimalusi.
+* Teab antibakteriaalste ja antiviiruslike ravimite kliiniliselt kasutavaid toimespektreid.
+* Suudab tõlgendada PK/PD andmeid ja antibiootikumtundlikkuse testi tulemusi.
+* Suudab rakendada praktikas kaasaegse antibakteriaalse ravi põhimõtteid.

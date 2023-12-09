@@ -1,0 +1,4 @@
+Seminarid toimuvad läbi kahe semestri. Seminarides läbitud teemad ja kaasnevad kodutööd on planeeritud nii, et need toetavad üliõpilasi ITTM-i ja Sandboxi programmide läbimisel ning annavad kaasa praktilised oskused, millega juhtida oma enesearengut ka edaspidises elus.
+Õppeaine eesmärk on üliõpilaste toetamine IT-tööstusmagistrantuuri (ITTM) ja Sandboxi programmide läbimisel ja selleks vajalike oskuste arendamine.
+Seminari läbinud üliõpilane on:
+* arendanud oma arusaamasid ning saanud praktilisi oskuseid teemadel nagu enesejuhtimine- ja analüüs, ajajuhtimine ja keskendumine, loovus, toimetulek stressiga

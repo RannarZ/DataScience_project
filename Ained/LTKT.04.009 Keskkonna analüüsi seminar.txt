@@ -1,0 +1,8 @@
+Kursusel analüüsitakse keskkonnakeemias olulisi analüüsimeetodeid, analüüsitakse nende rakendatavust, eeliseid ja puudusi ning arvutatakse kontsentratsioone ning muid parameetreid vastavalt analüüsimeetodile. Kursuse eesmärgiks on analüütilise keskkonnakeemia meetodite lahtimõtestamine ja sügavam mõistmine, ühtlasi keemillise arvutusoskuse lihvimine. Viimast hinnatakse kohustuslike kodutöödega.
+Väikestes rühmades lahendatakse komplitseeritud, võimausel elulisi probleemülesandeid, milleks tuleb kombineerida erinevate keemiateemade teadmisi, loovat mõtlemist, eneseväljenduse ning rühmatöö oskusi.
+Keskkonnakeemia ülesannete lahendamine, arvutusprobleemide läbitöötamine väikses rühmas. Analüütilise keskkonnakeemia meetodite lahtimõtestamine ja sügavam mõistmine. Kursusel lahendatakse ka komplitseeritud probleemülesandeid, milleks tuleb kombineerida erinevate keemiateemade teadmisi ning rühmatöö oskusi.
+Kursuse saab läbida ainult e-kursusena, sellisel juhul töötab üliõpilane iseseisvalt vastavalt ajakavale.
+Kursuse läbinud üliõpilane:
+- kirjeldab analüüsimeetodeid nagu tiitrimine, spektrofotomeetria, hapnikutarbe meetodid ja kromatograafia;
+- arvutab ainete kontsentratsioone lahustes;
+ -analüüsib komplekssemat probleemi rühmatööna.

@@ -1,0 +1,13 @@
+Ainekava jaguneb kolmeks mooduliks.
+1. Erialakeel: erialakeele põhijooned, infootsing, erialateksti lugemine ja kirjutamine, slaidiesitluse või vaatmiku tegemine
+2. Kirjutamine: kirjutamisprotsessi kavandamine, infootsing, tagasisidestamine, teksti struktureerimine ja viimistlemine
+3. Tarbetekst: e-kiri, motivatsioonikiri, elulookirjeldus
+
+Moodulite sisu kohandatakse õpetatava rühma järgi.
+Eesmärk on arendada eestikeelsete erialatekstide lugemise ja kirjutamise oskust.
+Kursuse läbinud üliõpilane:
+- kavandab tõhusalt oma kirjutamisprotsessi (koostab ajakava, seab eesmärgid jm);
+- kasutab ajakohaseid keelehooldeallikaid;
+- loob hästi struktureeritud ning hea- ja õigekeelsusnõuetele vastavat teksti;
+- vormistab elektrooniliselt mitmesuguseid tarbetekste;
+- analüüsib tagasiside põhjal enda kui kirjutaja tugevaid ja nõrku külgi, et tõhustada kirjutamisprotsessi.

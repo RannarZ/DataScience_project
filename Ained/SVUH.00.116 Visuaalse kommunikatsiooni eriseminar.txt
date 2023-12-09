@@ -1,0 +1,19 @@
+Tutvumine graafilise disainiga, lihtsamate disianiülesannete lahendamine ning nende analüüsimine;
+Keerulisema disainiülesande lahendamine ja analüüsimine.
+
+NB! Kevadsemestril 2021 toimub kursus üle veebi. Osalejatel on tarvis arvutit, millel on tehtud kõik vastava mudeli jaoks vajalikud uuendused ja head internetiühendust. Tutvume graafilise disainiga, lahendame lihtsamaid disainiülesandeid ja lõpetame ja keerulisemate disiainülesannete lahendamise ning analüüsimisega. 
+Praktiliste ülesannete tegemiseks kasutame Figma brauseripõhist programmi. Nõuded arvuti veebilehitsejale, operatsioonisüsteemile ja graafikakaardile on kirjas Figma kodulehel: https://help.figma.com/hc/en-us/articles/360039827194-Figma-Browser-Requirements
+Tutvustada graafilise disaini olemust, väljendusvahendeid ja tehnoloogiat;
+Lahendada lihtsamaid disainiülesandeid;
+Õpetada vaatlus- ja analüüsioskust;
+Kujundada iseseisva töö oskust / rühmatöö oskust (oleneb kas tehakse paaris või üksi);
+Harjutada aja planeerimist ning töö erinevate etappide hindamisvõimet;
+Õpetada analüüsima disaini lähteülesannet ning leidma sobivat teed tulemuse saavutamiseks.
+Õppeaine läbinud üliõpilane:
+- oskab vaadelda ja hinnangut anda lihtsamatele kujundustele;
+- tunneb elementaartasandil arvutiprogramme, (Affinity Designer, Affinity Photo, Affinity Publisher);
+- oskab lihtsamat informatsiooni visualiseerida;
+- orienteerub kujutise, teksti ja kirjatüübi (tunneb olulisemaid kirjatüüpe, teab kust leida jne) valikul;
+- oskab kujutist ning teksti omavahel suhtestada;
+- oskab kasutada kujutist, värvi ja kirja visuaalse mõju saavutamiseks;
+- oskab formuleerida disaini lähteülesande, analüüsida algset olukorda ning koguda teema kohta informatsiooni.

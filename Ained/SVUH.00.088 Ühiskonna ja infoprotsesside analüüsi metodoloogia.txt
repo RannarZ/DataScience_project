@@ -1,0 +1,10 @@
+Kursusel kaetakse järgnevad teemad: 
+- sotsiaalteaduste metodoloogia põhiküsimused ja väljakutsed; 
+- uurimisprobleemi ja sobiva meetodi omvaheline kokkuviimine; 
+- erinevad uuringute läbiviimise tüübid (kvalitatiivsed ja kvantitatiivsed, veebiuuringud), eksperiment, automatiseeritud andmekogumismeetodid, kasutatavuse mõõtmine.
+Kursuse eesmärk on anda ülevaade sotsiaalteaduste metodoloogia alustest ja põhilistest andmekogumis- ja andmeanalüüsimeetoditest, mida saab rakendada ühiskonnas ja organisatsioonis toimuvate protsesside mõõtmiseks ja kaardistamiseks.
+Kursuse läbinud tudeng:
+- omab teadmisi sotsiaalteaduste metodoloogia alustest ja põhilistest probleemkohtadest; 
+- oskab sõnastada uurimisprobleemi ja leida vastava metodoloogilise lahenduse; 
+- tunneb põhilisi andmekogumis- ja andmeanalüüsimeetodeid (nt eksperiment, küsitlus, veebiuuringud, statistiline analüüs, intervjuu, vaatlus jne), oskab neid rakendada praktiliste ülesannete lahendamiseks;
+- oskab kavandada ning läbi viia uuringut valitud ühiskondliku või organisatsioonis esile kerkiva probleemi kindlate aspektide hindamiseks.

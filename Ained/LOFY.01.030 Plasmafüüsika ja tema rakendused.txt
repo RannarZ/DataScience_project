@@ -1,0 +1,15 @@
+Kursuses vaadeldakse plasma kui aine agregaatoleku põhikarakteristikud, põhitähelepanu pööratakse termodünaamiliselt mittetasakaalulisele plasmale. Enim tähelepanu pööratakse elementaarprotsessidele, mis määravad plasma omadused. Esitatakse teoreetilised ja eksperimentaalsed meetodid, mida kasutatakse mittetasakaalulise plasma uurimisel. Ülaltoodud teave alusel kirjeldatakse gaaslahendusplasma põhitüüpe ning momendil aktuaalseid rakendusi.
+Kursuses antakse alusteave plasmast kui aine neljandast agregaatolekust. Tuuakse sisse plasmat kirjeldavad põhikarakteristikud. Enim tähelepanu pööratakse termodünaamiliselt mittetasakaalulisele plasmale ja tema rakendustele pinnatöötluses ja keskkonnasaaste vähendamisel. Tutvustatakse kõrgetemperatuurilise plasma rakendamist termotuumareaktsiooni käivitamiseks.
+Õpieesmärgid, miinimumtase:
+1. Laengukandjate liikumine elektri- ja magnetväljas.
+2. Plasma kui aine neljas agregaatolek; millal võib lugeda ioniseeritud keskkonda plasmaks.
+3. Tasakaaluline ja mittetasakaaluline plasma.
+4. Ristlõige.
+5. Elektronide jaotusfunktsioon.
+6. Peamised laengukandjate kao- ja tekkemehhanismid (löökionisatsioon, rekombinatsioon, kleepumine).
+7. Plasmakeemiliste reaktsioonide kiirusvõrrandi koostamine.
+8. Plasma diagnostika (info voolu ja spektrite registreerimisest).
+9. Huumlahendus (karakteristlikud piirkonnad, nende roll).
+10. Mittetasakaalulise plasma rakendusi (põhiidee, mõned konkreetsed näited).
+11. Plasma kui diamagneetik.
+12. Termotuumaenergeetika põhiidee ja realisatsioon.

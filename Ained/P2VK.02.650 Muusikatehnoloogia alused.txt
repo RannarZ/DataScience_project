@@ -1,0 +1,19 @@
+Õppeaine annab ülevaate helitehnika kasutamisest nii kontsertsituatsioonis kui helistuudios. Käsitletakse heli tekke ja levimisega seonduvat, tutvutakse erinevate akustiliste keskkondadega. Tutvutakse helindamiseks ning salvestamiseks vajalike seadmetega ja viiakse läbi praktilised tööd nagu akustiliste instrumentide salvestus, kontserdi helindamine, materjali kokkumäng.
+Aine annab ülevaate MIDI töötamisest, võimalustest, terminoloogiast jne. Õpitakse tundma arvutiprogrammi "Sibelius" üldisi põhimõtteid, nootide ja teiste muusikaliste väljendusvahendite sisestamist, küljendamist, navigeerimist, väljundite koostamist nii partiidena kui ka partituurina paberkandjal etteantud formaadis, elektroonilisel kujul ning publitseerimist internetti.
+Õppeaine tutvustab uute vahendite (tahvelarvutid) kasutamist nii helisalvestusel kui videode tegemisel, õpetab looma internetis levitamiseks sobilikke formaate ja materjale, tutvustab intellektuaalse omandi kaitse ja autoriõiguse aluseid.
+Õppeaine eesmärgiks on: 
+*	anda algteadmised heli olemusest, akustilise keskkonna mõjust helikvaliteedile;
+*	anda ülevaade helitrakti komponentidest, heli edastamise põhimõttest ja vajalikest komponentidest;
+*	anda algteadmised ja praktilised oskused lava kontserttehnika ning  helistuudio tehniliste võimaluste kasutamiseks; 
+*	anda ülevaade tänapäevase tehnoloogia ja muusika seostest ning arvuti kasutamisest muusikas;
+*	anda ülevaade tänapäeva muusika- ja multimeediakanalite formaatidest ja väljunditest, nendesse sisu loomisest ning intellektuaalse omandi kaitsest.
+Aine läbinud üliõpilane:
+*	mõistab heli ja akustilise keskkonna põhiparameetrite olemust;
+*	tunneb helitrakti ehitust, oskab analüüsida selles toimuvaid protsesse ja rakendada erinevaid protseduure soovitud lõpptulemuse saamiseks;
+*	tunneb ja oskab kasutada hääle ja instrumentide võimendamiseks vajaminevat helitehnikat ning suudab kirjeldada ja planeerida kontserdiks vajaliku helitehnika koguse ning vajalikud komponendid;
+*	tunneb ja oskab hinnata helistuudio tehnilisi võimalusi erinevate salvestuste planeerimiseks ja läbiviimiseks;
+*	tunneb noodistusprogrammi Sibelius võimalusi;
+*	tunneb ja teab VST- ja midi-instrumentide helitekitamise põhimõtteid;
+*	suudab kasutada midi-sekventserit GM-formaadis muusika loomiseks ja programmi Sibelius midi-loo noodipildi väljastamiseks ja publitseerimiseks;
+*	tunneb tahvelarvuti võimalusi heli ja pildi salvestamiseks ja järeltöötlemiseks ning internetikeskkonda "üles panemiseks";
+*	tunneb ja suudab kasutada ainega seotud spetsiifilist terminoloogiat

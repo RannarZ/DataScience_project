@@ -1,0 +1,13 @@
+Annab teadmised ja oskused hinnata kuuldeliselt ja analüsaatorite abil heli omadusi ja kvaliteeti. Õpitakse kuulama ja eristama inimkõrva jaoks kuuldavaid sageduspiirkondi. Vaadeldakse ja kuulatakse erineva dünaamikaastme ning sageduskarakteristikuga helimaterjali ning õpitakse hindama nende kvaliteeti ja kõla. Õpitakse kasutama heli analüsaatoreid. Võrreldakse ja hinnatakse erinevaid kadudega failiformaatide loomise koodekeid ja tarkvaralisi lahendusi.
+*	Anda põhjalikud teadmised helimaterjali analüüsimiseks ja kvaliteedi hindamiseks
+*	Anda oskused materjali kõlapildi analüüsimiseks analüsaatorite abil
+*	Harjutada kuuldeliselt eristama ja hindama helimaterjali erinevaid parameetreid ning kasutama nende määratlemiseks vastavat terminoloogiat
+*	Õpetada kuuldeliselt ära tundma sageduspiirkondi 
+*	Anda teadmised helimaterjali kvaliteeti mõjutavate tegurite kohta
+*	Oskab kuuldeliselt hinnata helimaterjali omadusi ja kvaliteeti
+*	Oskab eristada ja hinnata helimaterjali töötlemise astet ja/või selle vajadust
+*	Oskab määratleda ja hinnata materjali kvaliteeti määravad tegureid ning tunneb selle kirjeldamiseks vajaminevat terminoloogiat
+*	Tunneb ja oskab kuuldeliselt eristada sageduspiirkondi 
+*	Oskab hinnata ja analüüsida helimaterjali stereopanoraami laiust ja faasinähtusi
+*	Tunneb ja oskab kasutada heli analüüsimise tarkvaralisi ja raudvaralisi seadmeid
+*	Oskab eristada ja hinnata digitaalse helitöötluse failiformaatide iseärasusi ja kvaliteeti

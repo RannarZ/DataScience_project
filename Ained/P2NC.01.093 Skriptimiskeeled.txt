@@ -1,0 +1,11 @@
+Õppeaines käsitletakse skriptimiskeeli kui ühte töövahendit, mille abil on võimalik süsteemide haldamiseks vajalikke tegevusi efektiivselt ning otstarbekalt sooritada ja automatiseerida. Pikemalt tutvustatakse bash kooriku programmeerimisvõimalusi, skriptimiskeelte python, ruby ja vbscript kasutamist ning Windows-tööjaamade ja -serverite haldamisel kasutatavat skriptimiskeskkonda PowerShell. Õppija omandab aine läbimise käigus enamlevinud srkiptimisvahendite esmase kasutusoskuse ja ülevaate tänapäeval kasutatavatest skriptimisvahenditest.
+Õppeaine eesmärgiks on tutvustada õppijatele skriptimiskeelte vajalikkust korduvate haldustegevuste automatiseerimisel ning arendada õppijate oskuseid serverite ja tööjaamade haldamiseks.
+Kursuse läbinud üliõpilane: 
+
+mõistab skriptimise kui töövõtte vajadust ning kasutusvaldkondi.  
+
+teab  enimkasutatavaid skriptimiskeeli ja nende kasutamisvõimalusi.  
+
+kasutab skriptimiskeeli lihtsamate haldustegevuste automatiseerimiseks.  
+
+koostab keerulisemaid skripte kasutades selleks erialast kirjandust ja sotsiaalseid keskkondi.

@@ -1,0 +1,3 @@
+Seminar käsitleb iga kord erinevat krüptoloogia valdkonda.
+Seminari peaeesmärgiks on toetada üliõpilase krüptograafia või andmeturbe alaseid magistriõpinguid  ning tutvustada üliõpilasele erinevaid krüptograafia alamvaldkondi.
+Üliõpilane saab esmase kogemuse krüptograafiliste allikmater-jalidega töötamisel ning arendab oma oskusi saadud tulemuste korrektsel vormistamisel ja esitlemisel.

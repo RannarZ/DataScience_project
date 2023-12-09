@@ -1,0 +1,8 @@
+Kursusel käsitletakse eesti keele automaattöötlust praktilisest aspektist - kuidas kasutada olulisemaid meetodeid ja algoritme tekstiliste andmete analüüsimisel.
+Kursuse eesmärk on süvendada algkursustel omandatud programmeerimisoskuseid ning omandada teadmised ja praktilised kogemused eesti keele automaattöötluse meetodite kasutamiseks ja rakendamiseks tüüpiliste tekstitöötluse ülesannete lahendamisel.
+Üliõpilane oskab:
+1) jagada keele automaattöötluse protsessi loogilisteks alametappideks;
+2) kasutada Pythoni teegi EstNLTK töövahendeid
+3) töödelda erinevates formaatidest olevaid keeleandmeid (erinevad kodeeringud, märgendusformaadid (XML, JSON));
+4) koguda keeleandmeid veebist;
+5) valida ja rakendada sobivaid keeletöötluse meetodeid / algoritme;

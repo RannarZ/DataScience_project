@@ -1,0 +1,6 @@
+Loengutes käsitletakse levinenumaid tööstusprotsesside tahked jäätmeid, nende tekkimist, omadusi ja kasutatavust sekundaarse toormena. Vaadeldakse peamisi tehnoloogiaid , mida jäätmete väärindamiseks kasutatakse ning praktikumides tutvustatakse erinevaid meetodeid jäätmete omaduste uurimiseks ning taaskaustuse selgitamiseksja lahendatakse praktilisi probleemülesandeid.
+Anda üliõpilasele alusteadmised erinevate tööstussektorite protsessides tekkivatest tahketest jäätmetest ning nende väärindamisest ja kasutusest sekundaarse toormena.
+Üliõpilane:
+1. tunneb peamisi tahkeid töösstusjäätmeid ja oskab iseloomustada nende füüsikalis-keemilise omadusi;
+2. tunneb erinevate jäätmete peamisi taaskasutusvaldkondasid ning tehnoloogilisi lahendusi tahkete jäätmete ümbertöötlemiseks ja väärindamiseks;
+3. oskab teoreetilisi teadmisi rakendada praktikumides ning jäätmete taaskasutuskava koostamiseks.

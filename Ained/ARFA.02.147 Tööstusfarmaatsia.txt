@@ -1,0 +1,9 @@
+Kursuse eesmärgiks on anda esmased teadmised farmaatsiatööstuse kui majandusharu toimimisest. Tutvustatakse farmaatsiatööstuse toimimise põhiprotsesse nagu tootearendus, tööstuslike tehnoloogiate väljatöötamine, kvaliteedi tagamine ja kontroll, pakkimissüsteemid, õigusaktid ja normatiivdokumendid, tootmisüksuse disain, hulgimüügi korraldamine, kliiniliste katsete korraldamine ja ravimite turustamisstrateegiate väljatöötamine.
+Kursuse eesmärgiks on anda esmased teadmised farmaatsiatööstuse kui majandusharu toimimisest. Tutvustatakse tootearendust, tööstuslike tehnoloogiate väljatöötamist, kvaliteedi tagamise- ja kontrollisüsteeme, õigusakte ja normatiivdokumente jm ravimite tööstusliku tootmise põhietappe kuni kvaliteetse ravimi jõudmiseni lõpptarbijani.
+Kursuse lõpetaja:
+-	teab farmaatsiatööstuse põhifunktsioone ja -operatsioone 
+-	omab ülevaadet ravimiarendusest, ravimpreparaatide väljatöötamisest ning ravimite tööstuslikust tootmisest ja pakkimisest
+-	teab kvaliteedi tagamise ja kontrolli põhiprintsiipe ning standardeid (k.a Good Manufacturing Practices, GMP ja Good Laboratory Practices, GLP)
+-	omab ülevaadet EU ja kohalikest normatiivdokumentidest ning õigusaktidest, mis on seotud farmaatsiatööstusega 
+-	teab ravimitega seotud hulgimüügiprotseduure
+-	teab ravimitega seotud turustamisstrateegiaid ja -praktikat.

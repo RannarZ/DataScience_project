@@ -1,0 +1,28 @@
+EHITUSPALK. Soovitavad omadused, mõõdud, ladustamine.
+VARA tüübid, dimensioneerimine.
+SALAPULGAD. Paigutus seina piki- ja ristisuunas; dimensioneerimine.
+SEOTISTE TÜÜBID. Siseseina ühendamine välisseinaga. Palkide jätkamine ja kinnitamine.
+PALKKEHANDI TIHENDAMINE. Traditsioonilised tihendusmaterjalid. Toppimisvahendid ja -tehnika. Tööstuslikud tihendusmaterjalid.
+PÜSTELEMENDID PALKHOONES. Vajumise olemus. Vajumatute elementide sidumine rõhtpalkkehandiga. Vajumisega arvestamine. Palkseina kõrguskasvu arvutamine ja jälgimine.
+MUUD KONSTRUKTSIOONID PALKHOONES. 
+PALKKONSTRUKTSIOONI TEHNILISED OMADUSED JA TOIMIMINE. Palkide pragunemise põhjus ja laad, pragunemise takistamine ja suunamine. Palkseina kahjustavad tegurid. Seinaplaadi dimensioneerimine kõrgus- ja pikisuunas, tugevdamine. 
+PALKHOONE EHITUSE ALUSTAMINE. Aluspalkide laotusmustrid. Alumise täis- ja poolpalgi väljavalimine ja lõikamine. Seinte nurgakraadi määramine, ristmõõtude kontrollimine ja esimese palgirea paigaldamine. 
+PALKEHITUSTEHNIKA ASPEKTE. Lävepalgi tegemine. Vööpalk. Palgi jätkamine. Avade tegemine, postide paigaldamine, vajumisvaru arvutamine. Sillete kõrguse arvutamine vastavalt seina tõusule; sildepalkide valimine ja paigaldamine. Murispuu valimine ja paigaldamine. Sirutuspuude paigaldamine. Palkviilu ehitamine. Pärlinite valimine ja paigaldamine. Avatäidete paigaldamine.
+PALKHOONE TEISALDAMINE. Ehitamine teisaldamiseks; valmis palkhoone esmane dokumenteerimine teisaldamiseks, teisaldusjoonis; palkide markeerimine ja pakkimine transpordiks; transport ja säilitamine; palkkehandi püstitamine lõplikule kohale.
+LISAISOLATSIOON JA VOODERDAMINE. Distantslattide, isolatsioonimaterjali, tuuletõkkematerjali ja voodri paigaldamine. 
+PALKEHITUSTARVIKUD. Metallseotised, kinnitustarvikud, nende kasutusala ja paigaldamine.
+Kursuse käigus õpib üliõpilane mõistma palkkonstruktsioonide tehnilist toimimist.
+Kursuse edukal läbimisel üliõpilane
+- tunneb ehituspalkidele esitatavaid nõudeid;
+- tunneb palkkehandi aluse loodimise ja valmistamise, seinte nurgakraadi määramise ja ristmõõtude kontrollimise aluseid;
+- tunneb alumiste palkide niiskusisolatsioonimaterjale ja paigaldamise nõudeid;
+- tunneb rõhtpalkhoone püstiste ja muude vajumatute elementide palkkehandiga sidumise põhimõtteid;
+- tunneb palkhoone tihendusmaterjale ja tihendamise tehnikaid;
+- tunneb palkkehandi teisaldamise metoodikat ning pakkimise, transpordi, säilitamise ning püstitamise põhimõtteid;
+- tunneb töötervishoiu ja tööohutusnõudeid palkehituses;
+- tunneb ehituspalkide virnastamise põhimõtteid;
+- oskab arvutada asjakohast vajumisvaru;
+- oskab arvutada palkseina keskmist kõrguskasvu;
+-  tunneb traditsioonilisi ja tööstuslikke tihendusmaterjale ja vastavaid tehnikaid;
+- oskab koostada teisaldamisjoonist ja nummerdada palkkehandit teisaldamiseks;
+- määrata salapulkade sobivat asukohta.

@@ -1,0 +1,17 @@
+Variatsioonarvutuse alused.  Juhtimistega variatsioonülesanded. Pontrjagini maksimumprintsiip. Bellmanni printsiip.
+Tutvutakse variatsioonarvutuse ja optimaalse juhtimise teooria alustega.
+Kursuse läbinud õppur:
+1.	teab tugeva ja nõrga variatsiooni definitsiooni,
+2.	oskab arvutada funktsionaali nõrka variatsiooni,
+3.	oskab koostada Euleri võrrandeid Lagrange'i funktsionaali jaoks,
+4.	oskab lahendada lisatingimustega variatsioonülesandeid,
+5.	tunneb Euler-Poissoni võrrandeid,
+6.	oskab tuletada optimaalsuse tingimusi juhtimistega variatsioonülesannete korral,
+7.	oskab kasutada transversaalsuse tingimusi,
+8.	tunneb maksimumprintsiipi ja oskab seda kasutada lineaarsetel juhtudel,
+9.	oskab lahendada fikseerimata ajaga ülesandeid,
+10.	oskab tuletada maksimumprintsiibi tarvilikkust mittelineaarsel juhul,
+11.	tunneb juhtimise nõelvariatsiooni ja oskab leida sellele vastavat trajektoori muutu,
+12.	tunneb Bellmanni printsiipi ja Bellmanni võrrandit,
+13.	oskab tuletada tarvilikke tingimusi jaotatud parameetritega süsteemide korral,
+14.	tunneb seoseid maksimumprintsiibi ja Bellmanni printsiibi ning variatsioonarvutuse vahel.

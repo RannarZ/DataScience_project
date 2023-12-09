@@ -1,0 +1,16 @@
+Tegemist on sissejuhatava kursusega infoturbesse, mis on peamiselt suunatud mitteinformaatikutele. Kursuse eesmärgiks on anda kuulajale ülevaade praktilistest infoturbega seotud probleemidest ja õpetada kuulajat infoturbest lähtuvaid probleeme tuvastama. 
+
+Loengud on jaotatud kolmeks teemaplokiks. Esimene teemaplokk käsitleb enda andmete ja privaatsuse kaitsmist. Teine teemaplokk keskendub avaliku võtme krüptograafiale ning selle rakendustele (TLS, ID-kaart, mobiil-ID, e-hääletamine, blockchain). Kolmas teemaplokk annab ülevaate autentimismeetoditest, erinevat tüüpi rünnetest (kahjurvara klassifikatsioon, küberründed, õngitsusründed, erinevad veebiründed, wifi ründed, mobiilsidevõrkude vastased ründed) ning mõningatest kaitsemeetmetest.
+Anda kuulajale ülevaade praktilistest infoturbega seotud probleemidest. Õpetada kuulajat infoturbest lähtuvaid probleeme tuvastama.
+Selle kursuse lõpetanu:
+* oskab hinnata paroolide turvalisust ja paroole hallata
+* omab ülevaadet autentimisest ja krüptograafia kasutamisest
+* teab kus ja kuidas andmete krüpteerimist kasutatakse
+* mõistab privaatsuse olulisust ning teab kuidas oleks võimalik varjata oma võrguidentiteeti
+* omab ülevaadet andmete varundamise ja turvalise kustutamise võimalustest
+* suudab tuvastada lihtsamaid manipuleerimisründeid / õngitsusründeid
+* omab tehnilist ülevaadet Eesti ID-kaardist ja e-hääletamisest
+* omab ülevaadet nutiseadmetega seotud turvariskidest
+* omab ülevaadet tehnilistest rünntest, veebipõhistest rünnetest ja wifi rünnetest
+* oskab saata krüpteeritud sõnumeid 
+* omab esmaseid teadmisi mobiilsidevõrkude turvalisuse kohta

@@ -1,0 +1,9 @@
+Kursusel tutvustakse digihumanitaaria valdkonna põhimõisteid ja uurimisküsimusi ning meetodeid nende lahendamiseks. Õppeainet annavad erinevad külalisõppejõud ning nendest sõltub kursuse täpne sisu.
+2018/2019 õppeaasta kevadsemestril keskendus kursus peamiselt tekstikaevele ja -analüüsile statistikapaketiga R.
+
+Kursuse läbiviimist toetab Euroopa Liidu Regionaalarengu Fond (Tartu Ülikooli ASTRA projekt PER ASPERA).
+Eesmärk on tutvustada digihumanitaariat, selle uurimisküsimusi, meetodeid ja vahendeid, keskendudes igal aastal lähemalt ühele digihumanitaaria valdkonnale.
+Üliõpilane
+-	on tuttav digihumanitaaria põhimõistetega;
+-	suudab läbi viia andmetel põhineva empiirilise uurimuse;
+-	suudab rakendada kursusel õpitud meetodeid ja vahendeid oma materjalile

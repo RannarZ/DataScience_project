@@ -1,0 +1,6 @@
+Visualiseerimine. Graafiline lihtsustamine. Loovmeetodid.
+Õppeaine eesmärk on tutvustada erinevaid probleemide lahendamise loovmeetodeid ning õppida rakendama graafilise visualiseerimise tehnikat.
+Õppeaine läbinud õppija: 
+1) tunneb erinevaid loovmeetodeid ja oskab neid kasutada;
+2) oskab ideid ja mõtteid lihtsustatult teistele selgitada;
+3) rakendab graafilise visualiseerimise tehnikaid.

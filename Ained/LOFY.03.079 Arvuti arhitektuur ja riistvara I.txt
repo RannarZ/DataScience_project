@@ -1,0 +1,16 @@
+<b>NB! Tudengitel, kel on varasemalt positiivne tulemus õppeainetes LOFY.03.001 Arvutiriistvara I (3 EAP) ja/või LOFY.03.011 Arvuti arhitektuur (3 EAP), ei ole lubatud antud õppeainel osaleda.</b>
+
+Loengute käigus antakse ülevaade arvutite arhitektuuri põhiprintsiipidest ning arvutite ehitusest. Üliõpilane omandab ka ettekujutuse arvuti koostamisest ja oskuse valida arvutile hinna-kvaliteedi suhtes optimaalseid komponente ja lisaseadmeid. Kontrolltööd, õppematerjalide ja muu info jagamine toimub Moodle õpikeskkonna vahendusel.
+Kursuse eesmärk on üldhariduslik. Selle kursuse peaksid valima kõik kõrgharidust taotlevad üliõpilased, kes soovivad paremini orienteeruda maailmas, kus arvutitel baseeruvad tehnoloogiad leiavad üha laialdasemat kasutuselevõttu meie elu väga erinevates valdkondades. Kursus annab infotehnoloogia erialadel spetsialiseeruvatele üliõpilastele arvutite ehitusega seotud erialaainete omandamiseks vajalikud eelteadmised ning on seetõttu kohustuslik.
+Kursuse positiivsele hindele läbinud üliõpilane: 
+Tunneb personaalarvuti põhilisi komponente; 
+Oskab internetist arvutialast infot leida ja hinnata selle adekvaatsust; 
+Omab elementaarseid teadmisi arvuti koostamisest; 
+Oskab valida arvutile hinna-kvaliteedi suhtes optimaalseid komponente ja lisaseadmeid.
+* Omab ettekujutust masinkoodi käskudest;
+* Oskab joonistada lihtsamate arvutikomponentide loogikaskeeme;
+* Teab katkestuste ja otsemälupöördumiste olemust;
+* Teeb vahet sünkroonsel ja asünkroonsel andmeedastusel;
+* Tunneb arvuti mälukasutuse põhimõtteid;
+* Oskab protsessori põhimõtteskeemi abil kirjeldada protsessori tööd;
+* Tunneb toru (pipeline) tööpõhimõtet.

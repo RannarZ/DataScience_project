@@ -1,0 +1,16 @@
+Loengukursustes käsitletakse keemiliste ja füüsikaliste protsesside 
+kõige üldisemaid seaduspärasusi: soojusefekte ja tööd, protsessi 
+isevoolu kulgemise ja tasakaaluoleku termodünaamilisi tingimusi, faaside 
+tasakaalu ja faasiliste üleminekute seaduspärasusi. Vaadeldakse molekulaarsete lahuste 
+moodustumise tingimusi ja omadusi.
+Loeng annab teoreetilise baasi keemiliste protsesside termodünaamiliste seaduspärasuste mõistmiseks.
+Kursuse läbinud üliõpilane
+*	Tunneb ideaalsete ja reaalsete gaaside omadusi ja oskab reaalsete gaaside ning vedelike käitumist seletada van der Waalsi olekuvõrrandi alusel.
+*	Tunneb termodünaamika seadusi ja olekufunktsioone ning oskab kasutada termodünaamilisi suurusi erinevate süsteemide kirjeldamiseks.
+*	Tunneb keemilise tasakaalu ja faasilise tasakaalu termodünaamilist tagapõhja.
+*	Tunneb lihtsate keemiliste reaktsioonide diferentsiaalseid ja integraalseid kiirusevõrrandeid ja oskab matemaatiliselt kirjeldada mõningate keerukamate reaktsioonide seaduspärasusi (jadareaktsioon, pöörduv reaktsioon, paralleelne reaktsioon, statsionaarse kontsentratsiooni meetod).
+*	Tunneb reaktsiooni järgu ja kiiruse määramise meetodeid (sh algkiiruste meetod ja järgu vähendamise meetod) ning oskab eksperimentaalse kineetilise võrrandi alusel ennustada reaktsiooni mehhanismi.
+*	Tunneb aktiivse vaheoleku teooria põhialuseid. 
+*	Oskab kirjeldada faaside tasakaalu ja analüüsida ühe-, kahe- ja kolmekomponentsete süsteemide olekudiagramme.
+*	Oskab kirjeldada ideaalsete ja mitteideaalsete molekulaarsete lahuste omadusi.
+*      Oskab ülesannete lahendamisel kasutada tabelarvutusprogramme nii arvutusteks kui ka graafikute koolstamiseke.

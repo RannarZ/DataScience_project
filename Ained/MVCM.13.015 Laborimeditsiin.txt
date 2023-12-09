@@ -1,0 +1,14 @@
+Laborimeditsiin õppeaine (8 EAP) koosneb järgmistest alamoodulitest: kvaliteet ja metroloogia (1 EAP), kliiniline keemia (2 EAP), mikrobioloogia ja viroloogia (2 EAP), molekulaarsed ja rakubioloogilised meetodid laborimeditsiinis (2 EAP), eripatoloogia (1 EAP). 
+Õppeaine annab põhilise ülevaate tänapäevase haiglalabori  kvaliteedi põhimõtetest, alamoodulite valdkonnas  tehtavatest analüüsidest ja metoodikatest. Lisaks metoodikatele saavad üliõpilased vajaliku ülevaate teguritest mis võivad mõjutada analüüsimeetodeid ja analüüsitulemust.
+Üliõpilane omandab algteadmised ja esmased praktilisi oskuseid haiglate laboris kasutusel olevatest analüüsimeetoditest, nende kvaliteedikontrolli võimalustest, sagedasematest preanalüütilistest ja analüütilistest teguritest, mis võivad mõjutada tulemust ning andmekaitse ja meditsiinilabori eetika printsiipidest.
+1.	Teab olulisemaid kliinilises laboris kasutatavaid analüüsimeetodeid ja nende asutamisvajadust
+2.	Teab olulisemaid tegureid mis mõjutavad analüüsiprotsessi ja analüüsitulemust
+3.	Oskab kirjeldada ja võrrelda erinevaid analüüsimeetodeid
+4.	Viib läbi erinevate meetodite võrdlust ja verifitseerib meetodeid
+5.	Teab valideerimise aluseid
+6.	Tunneb laboratooriumite tööprotsesside korralduse aluseid ja riskihindamist laboris.
+7.	Tõlgendab kvaliteedikontrolli tulemusi ja teab analüüsi mõõtetulemuste tõlgendamise aluseid.
+8.	Suudab ette kanda ja oskab edasi anda omandatud teadmisi teistele laboritöötajatele.
+9.     Teab erialasõnavara ning oskab ennast väljendada erialalises keeles.
+10.   Teab andmekaitse ja meditsiinilabori eetika põhiprintsiipe. 
+11.   Oskab teha meeskonnatööd.

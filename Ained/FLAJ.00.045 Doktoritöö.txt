@@ -1,0 +1,13 @@
+Doktoritöö planeerimine, kirjutamine, rahvusvahelisel tasemel teadusartiklite avaldamine ja väitekirja  avalik kaitsmine.
+Doktoritööd ja selle kaitsmist hinnatakse järgmiste kriteeriumide alusel:
+1. Teemavalik, uurimisprobleem, ülesande piirang ja uurimisküsimused: teema peab olema informatsiooniväärtuselt oluline.
+2. Varasemate uurimistulemuste arvestamine: uurimus peab olema otstarbekas jätk varasemale diskursusele või uus teemakäsitlus. Varasemaid uurimusi tuleb niisiis arvesse võtta, aga neid ei tule sellistena korrata.
+3. Allikate valdamine: doktorant peab näitama, et ta tunneb relevantset allikmaterjali, tema allikate valik on antud teema seisukohalt adekvaatne ja piisav.
+4. Mõistete ja arutluse selgus: lugeja jaoks peab olema selge, millega uurimuses tegeldakse.
+5. Kasutatud meetodid: uurija peab arutlema valitud lähenemisviisi üle ning seda põhjendama.
+6. Tulemuste esitlus ja järeldused: tulemuste ja järelduste tähtsust teaduse arengu seisukohalt ei tule ülehinnata, aga ka mitte alahinnata. Analüüs peab olema loogiline ja arvestama erinevaid vaatepunkte.
+7. Vormiline külg: esitus peab olema loogilise struktuuriga ja keeleliselt selge.
+8. Kriitiline suhtumine: uurija peab olema kriitiline varasemate uurimuste, teooriate, meetodite, materjali, allikate ja oma töö teadusliku väärtuse suhtes. Teiste sõnadega, hea uurimus on algupärane ja iseseisev.
+9. Kaitsmisprotseduuri käigus väitleb dissertant oponendi(tide)ga ja kaitseb veenvalt doktoritöös kasutatud meetodeid ja tulemusi.
+Doktorandi teadustöö eesmärgiks on omandada uurimistöö läbiviimise oskused ja tehnikad. Teadustöö tulemusena valmib iseseisev uurimus, milles on esitatud konkreetse teadusvaldkonna olulise probleemi argumenteeritud originaalne lahendus ja mis eeldab vähemalt kolme uurimusliku artikli avaldamist oma eriala juhtivates rahvusvahelise levikuga väljaannetes.
+Doktorant omandab erialase teadusliku uurimistöö läbiviimise oskused ja tehnikad; oskab püstitada oma konkreetses teadusvaldkonnas olulist uurimisprobleemi ja pakkuma sellele argumenteeritud originaalse lahenduse; valdab andmete kogumise ja analüüsi metoodikat; omab kõrgtasemel analüüsi- ja kriitikavõimet; omab oskust kirjutada rahvusvahelisel tasemel teaduslikke artikleid.

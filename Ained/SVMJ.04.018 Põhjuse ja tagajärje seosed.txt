@@ -1,0 +1,12 @@
+Kursus annab sissejuhatuse järgmistesse meetoditesse: Rubini mudel; Diferents-diferents hindamine; Tõenäosuspõhine sobitamine; Regressiooni kohandamise (RA), tõenäosuslik pöörd-kaalumine (IPW) and (IPWRA); regressioonikatkestuse meetod; muud hindamis- ja poliitikaanalüüsi meetodid. Peamiselt käsitletakse aines järelhindamiseks rakendatavaid meetodeid, näiteks kontrollitud eksperimendid, pool eksperimentaalsed lähenemised (DiD, RDD, instrumentaalmuutuja), paneel- ja ristandmete regressioonid. Kursuse käigus tutvume nõuetega poliitikakujundamise jaoks kehtivate nõuetega mõjude hindamiseks. Kursuse lõpuks disainivad üliõpilased ise vastavalt uurimisküsimusele parima võimaliku lähenemise mõjude hindamiseks koostades uuringuplaani.
+Kursuse põhiliseks eesmärgiks on tutvustada üliõpilastele ja õpetada neid rakendama enim kasutatavaid meetodeid sotsiaalsete fenomenide põhjuslike seoste mõõtmiseks.
+Üliõpilased õpivad järgmiste meetodite põhilisi teoreetilisi aluseid ja põhilisi tehnilisi aspekte: Rubini mudel; diferents-diferents hindamine; tõenäosuspõhine sobitamine; regressiooni kohandamise (RA), tõenäosuslik pöörd-kaalumine (IPW) ja (IPWRA); regressioonikatkestuse meetod; muud hindamis- ja poliitikaanalüüsi meetodid.
+Aine läbinud üliõpilased:
+*	Teavad mõjuhindamise peamisi eeldusi uuringute disainimiseks ning rakendamiseks.
+*	Tunnevad Eesti poliitikakujundamisel kehtivaid nõudeid mõjude hindamiseks.
+*	Oskavad valida ülaltoodud meetoditest kõige sobivama konkreetse andmestiku ja uurimisküsimuse jaoks.
+*	On võimelised kirjutama koodi Stata tarkvarapaketis genereerimaks kirjeldavaid statistikuid, hindamaks ökonomeetrilisi mudeleid, testimaks hüpoteese.
+*	On arendanud oma oskusi interpreteerimaks statistikuid, ökonomeetrilise mudeli hindamise tulemusi, hüpoteeside testimise tulemusi.
+*	Teavad, mis on levinumad probleemid eel- ja järelhindamisel ning mis meetodid võimalikud on. 
+*	Oskavad kriitiliselt hinnata mõjusid hindavaid uuringuid.
+*	On arendanud oma kriitilist mõtlemist läbi teadusartiklite lugemise ja hindamise.

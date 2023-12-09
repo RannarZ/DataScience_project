@@ -1,0 +1,18 @@
+*	Visuaalse kommunikatsiooni põhimõtteid
+*	Visualiseerimise tehnikaid
+*	Disainipõhimõtteid
+*	Erinevaid töövahendeid vastavalt eesmärgile
+*	Graafiline visualiseerimine
+*	Pilditöötlus
+*	Infodisain ja infoesitlus
+*	Veebilehe loomise ja haldamise põhioskused
+Õppeaine eesmärk on anda teadmised visuaalse kommunikatsiooni  ja  graafilise disaini põhimõtetest ning nende rakenduslikest aspektidest veebipõhiste või vabavaraliste programmide näitel.
+Õppeaine läbinud õppija:
+* teab visuaalse kommunikatsiooni põhimõtteid
+* teab visualiseerimise tehnikaid
+* teab disainipõhimõtteid
+* teab erinevaid töövahendeid vastavalt eesmärgile
+* oskab graafiliselt visualiseerida
+* oskab pilditöötlust
+* oskab infodisaini ja infoesitlust
+* omandab veebilehe loomise ja haldamise põhioskused

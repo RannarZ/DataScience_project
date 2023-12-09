@@ -1,0 +1,3 @@
+Kursusel tehakse esmast tutvust statistikapaketiga R. Õpitakse erinevaid andmestikke analüüsiks ette valmistama: kuidas andmetabelit struktureerida, kuidas erinevaid faile R-i sisse lugeda, kuidas tekste regulaaravaldiste abil teisendada. Tutvutakse deskriptiivse statistikaga ning andmete visualiseerimisega.
+Tehakse esmast tutvust statistikapaketiga R, õpitakse tundma R-i süntaksit ja selle abil analüüsima erinevaid humanitaarteaduslikke andmestikke.
+Kursuse läbinu oskab andmefaile R-is avada ja käidelda. Oskab kasutada regulaaravaldisi. Aimab lineaarseid seoseid ja sagedusjaotusi. Oskab andmeid visualiseerida.

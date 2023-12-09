@@ -1,0 +1,11 @@
+Käesolev kursus õpetab andmeteaduse peamisi praktilisi oskusi, nagu andmete kogumine, puhastamine ja muundamine kasutades erinevaid andmete allikaid ning formaate (veebilehed, sotsiaalmeedia, veebiteenused, SQL- ja NoSQL-andmebaasid ning struktureeritud ja lihttekstifailid) ja andmete organiseerimine lähtuvalt erinevatest standardsetest andmemudelitest (relatsioonilised mudelid, mitmemõõtmelised mudelid). Kursus keskendub keskmise suurusega andmetele, kuid käsitleb põgusalt ka suurte andmete jaoks mõeldud tööriistu.
+Kursuse põhieesmärk on omandada praktilisi programmeerimisoskusi andmete kogumiseks, puhastamiseks, muundamiseks ning organiseerimiseks, lähtudes mitmetest andmemudelitest. Kursus katab enamik tavalisemaid andmeformaate, -mudeleid ja -tehnoloogiaid.
+Kursuse edukal lõpetamisel oskab tudeng:
+* Koguda andmeid mitmesugustest allikatest, nagu veebilehtedelt, sotsiaalmeediast, veebiteenustest, SQL- ja NoSQL-andmebaasidest ning struktureeritud, JSON- ja lihttekstifailidest;
+* Hinnata ja mõõta andmete kvaliteeti ja kogust;
+* Puhastada andmeid, tuvastades ning töödeldes duplikaate ning puuduvaid väärtusi;
+* Organiseerida ning muundada andmeid sobivatele kujudele, nagu Pythoni andmestruktuurid, relatsioonilised andmebaasid, struktureeritud või lihttekstifaili formaadid;
+* Ehitada automaatseid andmetöötluse töövooge keskmise suurusega andmetele;
+* Ehitada andmetele mudeleid kasutades erinevaid andmete modelleerimise metoodikaid nagu relatsiooniline modelleerimine ja mitmemõõtmeline modelleerimine;
+* Kirjeldada erinevate andmete säilitamise ja töötlemise tehnoloogiate eeliseid ja piiranguid, lähtuvalt etteantud nõuetest (näiteks töötlemine pakikaupa või reaalajas);
+* Kirjeldada mõningate suurte andmete tehnoloogiate tugevusi ning nõrkusi.

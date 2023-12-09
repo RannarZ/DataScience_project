@@ -1,0 +1,6 @@
+Tutvustatakse kaasaegse tehnoloogia füüsikalisi alusprintsiipe põhirõhuga elektromagnetismile. Tulevased gümnaasiumi füüsikaõpetajad omandavad oskuse õpetada valikkursust "Füüsika ja tehnika".
+Tutvustada kaasaegse tehnoloogia füüsikalisi alusprintsiipe ning anda tulevasele gümnaasiumi füüsikaõpetajale oskus õpetada valikkursust "Füüsika ja tehnika".
+Aine läbinud üliõpilane:
+1. Tunneb kaasaegse füüsikalis-tehnoloogilise maailmapildi põhimõisteid aine veebitoes toodud sõnastikuga määratletud tasemel;
+2. Oskab valikkursuse "Füüsika ja tehnika" kavas toodud mahus selgitada valitud tehnoloogiliste materjalide ning seadmete funktsioneerimist, kasutades korrektselt füüsika termineid;
+3. Suudab iseseisvalt koostada ja ette kanda referaadi, mis ammendavalt käsitleb mingi olulise tehnoloogilise materjali või seadme funktsioneerimist.

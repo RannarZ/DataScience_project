@@ -1,0 +1,8 @@
+Praktikumi tööd katavad plasmat iseloomustavate olulisemate parameetrite määramist, plasmal põhinevaid diagnostikameetodeid ja plasma rakendusi. Uuritakse väliste parameetrite (gaasi koostis, rõhk, vool) mõju klassikalisele huumlahendusplasma põhisuurustele (temperatuur, laengukandjate kontsentratsioon, väljatugevus). Emissioonspektroskoopia abil määratakse plasma temperatuur. Neeldumisspektroskoopia meetoditest tutvustatakse tuunitava dioodlaseri abil spektrijoone kuju ja neelduvate ühendite koguse määramist. Plasma rakendustest tutvutakse laser ablatsiooni ja laserindutseeritud plasmaga ning nende kasutamisega materjaliteaduses ja diagnostikas. Samuti tutvutakse barjäärlahenduse kasutamisega pindade ja gaaside töötlemisel ning sellega seonduvalt ka plasmasse antava võimsuse ja pinnaenergia mõõtmisega.
+Praktikumi eesmärk on tutvustada plasmauuringutes enimkasutatavaid meetodeid ja anda praktilised kogemused mõnedes plasmaga seotud rakendustes. Praktikumis käsitletavad eksperimendid toetavad plasmafüüsika ja rakenduse loengut. Samas sobib praktikumi ka teistele füüsika ja materjaliteaduse magistrantidele kes kasutavad oma töös plasmafüüsikal baseeruvaid meetodeid.
+Praktikumi läbinud üliõpilased on praktiliste tööde käigus tutvunud järgnevate plasmafüüsika teemadega:
+- Huumlahenduse elektrilised ja optikalised karakteristikud
+- Emissioon ja neeldumisspektroskoopia kasutamine plasmadiagnostikas
+- Laserablatsioon ja laser-indutseeritud plasma
+- Plasma rakendamine pindade ja gaaside töötlemisel
+- Lisaks on üliõpilased kursis peamiste ohutustehniliste aspektidega, mis on olulised töös plasmadega.

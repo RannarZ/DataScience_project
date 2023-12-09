@@ -1,0 +1,9 @@
+-	Kursuse raames tutvustatakse tudengitele voolu kasutamist sündmuste heli- ja valguslahenduste planeerimisel ning teostamisel, helist ning heli tekitamise ja võimendamise põhimõtetest.
+-	Antakse algteadmised valgusest ja valguse tekitamisest
+-	Praktiseeritakse sündmuste heli- ja valgusalaste terviklahenduste kavandite koostamist.
+Heli- ja valgustehnika praktikumi eesmärgiks on anda  kultuurikorralduse erialal õppivatele tudengitele ülevaade valguse osast erinevatel sündmustel  ning etenduste  ja kõikvõimalike  muusikasündmuste heli ning valguskujunduste kavandamisest ning teostamisest.
+-	On omandanud algteadmised voolu kasutamisest sündmuste heli- ja valguslahenduste planeerimisel ning teostamisel
+-	On omandanud algteadmised helist ning heli tekitamise ja võimendamise põhimõtetest.
+-	On omandanud algteadmised valgusest ja valguse tekitamisest
+-	Suudab erinevaid heli-, lava- ja valgustehnilisi termineid kasutades kavandada sündmuste heli- ja valgusalaste terviklahenduste kavandeid.
+-	Suudab iseseisvalt suhelda heli-, valgus- ja lavatehnilise meeskonnaga erinevate tehniliste lahenduste teostamisel ning on võimeline hindama selle teostuseks vajalikku aja- ja töömahtu.

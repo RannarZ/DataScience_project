@@ -1,0 +1,5 @@
+Seminariettekannetes käsitletakse põhiliselt Tartu Ülikooli algebraistide uusimaid teadustulemusi poolrühmateoorias ja
+kategooriateoorias. Ettekandeid teevad nii õppejõud kui üliõpilased, kusjuures seminar algab paari sissejuhatava
+ettekandega, kus korratakse üle kõik põhilised semestri jooksul kasutatavad mõisted.
+Tutvuda teatud uuemate teadustulemustega poolrühmade ja kategooriate valdkonnas.
+Seminari läbinud üliõpilane omab algteadmisi poolrühmade Morita ekvivalentsuse teoorias kasutatavatest mõistetest ja tehnikatest.

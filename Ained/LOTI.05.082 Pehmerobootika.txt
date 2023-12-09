@@ -1,0 +1,12 @@
+Kursus annab ülevaate pehmerobootikast kui teadusvaldkonnast, olulistest tehnoloogiatest ning seostest loodusega bioinspireeritud disaini näol.
+Üliõpilased omandavad oskuse tuvastada praktilisi olukordi, mis on efektiivselt lahenduvad moodsa bioinspireeritud pehmerobootikatehnoloogia vahenditega
+Pärast aine läbimist oskab õliõpilane:
+1.	Defineerida pehmerobootika rakendusvälja;
+2.	Seletada pehmerobootika seost robootika, keemia ja bioloogiaga;
+3.	Seletada pehmerobootika võtmemõisteid, kasutades sobivaid näiteid;
+4.	Loetleda, seletada ja võrrelda levinud pehmerobootikatehnoloogiaid;
+5.	Lugeda kriitiliselt ja analüüsida pehmerobootika-alast teadusteksti;
+6.	Loetleda pehmerobootika eeliseid, kasutades sobivaid näiteid;
+7.	Seletada bioinspireeritud disaini eeliseid, kasutades sobivaid näiteid;
+8.	Identifitseerida pehmerobootika jaoks tähenduslikke elemente looduses ning formuleerida vastavaid printsiipe robootikakeeles;
+9.	Rakendada pehme (bioinspireeritud) robootika põhimõtteid originaalses praktilises disainis.

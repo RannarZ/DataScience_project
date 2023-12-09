@@ -1,0 +1,4 @@
+- Vektorgraafika põhiste vabavaraliste programmide tööpõhimõtted jooniste tegemiseks.
+- Lihtsama trükise vm erialase esitlusmaterjali kujundamine.
+Vabavaraliste tarkvarade kasutamise baasoskuste omandamine jooniste jm esitlusmaterjalide tegemiseks.
+Aine edukal läbimisel omandab üliõpilane erialaste tööde vormistamist toetavad esmased arvutil kujundamise oskused.

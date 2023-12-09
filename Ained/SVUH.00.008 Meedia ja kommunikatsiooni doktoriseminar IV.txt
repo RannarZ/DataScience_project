@@ -1,0 +1,3 @@
+Kursusel käsitletakse järgmisi teemasid: katusartikli struktuur, peamised probleemid katusartikli kirjutamisel, katusartiklile esitatavad nõuded ja ootused. Doktorant kirjutab kursuse raames esimese versiooni enda katusartiklist, esitleb ja arutleb selle üle seminaris ning on oponendiks kaasdoktorandi katusartikli või monograafia esitlusel.
+Kursuse eesmärk on aidata kaasa doktoritöö "katusartiklite" valmimisele või monograafia peatükkide viimistlemisele.
+Ainekursuse edukal läbimisel oskab doktorant kirjutada ja kriitiliselt hinnata (retsenseerida) doktoritöö "katusartiklit" või monograafiat.

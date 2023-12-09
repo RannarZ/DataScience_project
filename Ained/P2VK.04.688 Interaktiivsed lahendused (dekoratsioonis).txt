@@ -1,0 +1,9 @@
+Kantavad targad lahendused;
+interaktiivsed muuseumid;
+virtuaalsüsteemid;
+interaktiivsed robottehnilised lahendused teatrites.
+Anda ülevaade tehnoloogiatest, mida saab rakendada interaktiivsete lahenduste loomiseks. Arendada praktilisi oskusi interaktiivsete lahenduste loomisel teatritele ja muuseumidele.
+Aine edukal läbimisel üliõpilane:
+1) omab ülevaadet interaktiivsete lahenduste loomise tehnoloogiatest;
+2) teab erinevaid teatritele ja muuseumidele sobivaid arendusplatvorme;
+3) oskab koostada interaktiivseid lahendusi teatritele ja muuseumidele.

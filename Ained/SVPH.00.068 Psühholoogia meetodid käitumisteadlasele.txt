@@ -1,0 +1,16 @@
+1.	Sissejuhatus metoodikasse ja kursusesse
+2.	Juhuslikustatud kontroll-uuringu kavandamine 
+3.	Juhuslikustatud kontroll-uuringu kvaliteet ja tulemuste interpreteerimine
+4.	Eksperimendilähedased meetodid (ja veidi statistika interpreteerimisest)
+5.	Psühhomeetriline lähenemine testimisele
+6.	Küsimustik kui uurimismeetod
+7.	Rakenduslik psühhofüsioloogia
+8.	Uuringueetika
+Kursuse aidatab käitumisteaduse rakendajal planeerida seletusjõulisi ja eetilisi uuringuid.
+Aine edukalt läbinud õppija tegutseb tõhusamalt uuringute tellija, teostaja ja tõlgendajana, sest ta...
+*	oskab hinnata andmete ja tõendite kvaliteeti
+*	oskab disainida juhuslikustatud kontrolluuringut
+*	on kursis juhuslikustamise peamiste alternatiividega
+*	oskab valida psühhomeetrilisi küsimustikke ning sõnastada enesekohaseid küsimusi
+*	on kursis rakendusliku psühhfüsioloogiaga
+*	oskab analüüsida uuringute vastavust eetilistele põhimõtetele

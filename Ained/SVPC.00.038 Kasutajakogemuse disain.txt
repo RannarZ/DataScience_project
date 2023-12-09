@@ -1,0 +1,7 @@
+Kliendikäitumise olemus ja mõjurid. Kasutajakogemuse disain - idee välja töötamine. Persoona ja tema vajadused. Probleemi analüüs ja väärtus. Kasutajakgemuse testimise võimalused. Kasutajakogemuse audit.
+Arendada oskust kasutada erinevaid disaini meetodeid kasutajakogemuse mõjutamiseks reaal- ja virtuaalkeskkonnas.
+Õppeaine läbinud õppija:
+* teab kasutajakoegumuse kujunemise mehanisme ning mõjureid
+* oskab analüüsida toote/teenuse kasutajakogemust tervilikult
+* teab kasutajakogemuse kujunemise spetsiifikat virtuaalkeskkonnas
+* oskab koostada kasutajakoegmuse analüüsi projekti plaani ning teostada kasutajakogemuse uuringu ning töötada välja sellest lähtuvad parendusettepanekud

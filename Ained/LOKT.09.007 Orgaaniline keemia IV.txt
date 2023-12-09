@@ -1,0 +1,11 @@
+Orgaanilise keemia süvendatud õppimine. Peamiselt iseseisva töö ning seminariarutelude käigus käsitletakse kõige olulisemaid reaktsioonitüüpe kaasaegse füüsikalise orgaanilise keemia vaatekohast.
+See on orgaanilise keemia kokkuvõttev kursus, kus käsitletakse selle teadusharu erinevaid teoreetilisi ja praktilisi aspekte ja nende seotust teiste keemia harudega ning materjaliteadusega. Kursus käsitleb orgaaniliste ühendite struktuuri, orgaaniliste reaktsioonide mehhanisme, reagentide struktuuri ja reaktsioonikeskkonna mõju orgaaniliste ühendite reaktsioonivõimele ning  enam levinud kontseptsioone ja teooriaid, mis selgitavad nende nähtuste olemust ja võimaldavad nende kohta omandatud teadmisi süstematiseerida. Oluliseks lisaeesmärgiks on keemilise informatsiooni allikate ning nende kasutusvõimaluste tutvustamine.
+Kursuse läbinud üliõpilane on võimeline:
+- mõistma loogilisi seoseid orgaanilise keemia erinevate aspektide vahel, milleks on eelkõige molekulide struktuur, reaktsioonivõime ja reaktsioonikeskkonna mõju, 
+- kirjeldama orgaaniliste molekulide struktuuri ja ruumilist ehitust ning oskama neid siduda peamiste struktuuri uurimise meetoditega,
+- selgitama levinud arusaamu peamiste orgaaniliste reaktsioonide mehhanismist, 
+- mõistma orgaanilise reaktsioonivõime ja reagentide struktuuri vahelisi sõltuvusi,  
+- kirjeldama peamisi struktuuriefektide kirjeldamiseks kasutatavaid kontseptsioone ja teooriaid,
+- mõistma reaktsioonikeskkonna osa orgaaniliste reaktsioonide toimumisel, 
+- selgitama solvendiefekte lähtudes enam levinud solvendiefektide teooriatest ning  teoreetilistest arusaamadest reaktsioonide toimumise kohta,
+- analüüsima konkreetse reaktsiooni mehhanismi lähtudes orgaanilise reaktsioonivõime ning  solvendiefektide kohta käivatest üldistest põhimõtetest.

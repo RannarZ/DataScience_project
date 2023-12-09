@@ -1,0 +1,6 @@
+Loengukursus ja praktikum on GLP (Good Laboratory Practice), GMP (Good Manufacturing Practice) ja ISO 17025 olemusest, kasutusvaldkondadest ja põhimõtetest, samuti GLP/GMP ja ISO 17025 põhimõtete kasutamisest uurimistöös, tavalaboris ning tootmises. GLP/GMP ja ISO 17025 kvaliteedimudelite võrdlus.
+Anda ülevaade GLP (Good Laboratory Practice), GMP (Good Manufacturing Practice) ja ISO 17025 olemusest, kasutusvaldkondadest ja põhimõtetest, samuti GLP/GMP ja ISO 17025 põhimõtete kasutamisest uurimistöös, tavalaboris ning tootmises.
+Tudeng 
+-- tunneb GLP (Good Laboratory Practice), GMP (Good Manufacturing Practice) ja ISO 17025 olemust, kasutusvaldkondi ja põhimõtteid 
+-- tunneb GLP/GMP ja ISO 17025 põhimõtete kasutamisest uurimistöös, tavalaboris ning tootmises 
+-- teab GLP/GMP ja ISO 17025 kvaliteedimudelite erinevusi.

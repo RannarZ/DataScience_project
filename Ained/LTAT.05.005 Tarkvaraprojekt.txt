@@ -1,0 +1,11 @@
+Tarkvara arendustöö praktiline sooritamine rühmatööna.
+Projekti koostamine annab õppijale ettekujutuse kaasaegsest tarkvara arenduse praktikast ja infrastruktuurist, sealhulgas iteratiivsest arendusest, versiooni kontrollist, ühisplaneerimisest, automaattestimisest ja pidevast integratsioonist. Õppijad koostavad tarkvara reaalsele kliendile arvestades reaalseid nõudeid. Õppija ülesandeks on täpsustada nõudeid, luua plaan ja realiseerida vastav tarkvara. Töö tulemusi kontrollitakse nii kursuse juhendajate kui ka klientide poolt. Kursus koosneb loengutest, individuaalsetest konsultatsioonidest, meeskondade koosolekutest ja meeskonnatööst.
+Kursuse eesmärgiks on anda praktilisi kogemusi tarkvaraprojektide läbiviimisel ning aidata õpitud teooriat praktikas rakendada. Kursuse läbinud õppur on suuteline töötama väiksemas tarkvaraarendustiimis ning seda juhtima, koostama tarkvara projektis vajalikku dokumentatsiooni, tarkvara programmeerima ja testima ning esitlusi tegema.
+Aine läbinud üliõpilane valdab järgmist:
+*	Tarkvaraprojekti juhtimine.
+*	Tarkvaraanalüüs ja -projekteerimine
+*	Realiseerimine
+*	Testimine sh. automaatne testimine
+*	Versioonihaldus
+*      Pidev integreerimine
+*	Meeskonnas suhtlemise oskused

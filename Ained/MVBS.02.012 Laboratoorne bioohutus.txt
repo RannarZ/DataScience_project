@@ -1,0 +1,8 @@
+Kursus on täielikult veebipõhine ja toimub Moodle'i keskkonnas. Kursus on jaotatud 6 mooduliks: sissejuhatus, seadusandlus ja bioohutus, üldpõhimõtted, spetsiifilised patogeenid, iseseisvaks õppimiseks mõeldud materjalid ja teadmiste kontroll. Kursusel on üks foorum kõigi teadete ja küsimuste/vastuste jaoks; arutelu võib algatada igaüks ning kursuse õppejõud üritavad leida lahendusi kõigile küsimustele esimesel võimalusel. Iga mooduli juures on üles pandud kohustuslik õppematerjal.
+Kursuse eesmärgiks on anda huvilistele põhiteadmised laboratoorse bioohutuse alal. Kursusel osalemine ei eelda varasemaid teadmisi bioohutuse kohta ning kursus on avatud kõigile huvitatutele.
+Kursuse läbimine on eelduseks 2. kategooria bioohutuse taseme (BSL2) laboris töötamisele. Kursuse läbimine võimaldab informeerida terviseametit ja tööinspektsiooni, et töötaja on pädev BSL2 laboris töötama.
+Pärast kursuse läbimist:
+*	Tunned laboratoose bioohutusega seotud mõisteid ja regulatsioone 
+*	Tead BSL2 laboris töötamise üldiseid printsiipe.
+*	Omad ettekujutust BSL2 laboris töötamisega kaasnevatest riskidest
+*	Võib informeerida terviseametit ja tööinspektsiooni, et töötaja on pädev BSL2 laboris töötama.

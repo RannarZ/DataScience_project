@@ -1,0 +1,11 @@
+.Net raamistiku baasil tarkvaraarendus väiksemas meeskonnas. .Net raamistiku olemus ning peamised tehnoloogiad, pöördumine andmeallikate poole. C# programmeerimiskeel. LINQ päringukeel.
+Arendada õppija programmeerimise ja meeskonnatöö oskuseid, andes vajalikud erialased teadmised ja oskused.
+Kursuse läbinud üliõpilane: 
+
+- kirjeldab .Net raamistiku olemust ning peamisi tehnoloogiaid. 
+
+- koostab C# programmeerimiskeeles lihtsamaid rakendusi või suurema tarkvaralahenduse osiseid. 
+
+- koostab lisamaterjale kasutades LINQ päringukeeles päringuid ning kasutada vajadusel .Net raamistiku vahendeid levinumate andmeallikate (XML, andmebaasiserverid ning failid) poole pöördumiseks. 
+
+- töötab erialases meeskonnas.

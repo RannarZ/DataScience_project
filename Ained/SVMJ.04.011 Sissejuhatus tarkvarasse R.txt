@@ -1,0 +1,9 @@
+R on üks enimlevinud ja võimekaimaid andmeanalüüsi-keskkondasid, millel on samas suhteliselt järsk esialgne õppimiskõver. See sissejuhatav kursus aitab üle raskemast osast - teeb selgeks R-is töötamise põhiloogika. Lisaks tutvustakse moodsaid R-i vahendeid nagu graafika grammatika pakett ggplot nii andmete graafiliseks uurimiseks kui tulemuste esitamiseks, dplyr andmete esialgseks töötluseks ja sobivale kujule viimiseks ning Rmarkdowni andmeanalüüsi integreerimiseks raportite või teadustööde kirjutamisprotsessi.
+Õppeaine eesmärk on anda iseseisev võimekus R-is töötamiseks.
+Õppeaine läbimisel omandab üliõpilane:
+-	Ris ja Rstudios töötamise põhiloogika
+-	funktsioonide kirjutamise R-is
+-	graafika grammatika ja andmegraafikapaketi ggplot2 alused
+-	tidy data kontseptsiooni ja andmete pikale-laiale kujule viimise
+-	andmete filtreerimise, grupipõhiste kokkuvõtete tegemise lisapaketiga dplyr
+-	minimaalse vajaliku RMarkdownist

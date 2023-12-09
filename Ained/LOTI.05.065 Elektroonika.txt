@@ -1,0 +1,7 @@
+-
+Aine eesmärk on teoreetiliste ja praktiliste teadmiste omandamine analoog-ja digitaalelektroonika alal.
+Kursuse läbinu:
+1) Tunneb passiivkomponente ja oskab neid kasutada
+2) Tunneb operatsioonivõimendi (OV) tööpõhimõtte, tähtsamaid OV skeeme ja oskab neid kastutada
+3) Tunneb bipolaar- ja väljatransistoride tööd.
+4) Tunneb digitaalelektroonika aluseid ja oskab kasutada digitaalelektroonika tähtsamaid skeeme.

@@ -1,0 +1,8 @@
+Valikkursuses käsitletakse põhjalikult lahuste omadusi, lahuste valmistamist ja erinevaid lahuste kontsentratsiooni väljendusviise. Lahendatakse arvutus- ning probleemülesandeid.
+Omandada lahuste omaduste, kontsentratsiooni väljendusviiside ja lahustes esinevate tasakaaludega seotud ülesannete lahendamise oskus.
+1.Kursuse läbinud üliõpilased teavad erinevaid lahuse kontsentratsiooni väljendusviise (massi- ja mahuprotsent, molaarsus, molaalsus, moolimurd, normaalsus ja oskavad teha kontsentratsiooni väljendusviiside ümberarvutusi.
+2.Oskavad lahendada lahuste valmistamise, lahuste lahjendamise ja lahuste segamisega seotud arvutusülesandeid.
+3.Oskavad lahendada ülesandeid, mis on seotud elektrolüütide lahustes esinevate  protsessidega (pH arvutused hapete- ja leeliste lahustes, puhverlahustes ning hüdrolüüsuvate soolade lahustes).
+4. Teevad vahet ja eristavad lahustes tekkivaid erinevaid süsteeme, valivad vastavad arvutusvalemid nende lahuste omaduste arvutamiseks. Oskavad hinnata lahuste ligikaudseid pH väärtusi.
+5.Tunnevad lahuste üldisi (kolligatiivseid) omadusi ja suudavad teha vastavaid lihtsamaid arvutusi.
+6. Oskavad lahendada lihtsamaid arvutusülesandeid reaktsioonivõrrandi põhjal.

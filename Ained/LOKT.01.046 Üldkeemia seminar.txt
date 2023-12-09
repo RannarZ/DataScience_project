@@ -1,0 +1,14 @@
+Seminaris käsitletakse keemia aluste loengus läbivõetud teemasid, lahendatakse mitmesuguseid probleem- ja arvutusülesandeid vastavate teemade kohta selgitamaks ja kinnistamaks õpitud materjali.
+Seminaris selgitatakse ja kinnistatakse keemia aluste loengu materjali ning harjutatakse probleem- ja arvutusülesannete lahendamist.
+1.Kursuse läbinud üliõpilane teab keemias enamlevinud ühendite nomenklatuuri, aineklasse, keemia põhimõisteid ja põhiseadusi ning oskab neid rakendada erinevates süsteemides.
+2. Teab ja oskab arvutada erinevaid lahuse kontsentratsiooni väljendusviise (massi- ja mahuprotsent, molaalsus, moolimurd) ja lahendada lahuste valmistamisega, lahjendamisega ning segamisega seotud arvutusülesandeid.
+3.Oskab tõlgendada ja põhjendada elektrolüütide lahustes toimuvaid erinevaid protsesse.  Oskab eristada erinevaid tekkivaid süsteeme üksteisest ning lahendada vastavaid arvutus- ning probleemülesandeid.
+a) Eristab tugevaid ja nõrku happeid/alused ning oskab lahendada pH-d nendes lahustes.
+b) Teab, mis on tasakaalukonstant ning oskab seda arvutada lähtudes ainete algkontsentratsioonidest. Oskab kasutada dissotsiatsioonikonstanti elektrolüütide tugevuse hindamisel. 
+c) Oskab hinnata, kuidas saab tasakaalu nihutada lähetainete või saaduste suunas.
+d) Teab, mis on lahustuvuskorrutis ja oskab seda rakendada sadestustasakaal ülesannetes. Oskab hinnata ainete võrdlemisel ligikaudu aine lahustuvust kasutades lahustuvuskorrutist.
+e) Teab lahuste kolligatiivseid omadusi ja nende sõltuvust erinevatest parameetritest. Oskab lahendada ülesandeid keemistemperatuuri, külmumistemperatuuri ja osmootse  rõhuga eritüüpi lahustes.
+f) Teab, mis on puhverlahused. Oskab soovitada, milliseid aineid peaks kasutama konkreetse puhverlahuse valmistamiseks lähtudes lahuse pH-st. Oskab selgitada puhverlahuste puhverdusvõimet.
+4.Teab elektrokeemia, aatomi ehituse ja keemilise sideme põhiseisukohti ja oskab neid rakendada ainete omaduste üle otsustamisel.
+5. Oskab määrata elementide oksüdatsiooniastmeid ning tasakaalustada redoksreaktsioone nii elektron- kui ioonelektronsel- meetodil.
+6. Oskab lahendada I-järki kineetika järgi toimuvate reaktsioonide kiiruskonstante, poolestus aega ja ainete algkontsentratsioone ja kontsentratsioone mingil aja hetkel

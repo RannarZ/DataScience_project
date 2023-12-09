@@ -1,0 +1,34 @@
+PALKEHITUSE PRAKTIKA
+Harjutades kinnistatakse aine Palkehituse alused ja Palkehituse põhikursus materjal. Üliõpilane peab tööperioodil praktikapäevikut vastavalt RE praktikajuhendis (https://www.is.ut.ee/pls/ois_sso/tere.tulemast?viit=2120006) määratletud korrale ning esitab iga praktika järgu kohta korrakohase kirjaliku praktikaaruande.
+Praktikal kinnistab üliõpilane teadmised palkehitustehnikast ning loob valdkonnaga vahetu kogemusliku suhte. Praktika läbimise järel on üliõpilane omandanud adekvaatse ettekujutuse tootlikkusest, materjali- ja töömahtudest ning kvaliteedist käsitöises palkehituses ning on moraalselt ja tehniliselt küps praktikaks kutselises palkehitusebrigaadis.
+Praktika edukalt läbinud üliõpilane oskab
+-	inventeerida ehituspalke;
+-	koostada ja vormistada palgitabelit, töödelda tabeli andmeid tabelarvutusprogrammis;
+-	kasutada palgitabelit töökohal;
+-	arvutada ja palgitabeli abil välja valida sobivad alus- ja poolpalgid;
+-	lõigata välja alumised täis- ja poolpalgid;
+-	kontrollida aluse või vundamendi tasapinnalisust;
+-	paigaldada plaanikohaselt esimest palgirida;
+-	kontrollida palkkehandi ristmõõte;
+-	arvutada järgmise palgi sobivaid mõõte ja valida palgitabeli abil sobivat palki;
+-	määrata palgi õiget ladva-tüve suunda vastavalt asukohale nurgamustris;
+-	määrata sirkli kalibreeringut musta tapi tarvis;
+-	lõigata välja musta tappi vastavalt tapi tüübile;
+-	määrata loodsirkli kalibreeringut lõpliku märkimise tarvis;
+-	justeerida loodsirklit;
+-	märkida vara ja tappi enamlevinud tapiliikide puhul;
+-	palgi töötlemiseks vajalikud töövahendeid komplekteerida ja ette valmistada;
+-	palgi töötlemiseks töökohta ette valmistada ning asetada palki ergonoomilisse ja ohutusse töötlemisasendisse;
+-	kasutada palgi töötlemisel tarvitatavaid rakiseid ning ise lihtsamaid rakiseid valmistada;
+-	valida töövahendeid vastavalt sooritatavale operatsioonile;
+-	lõigata välja tappi ja vara õiges tehnoloogilises järjekorras;
+-	viimistleda tappi ja vara;
+-	viimistleda vara ja tappi käsitööriistadega;
+-	asetada töödeldud palki seinale, iseseisvalt tuvastada ja parandada vigu;
+-	dimensioneerida ja valmistada salapulki;
+-	määrata iseseisvalt salapulkade sobivat asukohta;
+-	puurida salapulkade avasid ja paigaldada salapulki;
+-	siluda, viimistleda ja puhastada valmis palgipindu;
+-	hooldada palkehituses kasutatavaid töövahendeid;
+-	korraldada nõuetekohaselt oma töökohta;
+-	töötada ennast ja keskkonda säästvalt.

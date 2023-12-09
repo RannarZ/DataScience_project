@@ -1,0 +1,14 @@
+Tarkvaratehnika paradigmad, projekti juhtimine, ülesande ja tarkvara nõuete analüüs, tarkvara kavandamine, realiseerimine, testimine, kvaliteedi juhtimine ja kontroll.
+Omandatakse tarkvaratehnika alased algteadmised ja esmane oskus tööks tarkvaraprojekti põhietappides. Vastavad teadmised on hädavajalikud osalmisel tarkvaraprojektides.
+Tingimata saavutatavad miinimumteadmised ja oskused:
+a) mõisted:
+- tarkvaratehnika paradigmad;
+- süsteemianalüüs;
+- nõuete analüüs;
+- kavandamine;
+- realiseerimine;
+- testimine;
+- hooldus;
+- tarkvaraprojekti juhtimine.
+b) oskused:
+- tarkvaraprotsessi vähemalt ühe arendusmetoodika ja vahenditekomplekti valdamine.

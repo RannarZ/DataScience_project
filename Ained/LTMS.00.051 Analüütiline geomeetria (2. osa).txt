@@ -1,0 +1,6 @@
+Antud kursus on sissejuhatus analüütilisse geomeetriasse. Kursuses vaadeldakse järgmisi teemasid: 1) ristkoordinaatide teisendused, ortogonaalmaatriksid, Euleri nurgad, polaar-, silinder- ja sfäärkoordinaadid; 2) koonuselõiked (ellips, hüperbool, parabool) ja nende optilised omadused, teist järku joonte uurimine ortogonaalinvariantide abil; 3) teist järku pinnad.
+Loodus- ja täppisteaduste valdkonna üliõpilastele geomeetria algteadmiste andmine.
+Selle kursuse läbinud üliõpilane:
+1. oskab kasutada polaarkoordinaatide süsteemi tasandil, silinder-koordinaatide ja sfäärkoordinaatide süsteemi ruumis lihtsamate ülesannete lahendamisel;
+2. tunneb ära teist järku joone võrrandi, oskab seda koostada erinevate algandmete põhjal, oskab arvutada teist järku joone võrrandi ortogonaalinvariante, oskab määrata teist järku joone tüüpi ortogonaalinvariantide põhjal ning teab teist järku joontega seotud põhimõisteid;
+3. tunneb ära teist järku pindu ruumis ja teab teist järku pindadega seotud põhimõisteid.

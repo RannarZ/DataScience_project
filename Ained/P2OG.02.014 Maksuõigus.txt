@@ -1,0 +1,21 @@
+Õppeaines käsitletakse:
+-	maksude kehtestamise teoreetilisi aluseid, maksu mõistet, maksude eesmärke ja liike;
+-	maksuõiguse üldpõhimõtteid ja nende rakendust kohtupraktikas;
+-	maksuõiguse seoseid teiste õigusharudega;
+-	maksuvõlaõigust, maksunõuete- ja kohustuste tekkimise, muutumise ja lõppemise aluseid, kohustuste üleminekut, kolmanda isiku vastutust;
+-	maksumenetlust kui haldusmenetluse eriliiki - maksude deklareerimise, kontrollimise, määramise ja sissenõudmise menetlust;
+-	sanktsioone maksuseaduste rikkumise eest;
+-	maksuõiguse eriosa, üksikute riiklike ja kohalike maksude arvestamise ja tasumise korda, maksude omavahelisi seoseid; 
+-	olulisemaid praktilisi maksukaasusi ja nende lahendusi.
+Aine läbinud üliõpilane: 
+-	kirjeldab maksuõiguse süsteemi ja selle valdkonna rahvusvaheliste ja siseriiklike õigusallikate hierarhiat ja rakendab seda maksuõiguslike kaasuste lahendamisel; 
+-	Teab maksuõiguse aluspõhimõtteid ja nende sisu ning selgitab nende mõju maksuõigusnormide kujundamisele ja rakendamisele;  
+-	selgitab erinevate maksuõiguse valdkondade põhimõisteid, maksuobjekte, maksusubjekte, maksu arvestamise põhireegleid ja muid maksuõigussuhte elemente; 
+-	selgitab erinevate maksude toimimise erisusi ja sarnasusi ning maksuõiguse kokkupuutepunkte teiste õigusharudega; 
+-	Teab maksumenetluse põhietappe ning olulisemaid maksumenetluse põhimõtteid; 
+-	lahendab lihtsamaid maksuõiguslikke kaasusi.
+Aine läbinud üliõpilane 
+- omab ülevaadet riigi rahandust ja eelarvet reguleerivatest õigusaktidest;
+- tunneb põhjalikult Eesti maksuõiguse teooriat ja praktikat;
+- on kursis maksukorralduse põhimõtete ja põhimõistetega, tähtsamate maksuõiguse arengut mõjutanud kohtulahenditega ning Euroopa Liidu õiguse mõjudega maksuõiguse arengule;
+- tunneb erinevate maksude toimimise erisusi ning maksuõiguse kokkupuutepunkte teiste õigusharudega.

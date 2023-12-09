@@ -1,0 +1,8 @@
+Kursusel omandatakse teadmisi hajussüsteemide kohta; omandatakse kogemusi rakendades neid konkreetsele probleemile. Lisaks on võimalik töötada keskkonnas, kus saadakse teadmisi teistelt meeskonnaliikmetelt.
+Teemad on seotud hajussüsteemidega kokkuleppel juhendajaga
+Kursuse eesmärgiks on anda õpilastele teadmisi ja oskusi hajussüsteemide ja nendega seotud valdkondade uurimistöö tegemiseks. 
+Üliõpilased õpivad viima läbi rakendusprojekti hajussüsteemidega seotud spetsiifiliste küsimuste lahendamiseks ühes Hajussüsteemide õppetooli meeskonnas (Suure Jõudlusega Arvutuste meeskond, Mobiili- ja pilvearvutuste laboratoorium, Intelligentsete transpordisüsteemide meeskond.)
+Kursuse edukaks lõpetamisel on üliõpilane omandanud:
+- Kuidas kasutada teoreetilist lähenemist rakendusuuringutes.
+- Kuidas töötada ja suhelda juhendaja ja teiste meeskonnaliikmetega.
+- Töötada iseseisvalt juhendaja abil etteantud projekti elluviimiseks

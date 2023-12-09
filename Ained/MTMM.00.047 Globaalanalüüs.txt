@@ -1,0 +1,16 @@
+Klassikalise analüüsi mõisted ja meetodid laiendatakse arvruumi piirkonnalt suvalisele siledale muutkonnale (globaalses käsitluses). Rakendustena käsitletakse Lie rühmi ning nende kasutamist teoreetilises füüsikas.
+Antud loengute kursuse eesmärk on tutvustada kaasaegse diferentsiaalgeomeetria valdkonda, mis tegeleb muutkondade globaalsete struktuuridega.
+Selle kursuse läbinud üliõpilane:
+1. teab topoloogilise ja diferentseeruva muutkonna mõisteid;
+2. oskab kirjeldada projektiivse ruumi ja Grassmanni muutkonna
+diferentseeruvat struktuuri;
+3. oskab leida vektorvälja integraaljoont ja integraaljoonte poolt tekitatud
+teisenduste üheparameetrilist rühma;
+4. oskab leida kujutuse Jacobi maatriksit;
+5. tunneb immersiooni, submersiooni ja difeomorfismi mõisteid;
+6. teab, mis on Lie rühm, Lie algebra ja Lie rühma toime muutkonnal;
+7. oskab arvutada vektorväljade kommutatoorit ja  Lie tuletist;
+8. tunneb diferentsiaalvormide arvutust ja oskab leida väliskorrutis ning
+välisdiferentsiaal;
+9. tunneb Maxwelli võrrandeid ja oskab neid kirjutada diferentsiaalvormide
+abil.

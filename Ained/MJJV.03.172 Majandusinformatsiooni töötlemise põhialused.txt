@@ -1,0 +1,6 @@
+Kursus on mõeldud kõigile, kes tegelevad andmete sisestuse, tabelite ja diagrammide koostamise, töötlemise ja korrektse vormistamisega ning soovivad oma tööd teha kiiremini ning efektiivsemalt.
+Anda praktilised oskused tabeltöötlusprogrammi MS Excel kasutamiseks keskmisel tasemel.
+Aine läbinud üliõpilane:
+oskab luua tabeleid ja neid töödelda, kasutades lihtsamaid meetodeid; 
+koostab ja kasutab keskmisel tasemel majandusinformatsiooni töötlemiseks sobivaid valemeid ja funktsioone; 
+esitab andmeid graafiliselt.

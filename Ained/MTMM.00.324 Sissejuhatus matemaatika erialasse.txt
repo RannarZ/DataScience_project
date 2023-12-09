@@ -1,0 +1,21 @@
+Sissejuhatav aine
+- matemaatika eriala üliõpilastele matemaatika ja selle rakenduste probleemistiku ja meetodite tutvustamiseks,
+- edasistes õpingutes vajaminevate üldoskuste olemasolu tagamiseks.
+Anda üliõpilastele
+* ülevaade matemaatika erinevatest valdkondadest ja rakendustest ning võimalikest spetsialiseerumissuundadest,
+* kogemus teabeotsingust õppekava, õppekorralduse, eriala ja instituudi kohta,
+* ülevaade erinevatest õpistiilidest ja õppimisvõtetest, õpimotivatsioonist.
+* kogemus lihtsa erialase teksti vormistamisest,
+* kogemus avalikust esinemisest seminarivormis.
+Õpiväljundid
+ - on saanud ülevaate matemaatika erinevatest rakendustest ja uurimissuundadest
+ - on tutvunud matemaatikute ja matemaatika rakendajate karjääriradadega
+ - oskab leida materjale nii õppekava, õppekorralduse kui ka instituudi kohta
+ - oskab leida motivatsiooni õppimisel
+ - tunneb üldisi ja erialaspetsiifilisi õppimisvõtteid
+ - teadvustab varasema kogemuse põhjal enda ja kaastudengite jaoks töötavaid ja mittetöötavaid õpistiile
+ - orienteerub Tartu Ülikooli üldistes ja erialastes andmebaasides
+ - oskab kasutada õppealaseid keskkondi (ÕIS, Moodle)
+ - kujundab oma õpingute raja (õppeainete ja moodulite valik koostoimes ainete lugemise plaani ja eeldusainetega)
+ - omandab esmase oskuse lihtsa matemaatilise teksti vormistamisel
+ - saab esinemiskogemuse (kaks seminariettekannet)

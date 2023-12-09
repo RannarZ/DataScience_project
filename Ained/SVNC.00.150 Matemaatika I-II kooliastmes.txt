@@ -1,0 +1,6 @@
+Tutvutakse I ja II kooliastmes õpetatava matemaatika ainevaldkonnaga. Vaadeldakse I ja II kooliastme matemaatikakursuse põhiteemade käsitlemise erinevaid võimalusi.
+Anda vajalikud teadmised aritmeetika põhiküsimustest, hulgateooria alustest ning tasandilistest ja ruumilistest kujunditest, mis on vajalikud l ja II kooliastmes matemaatika õpetamiseks. Anda ülevaade matemaatika õpetamise võtetest I ja II kooliastmes ja nende rakendamisest õppeprotsessis.
+Kursuse läbinud üliõpilane: 
+1) teab 1.-6. klassi riiklikku õppekava matemaatika ainevaldkonnas;
+2) teab I ja II kooliastme matemaatikaalaseid põhimõisteid;
+3) on omandanud matemaatika õpetamise süsteemi ning teadmised õppeprotsessi juhtimiseks 1.-6.klassi matemaatikatundides.

@@ -1,0 +1,3 @@
+Kursuses käsitletakse põhilisi tahkisefüüsika kontseptsioone ja mudeleid, mis on kasutusel materjalide struktuuri ja omaduste kirjeldamisel. Harjutustundides lahendatakse vastavaid ülesandeid.
+Kursuse eesmärk on anda süsteemne ettekujutus tahkisefüüsika ja kvantmehhaanika mudelitest ja kontseptsioonidest materjalide struktuuri ja omaduste kirjeldamiseks ja materjalide valikuks ning disainiks erinevate rakenduste tarbeks.
+Kursuse läbinu omab ettekujutust tahkisefüüsika ja kvantmehhaanika mudelitest ja kontseptsioonidest materjalide kirjeldamiseks, oskab nendest lähtuvalt sooritada materjalide omaduste arvutusi ja valida materjale erinevate rakenduste tarbeks, oskab kavandada sellesuuunalisi uurimis- ja arendustöid.

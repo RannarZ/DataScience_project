@@ -1,0 +1,12 @@
+Kursus annab ülevaate materjalide koostisest ja ehitusest, valmistamise ja töötlemise tehnoloogiatest, omadustest ja rakendusaladest, koosnedes neljast osast, mis vastavad erinevatele materjaliklassidele: polümeeridele, metallidele, keraamikale ja klaasidele ning komposiitmaterjalidele.  Iga osa sisaldab  loenguid, seminaride ja praktikume.
+1.osa. Polümeerid (õppejõud: Tarmo Tamm, toimub sügisel)
+2.osa. Metallid (õppejõud: Hele Siimon, toimub sügisel)
+3.osa. Keraamika ja klaasid (õppejõud: Gunnar Nurk ja Siim Hödemann, toimub kevadel)
+4.osa. Komposiidid (õppejõud: Margus Kodu, toimub kevadel)
+Aine eesmärgiks on anda ülevaade erinevate materjalide koostisest ja struktuurist, valmistamise ja töötlemise põhitehnoloogiatest, omadustest ja rakendusaladest.
+Kursuse läbinud üliõpilane:
+1.	Oskab liigitada tehnomaterjale, teab nende ehitust, põhiomadusi ja rakendusvaldkondi.
+2.	Teab struktuursete materjalide põhilisi valmistamise ja töötlemise tehnoloogiaid.
+3.	Oskab seostada materjalide rakendusi ja omadusi nende valmistamiseks kasutatavate tehnoloogiate eripäraga (ehk põhjendada, miks antud liiki materjalide valmistamiseks kasutatakse just seda ja mitte mõnda teist tehnoloogiat).
+4.	Oskab lahendada ülesandeid kursuses käsitletud teemadel.
+5.	Omab polümeeride, metallide, keraamika või klaaside ja komposiitmaterjalide valmistamise ja/või nende omaduste määramise praktilise töö kogemust.

@@ -1,0 +1,3 @@
+Projekti vajadus ja eesmärgid; riskid ja võimalused. Kvaliteet. Projekti organisatsioon ja struktuurid. Probleemide lahendamine. Projekti ulatus ja väljundid, faasid, ressurisid, kulud, rahastamine. Projektide hanked ja lepingud, muutused, kontroll ja aruandlus ning käivitamine ja lõpetamine. Informatsioon, dokumentatsioon ja kommunikatsioon. IKT toe vahendid ja nende kasutamine, sh MS Office ja MS Project kasutamine.
+Kursus annab teadmised projektijuhtimise põhimeetoditest ning oskused nende rakendamiseks spetsiaalse tarkvara toel (IPMA ICB tehnilised kompetentsid).
+Aine läbinud üliõpilane: teab projektijuhtimise põhimeetodeid ja oskab neid rakendada mittekompleksse projekti kavandamisel ja teostamisel, kasutades spetsiaalset tarkvara.

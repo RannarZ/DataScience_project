@@ -1,0 +1,6 @@
+Paralleelprogrammeerimise klassifikatsioon ja tehnikad: käsutaseme, andme- ja ülesandetasemeline paralleelsus; kaudne ja otsene paralleelsus. Ülevaade paralleelsuse mudelitest: deklaratiivne, sõnumiedastuse, jagatud olekumudelid. Paralleelprogrammeerimiskeelte kontseptsioonid: puhtad funktsioonid, ühekordselt omistatavad muutujad, andmevoopõhine täitmine, futuurid, rohelised lõimed.
+Kursuse eesmärgiks on õpetada üliõpilastele paralleelprogrammeerimist praktikas. Kursuse eesmärk on kasutada erinevaid programmeerimiskeeli. Üliõpilased peaksid suutma programmeerida vähemalt ühes neist.
+-Paralleelprogrammeerimiseks vajalike programmeerimiskeelte omaduste mõistmine
+-Programmeerimiskeelte klassifikatsioon vastavalt paralleelprogrammeerimise vajadustele
+-Paralleelprogrammide rakendamine eri keeltes vastavalt nendefunktsionaalsusele
+-Arusaam paralleelprogrammide võimaluste ja piirangute vastavusest

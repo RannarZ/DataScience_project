@@ -1,0 +1,3 @@
+Iseseisev töö õppejõuga eelnevalt kokkulepitud teemal.
+Teha täiendavat iseseisvat uurimistööd keeletehnoloogia mõne probleemi lahendamiseks, luua keeletöötlustarkvara.
+Üliõpilased saavad kogemuse keeletehnoloogia-alaste allikmaterjalidega töötamisel ja loovad keeletarkvara.

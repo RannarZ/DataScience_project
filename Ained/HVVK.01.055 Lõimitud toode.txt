@@ -1,0 +1,27 @@
+Erinevatest materjalidest ja tehnikatest töötava seadme loov disainiprotsess. Lõimitakse eelnevalt õpitud eriala õppeaineid. Valmib suurem toode koos õpimapiga.
+Õppeaines "Lõimitud toode" peab lisaks reaalsele töötavale tootele lisanduma ka kirjalikult vormistatud (nn kaante vahel) (õpi)materjal ja esitlus.
+
+Reaalne töötav toode peab sisaldama mikrokontrollerit, elektroonika komponente, 3D printimise ja/või cnc freesimise ning teisi õpitud eriala õppeainete materjale ja nende töötlemist. Soovitav on kasutada uuemaid materjale ja töötlusviise.
+
+Õpimapp koosneb järgmistest osadest:
+
+Tiitelleht.
+Sisukord.
+Sissejuhatus (kirjeldada, millise tööga on tegemist, mis põhjuselt on see valitud, kes seda kasutama hakkavad, miks see vajalik on jne).
+Toote kirjeldus (millistest osadest koosneb, kuidas see üldiselt töötab, soovitused kasutamiseks jne).
+Materjalide loetelu (koos mõõtudega, kustkohast hangitud ja hinnad, lisada pildid algmaterjalidest).
+Toote tehnilised lahendused  ja tööpõhimõte (sh liited, konkreetne tööpõhimõte, viimistlus jne).
+Joonised (sh mõõdud ja 3D modelleerimine) ja pildid (sh tööprotsessist). 
+Järeldused (tööprotsessist ja tootest tulenevalt) ja soovitused edaspidiseks (mida silmas pidada ka seda, kui teha uus sarnane toode). Kuidas jäite tööprotsessiga rahule, hinnang oma tööle. 
+Kasutatud kirjandus.
+Iga magistrant esitleb (nt PowerPoint vahendusel (vajadusel lisatud videod), lisatud pildid) oma toodet ja reaalselt toote toimimist (ca 10 + 5 min).
+Peale magistrandi esitlust saavad teised (sh magistrandid) esitada esitlejale küsimusi (kuni 5 min).
+
+Hinne kujuneb kaitsmise, reaalse toimiva toote ja kirjaliku materjali (õpimapi) põhjal. Kirjalik materjal (õpimapp/fail) ja esitluse fail jäävad peale kaitsmist vastutava õppejõu kätte, toode jääb magistrandile.
+Kaitsmine toimub  TÜ Viljandi kultuuriakadeemias.
+Õppeaine eesmärgiks on võimaldada üliõpilasel omandada iseseisev praktilise suunitlusega tehnoloogiline-loominguline toode. Õppeaine õpetamise vahendusel saavutatakse üliõpilase valmisolek rakendada loovalt omandatud erialaseid teadmisi ja oskusi, mille najal valmib töötav seade. Õpitakse töötama teemakohaste allikatega, analüüsitakse vajalikke materjale ja tehnikaid ning leitakse sobivad lahendused. Lõimitud tootest koostatakse õpimapp.
+1.	oskab lõimida erinevates eriala õppeainetes omandatud teadmisi ja oskusi;
+2.	suudab lahendada toote loomisega seotud ülesandeid ja leida ning lahendada probleeme; 
+3.	oskab toote disainiprotsessi analüüsida ja sünteesida uusi loovaid lahendusi; 
+4.	oskab korrektselt koostada õpimappi;
+5.	oskab toodet esitleda ja kaitsta.

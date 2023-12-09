@@ -1,0 +1,3 @@
+Kursus tutvustab kaasaegset filosoofilist loogikat ja selle kasutusviise.
+Kursuse eesmärk on tutvustada propositsioonilist loogikat ja esimest järku predikaatloogikat. Selgitatakse, kuidas loogikat kasutatakse argumentide ja ka loomuliku keele semantika rekonstrueerimisel ning analüüsimisel.
+Kursuse läbinud tudengid mõistavad formaalset süntaksit ja semantikat, suudavad tõlkida loomuliku keele lauseid esimest järku predikaatloogika keelde, rekonstrueerida argumente ja kontrollida nende kehtivust. Üliõpilased peaksid olema omandanud objektkeeles tõestuste läbiviimise oskuse.

@@ -1,0 +1,14 @@
+Auditoorsetes seminarides antakse ülevaade kujunduse tööprotsessidest ja vahenditest. Teostatakse praktilisi töid. Teemad: 
+1) kompositsiooni, värviteooria ja tüpograafia alused;
+2) pilditöötluse põhimõtted ja töövõtted;
+3) vektorgraafika loomine ja kujundamine;
+4) kihid ja nende kasutamine;
+5) informatsiooni kujundamine;
+6) protsesside ja klienditeekonna kaardistamise; vahendid (Bizagi, Smaply, Canvanizer, Mockflow).
+Õppeaine eesmärk on anda algteadmised kujundusgraafika põhimõtetest ning nende rakenduslikest aspektidest protsesside kaardistamisel ja info esitlemisel, programmide Canva, Powtoon, Miro, InVisionapp jm kaudu.
+Õppeaine läbinud õppija:
+1) teab piksel- ja vektorgraafika töötlemisel kasutatavaid peamisi vabavaralisi ning tasulisi tarkvarapakette;
+2) teab kujundusgraafika loomise põhimõtteid;
+3) teab programmide Canva, Powtoon, Miro, InVisionapp otstarvet;
+4) oskab valida graafika loomiseks sobiva tarkvara;
+5) oskab kasutada  Canva, Powtoon, Miro, InVisionapp programme.

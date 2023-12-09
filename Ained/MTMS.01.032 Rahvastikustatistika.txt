@@ -1,0 +1,7 @@
+Rahvastikustatistika ajaloost. Sündimus, suremus, ränne. Soolis-vanuseline jaotus. Viljakuskordaja, selle muutumine. Suremustabelid, keskmine oodatav eluiga. Rahvastikuprojektsioon (prognoos).
+Aine üldeesmärk on:
+- anda põhioskused demograafiliste andmete töötlemiseks ja analüüsiks,
+- anda ülevaade rahvastikustatistikas kasutatavatest matemaatilise statistika meetoditest.
+Aine läbinud üliõpilane 
+- tunneb rahvastikustatistikas kasutatavaid mõisteid ja näitajaid,
+- oskab arvutada rahvastikkuprotsesse iseloomustavaid suurusi ja neid analüüsida .

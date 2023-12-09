@@ -1,0 +1,6 @@
+Kursus annab süvendatud käsitluse ühest uurimisteemast kirikuloos. Vaadeldakse üht spetsiifilist probleemi üldise kirikuloo taustal.
+Õppida oskust näha üksikprobleemi tähendust suurema terviku taustal.
+Kursuse lõpus üliõpilased:
+* on omandanud põhjaliku ettekujutuse ühest olulisest probleemist kirikuloos
+* suudavad analüüsida probleemi tekkepõhjusi
+* seostavad käsitletava probleemi kirikuloo üldplaani ja üldajalooga.

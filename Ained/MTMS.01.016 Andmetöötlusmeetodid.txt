@@ -1,0 +1,5 @@
+Kursuse raames antakse ülevaade koondindeksite koostamise metodoloogiast. Õpitakse seda rakendama. Koostatakse üks koondindeks.
+Tutvustada koondindeksite loomise ja kasutamise metoodikat, anda praktiline kogemus indeksi loomisel.
+Õppeaine läbinud üliõpilane
+- tunneb koondindeksi moodustamise meetodeid; 
+- oskab koostada koondindeksi.

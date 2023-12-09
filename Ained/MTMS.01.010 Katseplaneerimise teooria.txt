@@ -1,0 +1,5 @@
+Käsitletakse niihästi diskreetsetest (faktor-) kui ka pidevatest argumentidest sõltuvate katsete planeerimist, plaanide optimaalsuskriteeriume mitmesugustele dispersioonanalüüsi skeemidele (juhuslikud/determineeritud faktorid, blokid, randomiseeritud plaanid, ladina ruudud, täis- ja murdfaktorplaanid jm.).
+Anda ülevaade katseplaneerimise põhimõtetest ja -meetoditest.
+Aine läbinud üliõpilane oskab
+1) koostada katsekava,
+2) valida katse eesmärgile vastava katseplaani.

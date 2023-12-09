@@ -1,0 +1,9 @@
+Kursusel käsitletakse aine üldisi termineid; antakse ülevaade erinevat laadi info kirjeldamise, liigitamise, märksõnastamise, annoteerimise ja refereerimise eesmärkidest ja alusdokumentidest; tutvustatakse kirjeldamise, liigitamise, märksõnastamise, annoteerimise ja refereerimise tehnikaid, erinevaid metaandmete standardeid ning nende kasutamise põhimõtteid.
+Kursuse eesmärk on anda õppijatele teoreetilised teadmised ja esmased praktilised oskused eri tüüpi inforessursside ning infokandjate kirjeldamiseks, liigitamiseks, märksõnastamiseks, annoteerimiseks ning refereerimiseks
+Kursuse läbinud üliõpilane:
+- tunneb erinevaid metaandmete tüüpe ja standardeid;
+- on omandanud informatsiooni kirjeldamise, liigitamise, märksõnastamise, annoteerimise ning refereerimise teoreetilised alused;
+- teab informatsiooni kirjeldamise, liigitamise, märksõnastamise, annoteerimise ning refereerimise eesmärke ja nõudeid;
+- on kursis vastavasisuliste juhiste, reeglite ning standarditega;
+- kasutab korrektselt valdkonna põhimõisted ning omab ülevaadet valdkonna põhiprobleemidest ning suundumustest;
+- on omandanud esmased praktilised oskused eri liiki inforessursside ja infokandjate kirjeldamiseks, liigitamiseks, märksõnastamiseks, annoteerimiseks ja refereerimiseks.

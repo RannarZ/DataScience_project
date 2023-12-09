@@ -1,0 +1,9 @@
+Kursus ehitub üles loengutest, e-loengutest, interaktiivsetest seminaridest ja praktikumidest, iseseisvast kodutööst.
+Kursuse hõlmab rakubioloogia ja inimese geneetika alusmõisted ja arusaamad; meditsiinigeneetika, s.h. monogeenste ja komplekshaiguste geneetika, kasvajate geneetika ja kliiniline geneetika; farmakogeneetika ja - genoomika alused, geneetika andmebaaside kasutamine; tänased geneetika rakendused meditsiinis ja selleks kasutatavad meetodid.
+Anda alusteadmised rakubioloogias, inimese- ja meditsiinigeneetikas ning geneetika rakendustest meditsiinis.
+1. On omandanud rakubiloogia, inimesegeneetika ja kaasaegse kliinilisest geneetika alusteadmised
+2. Saab aru geneetika teadmiste ja rakenduste kasutamisest meditsiinis
+3. Oskab leida meditsiinigeneetikaalast informatsiooni kasutades andmebaase
+4. Saab aru peamistest meditsiinigeneetika laboratoorse töö meetoditest
+5. On arendanud edasi teaduskirjanduse analüütilist ja kriitilist lugemisoskust 
+6. On arendanud edasi oskusi esitluse ettevalmistamisel ja tegemisel

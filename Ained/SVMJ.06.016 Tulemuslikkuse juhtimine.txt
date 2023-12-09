@@ -1,0 +1,7 @@
+Kursus hõlmab ettevõttesisese aruandlussüsteemi ning tulemuslikkuse hindamise ja juhtimise kontseptsioone ja meetodeid. Eraldi käsitlemist leiavad controllingu olemus ja funktsioonid ettevõtte planeerimise ja kontrolli koordineerimise süsteemis, operatiivne ja strateegiline controlling, controllingu meetodid.
+Aine käsitleb tulemuslikkuse hindamise ja juhtimise metodoloogilisi ning metoodilisi aluseid ettevõtte controllingusüsteemi raames.
+Kursuse edukalt läbinu: 
+* tunneb ettevõtte andmepõhiste tulemuste, mõõtmise ja tulemuslikkuse juhtimise metoodilisi aluseid; 
+* teab controllingu eesmärke, ülesanded ja seoseid ettevõtte infosüsteemidega; 
+* oskab eristada operatiivse ja strateegilise controllingu eesmärke ja meetodeid; 
+* oskab analüüsida seoseid ettevõtte finantsiliste ja mittefinantsiliste näitajate vahel.

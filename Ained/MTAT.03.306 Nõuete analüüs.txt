@@ -1,0 +1,8 @@
+Kursusel kaetavad teemad sisaldavad: nõuete määratlemist, nõuete analüüsi raamistikke, süsteemi ja konteksti piire, eesmärksuunatud modelleerimist, stsenaariumi analüüsi, lahendussuunatud nõudeid, nõuete dokumenteerimist, nõuete välja toomist, nõuete läbi rääkimist, nõuete kontrolli (alused, valideerimisvõtted, kontrollimine prototüpeerimise vahendusel), nõuete haldust (jälitatavus, prioriteetide seadmine ja muudatuste haldamine).
+Kursus annab tudengitele ülevaate nõuete analüüsi alustest, põhimõtetest ja võtetest. Kursuses vaadeldakse enimlevinud lähenemisi nõuete analüüsile ning nende tehiseid nagu eesmärgid, stsenaariumid ja lahendussuunatud nõuded. Kursus tutvustab suuremaid nõuete analüüsiga seotud tegevusi nagu nõuete dokumenteerimine, nõuete välja toomine, nõuete läbi rääkimine ja nõuete haldamine. Kursus keskendub ka nõuete kontrollimisele võttes arvesse erinevaid võtteid, kaasa arvatud kontroll prototüpeerimise vahendusel.
+Aine läbinud üliõpilane on võimeline:
+1) Välja tooma, läbi rääkima ja dokumenteerima tarkvara nõudeid.
+2) Looma olulisemaid nõuete tehiseid ning kasutama neid tarkvaraarendusprojektides.
+3) Seletama nõuete analüüsiga seotud mõisteid, teooriaid ja parimaid praktikaid.
+4) Rakendama nõueteanalüüsi võtteid mitmetes tarkvaraarenduse elutsüklites rõhuga prototüpeerimissuunatud projektidel.
+5) Haldama tarkvara nõudeid, prioriteete, neid jälitama ja nende arengut kontrollima.

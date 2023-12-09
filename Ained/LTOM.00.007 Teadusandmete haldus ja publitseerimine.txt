@@ -1,0 +1,17 @@
+Avatud teadus, avatud juurdepääs, teaduse avaandmed ja FAIR andmed
+Teadusandmete elutsükkel 
+Andmehaldusplaan ja selle praktiline koostamine
+Andmerepositooriumid, avaandmete otsing
+Andmete haldamine PlutoF platvormil
+Andmete publitseerimine ja arhiveerimine
+
+Kursuse teises osas keskendutakse praktilisele andmete haldamisele ja avaldamisele PlutoF platvormil (https://plutof.ut.ee). PlutoF on andmehaldussüsteem, mis on suunatud bioloogilistele andmetele ja hobiteadlaste loodud andmetele. Palun kontrollige, kas see kursuse osa on teile kasulik. Näiteks on teil juba andmeid bioloogilise mitmekesisuse kohta või soovite neid koguda kursuse jooksul. Samuti on teretulnud lihtsad linnuvaatlused. Seejärel logige sisse. Samuti on oluline mõista, et kursuse mõlemas osas saab osaleda eraldi. Lisaküsimuste korral pöörduge õppejõudude poole.
+1. osa: Avatud teaduse mõistmine, avatud juurdepääs teaduspublikatsioonidele, teadusandmete haldamine läbi kogu teadusandmete elutsükli, andmehaldusplaani koostamine ja selle järgimine, avatud teadusandmete otsing ja kasutamine. 
+2. osa:  Doktorandi oma teadusandmed on avaldatud PlutoF platvormil, nendele on omistatud DOI, mis võimaldab andmete tsiteerimist Web of Science Data Citation Index'is
+Kursuse läbinud üliõpilane
+*	teab, mis on avatud teadus ja avatud juurdepääs teaduspublikatsioonidele
+*	omab teadmisi teaduse avaandmetest ja FAIR andmetest
+*	oskab oma andmeid hallata, publitseerida ja arhiveerida;
+*	on võimeline leidma teadusandmeid kogu maailma andmerepositooriumidest, neid mõistma ning vajadusel taaskasutama ja tsiteerima;
+*	teab, kuidas koostada andmehaldusplaani;
+*	oskab publitseerida ja hallata andmeid PlutoF platvormil.

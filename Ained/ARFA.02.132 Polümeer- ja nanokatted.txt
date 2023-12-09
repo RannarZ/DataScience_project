@@ -1,0 +1,11 @@
+Käesolev kursus annab ülevaate:
+a)õhukese polümeerkatte moodustumise teooriast ja mehhanismidest, b)tänapäevastest vesikeskkonnas toodetavatest õhukestest polümeerkatetest ja nanokatetest,c) erinevatest katmisprotsessidest, d)tablettide ja mitmeosaliste ravimvormide puhul kasutatavate katete põhitüüpidest, e) katmisprotsessi kontrolli ja monitoorimise süsteemidest, f) katete defektidest ja katmisprotsessi rakendamist piiravatest teguritest, g) katmisprotsessi PAT-ist ja PIT-ist, h) õhukeste polümeerkatete ja nanokatete valmistamisel kasutatavatest materjalidest (polümeerid, plastifikaatorid, värvained ja lahustid), i)pressimisel valmistatavate katetega katmise põhimõtetest, j) raviane kontrollitud vabanemist võimaldavatest katetest, k) õhukeste polümeerkilede ja kaetud ravimvormide lõpp-produktide iseloomustamisest ja analüüsist.
+Käesoleva kursuse eesmärgiks on tagada kursusel osalejatele kõrgtasemelised teadmised farmaatsias kasutatavate katmistehnoloogiate (suhkrukate, õhuke polümeerkate, pressimisel saadav kate kui ka õhuke/nano kihiline kate) kohta. Kursus käsitleb õhukese polümeerkatete ja kihtide moodustumise mehhanisme, õhukese polümeerkatte omaduste testimist,katmiseks kasutatavate materjalide valikut, katmisprotsessi kontrolli ja katete mõõtmise meetodeid, õhukeste polümeerkatete PAT-i ja PIT-i, katmisprotsesside mahu suurendamisega kaasnevaid probleeme, nanokatmise tehnoloogiaid, katmistehnolooogia rakendamist raviainet kontrollitult vabastavate preparaatide disainimiseks ja valmistoote iseloomustamist.
+Kursuse läbinud tudeng tunneb:
+- farmatseutiliste katete ajalugu ja tagapõhja
+- farmaatsias kasutatavate katete moodudtumise teooriat
+- lahustitel põhinevaid katmise põhimeetodeid ja tehnikaid (kaasa arvatud õhukese/nano kihiliste katete moodustamise tehnoloogiad)
+-farmatseutiliste pressitud katete moodustamise peamisi meetodeid
+- suhkru/õhukestes polümeer-/pressitud katetes kasutatavaid abiaineid ja nende omadusi
+- baastasemel katmisprotsessi, kaasa arvatud katmisprotsessi põhiparameetreid ja protsessi monitoorimise ja kontrolli põhimõteid
+- PAT-i ja PIT-i olulisust katmisprotsessis.

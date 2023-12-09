@@ -1,0 +1,12 @@
+Annab põhjalikud teadmised oskused digiteerimise ja salvestamise seadmetest ning nende seadistamisest ja komplekteerimisest. Õpitakse häälestama ja komplekteerima kaasagses helisalvestuses kasutatavaid tarkvaralahendusi, arvuti opratsioonisüsteemi ja raudvara. Õpitakse kasutama digitaalse helitöötluse programmide platvorme ja võimalusi. Vaadeldakse pildi ja heli sünkroniseerimise seadmeid ja koostöötamise protsesse.
+Õppeaine eesmärgiks on: 
+*	Anda põhjalikud teadmised ja oskused digitaalseks helisalvestuseks vajalike süsteemide ülesehituseks, installeerimiseks ja seadistamiseks
+*	Anda oskused helistuudio tehniliseks komplekteerimiseks ja häälestamiseks
+*	Anda ülevaade ja tutvuda eri platvormide ja tootjate digitaalsete helisalvestussüsteemidega
+*	Õppida ühildama ja ühendama heli- ja pilditöötluse sedameid ja formaate
+Aine läbinud üliõpilane:
+*	Omab põhjalikke  teadmisi helisalvestussüsteemide, vahendite ja võimaluste  kohta
+*	Omab teadmisi ja oskusi süsteemide ülesehitamiseks, seadistamiseks ja käigushoidmiseks
+*	Teab ja oskab kasutada digitaalse helisalvestussüsteemi võimalusi 
+*	Tunneb eri salvestusprogrammide vahelisi metadata kasutamise võimalusi 
+*	Oskab hinnata stuudiote ja seadmete seisundit ning teostada ahela komponentide vahetust

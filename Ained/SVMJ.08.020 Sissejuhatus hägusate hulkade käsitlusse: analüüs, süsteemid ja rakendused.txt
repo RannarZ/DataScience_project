@@ -1,0 +1,11 @@
+Käsitletavad teemad on järgmised:
+1. Hägushulkade ja hägusloogika kasutamise võimalused modelleerimisel majanduses ja ärijuhtimises
+2. Hägusate andmete modelleerimise metoodika alused
+3. Hägusate andmete hulgateooria põhimõisted
+4. Hägusate andmete modelleerimise põhietapid ja nende järjekord
+5. Hägusate andmete analüüsi järeldusreeglid ja järeldusalgoritmid
+6. Spetsiaalsete tarkvaratoodete ja tööriistade ülevaade.
+See kursus annab ülevaate hägusate andmete problemaatika teoreetilistest alustest ja praktikas rakendatud uutest meetoditest kaasaegse juhtimise, tootmise ja laiemate majandusprobleemide käsitlemisel. Häguste andmete modelleerimine on väga vajalik just praktilise lahendamise kontekstis nii majandusanalüüsi, turunduse, logistika, juhtimise valdkondades. Kursuse eesmärk on vastavate analüüsiks kasutatavate tarkvarade võimaluste tutvustamine. Kursuse eesmärk on anda praktikutele ja üliõpilastele, sh magistrantidele ja doktorantidele võimalus õppida hägusate andmete hulgateooria põhitõdesid ja praktilisi oskusi hägusate andmete modelleerimise alal.
+Kursusel esitatakse reaalsete majandus- ja äriprobleemide valitud ja testitud käsitlus, mispakub üliõpilastele võimaluse iseseisvalt kasutada erinevaid analüüsiviise ja -meetodeid hägusate andmete analüüsiks. 
+Kursuse läbija omandab vajalikud teoreetilised alused põhiideede mõistmiseks ning konkreetsete rakenduslike mudelite konstrueerimiseks ja analüüsiks. 
+Kursuse läbija saab praktilise ülevaate probleemidest ja võimalustest seesuguste andmetega töötamisest ning spetsiaalsed tööriistad erinevate tarkvarade näol (MatLab, Excel jt).

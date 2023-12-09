@@ -1,0 +1,7 @@
+Kursus käsitleb kõiki peamisi sotsiaalteaduste metodoloogia osiseid, fookus on kvantitatiivsetel meetoditel ja lähenemistel.
+Kursuse eesmärk on anda ülevaade erinevatest kvantitatiivsetest meetoditest sotsiaalteadustes ning aidata magistrantidel omandada iseseisva uurimistöö jaoks vajalikud oskused.
+Kursuse läbinu:
+- teab peamisi sotsiaalteaduste kvantitatiivseid meetodeid ja analüüsitehnikaid;
+- oskab seletada erinevate meetodite plusse ja miinuseid ning rakendusvõimalusi;
+- oskab valida uurimisküsimusele ja andmestikule vastava meetodi;
+- oskab hinnata teiste teadustööd metodoloogilisest vaatepunktist.

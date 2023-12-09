@@ -1,0 +1,7 @@
+Kursusel tegeletakse oskuste omandamisega kliendi hindamiseks, nõustamisprotsessi planeerimiseks ja selle tulemuselikkuse hindamiseks, probleemide ja vajaduste kontseptualiseerimiseks ning sekkumisplaani koostamiseks
+Kursuse eesmärk on anda põhioskused psühholoog-nõustajale kliendi vajaduste ja probleemidega ning nõustamisprotsessiga töötamiseks.
+* Oskab selgitada välja nõustamisprotsessis osaleja(te) pöördumise põhjuse ning hinnata nende vajadusi, eelistusi, motivatsiooni ja psühhosotsiaalse funktsioneerimise taset ja ümbritsevat keskkonda kasutades selleks asjakohaseid hindamismeetodeid (nt intervjuu, vaatlus, küsimustik);
+* Oskab hinnata kliendi nõustamisvajadust; nõustamise kui meetodi sobivust kliendi abistamiseks.
+* Oskab planeerida nõustamisprotsessi ning hinnata selle tulemuslikkust
+* Oskab kontseptualiseerida kliendi nõustamise aluseks olevaid vajadusi ja probleeme ning koostada selle alusel sekkumisplaan.
+* Oskab koostada juhtumi kokkuvõtet sõltuvalt adressaadiks oleva instantsi nõuetest.

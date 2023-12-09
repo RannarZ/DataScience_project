@@ -1,0 +1,19 @@
+1. JOONESTAMISE ALUSED. Joonestusvahendid ja nende valikukriteeriumid. Formaadid, mõõtkavad. Joonise vormistamise nõuded. Normkiri ja kirjanurk. Joonte liigid ja sujuvühendid. Projektsiooni mõiste ja aksonomeetria liigid. Ristprojektsiooni ja kaldprojektsiooni erinevused. Detaili kaks- ja kolmvaade. Interjööri ja eksterjööri joonestamine projekti järgi. Tasapinnaliste kujundite perspektiiv. Geomeetrilised kujundid perspektiivis. Perspektiivi liigid ja konstrueerimine. Lõiked: ristlõiked, lõiked ja osalised lõiked. Kujutised ja nende liigid. Jooniste mõõtmestamine. Ülevaade ehitiste ja palkehitiste joonestamisest CAD-programmidega.
+2. AKSONOMEETRIA. Tasapinnaliste kujundite ja geomeetriliste kehade joonestamine ristisomeetrias ja kalddimeetrias. Nõuded eskiisjoonisele. Eskiisi valmistamise etapid; eskiisi vormistamine. Eskiisi järgi tööjooniste valmistamine.
+3. JOONISTE KLASSIFIKATSIOON. Eskiis, töö- ja koostejoonis, erijoonised (küte, vesi, kanalisatsioon, ventilatsioon, elekter, datavõrk), tükitabeli mõiste. Kujutiste vabakäeline skitseerimine aksonomeetrias. Tehnilisel joonisel kasutatavad tingmärgid, leppemärgid, lihtsustused. Jooniste vormistamine.
+4. EHITUSJOONESTAMINE. Plaanid: asendiplaan, põhiplaan, korruste plaanid, vaated, mõõtahelad, märkteljed. Lõiked, sõlmed, detailjoonised. Põhiplaani eskiis-joonis. Kandekonstruktsioonide (metall-, betoon-, puitkonstruktsioonid) kujutamine joonisel. Tootejoonised. Koostu. Koostejoonised. Lihtsamate ehituslike eskiiside koostamine. Palkkehandi joonised. Ehitusmahu ja palgimäära arvestamine jooniste järgi.
+5. JOONESTUSHARJUTUSED. Tutvumine erinevate joonistega ja jooniste lugemisharjutused. Ehituslike tingmärkide joonestamine. Iseseisevad joonestustööd.
+Aine eesmärk on anda üliõpilasele joonestamise, joonise lugemise ja ruumilise kujutamise oskus.
+Kursuse edukal läbimisel üliõpilane
+1.	omab ülevaadet põhilistest joonestusvahenditest;
+2.	oskab ruumilisest objektist luua tasapinnalised joonised;
+3.	oskab luua isomeetrilisi jooniseid;
+4.	tunneb jooniste koostamisel kasutatavaid standardeid ja vormistamise nõudeid;
+5.	oskab joonestada mõõtkavas;
+6.	oskab jooniseid mõõtmestada;
+7.	tunneb perspektiivi liike;
+8.	tunneb lõigete ja vaadete kujutamispõhimõtteid;
+9.	tunneb ehitusalastel joonistel kasutatavaid tingmärke;
+10.	oskab lugeda tööjooniseid;
+11.	oskab visandada ehituslikke eskiise;
+12.	oskab kasutada ala õppe- ja teatmekirjandust.

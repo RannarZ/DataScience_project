@@ -1,0 +1,10 @@
+Praktikumis harjutatakse tekstülesannete lahendamist, andmete leidmist tekstist ning valemite koostamist teksti põhjal. Harjutatakse definitsioonide loomist nii klassikalise geneetika mõistete järgi, kui ka juhuslikult valitud objektidele, nähtustele ja seostele. 
+Tekstülesanded on koostatud klassikalise geneetika põhjal järgnevatel teemadel: mono- ja dihübriidne ristamine; geenide koostoime tunnuse määramisel; suguliitelised tunnused; aheldunud geenid; segatüüpi ülesanded. Kasside karva värvuse geneetiline määratus.
+
+Koduse tööna on vaja määrata kassi karvastiku värvuse ja mustri geneetiline määratus kümnel kassil. Selle abil õpitakse geenide koostoimet ning õpitakse välistamise tehnikat.
+
+Praktikumis lahendatakse näidisüledandeid. Põhiline õppimine toimub iseseisvalt kodus, lahendades selleks ülesandeid "Geneetika ülesannete" kogumikust ja e-testidest. Iga teema kohta on Moodle's koostatud e-test, mis peab olema sooritatud järgmiseks praktikumiks100 protsendile. Testi saab teha enne tähtaega nii palju kordi ja nii kaua, kui on 100 % saavutamiseks vajalik. E-testide abil toimub praktikumis kuuldu kinnistamine ning õppimine. 
+
+Eksamile pääsemiseks on vajalik sooritada kõik e-testid ja määrata iseseisvalt 10 kassi genotüüp. Lõplik hinne kujuneb eksami hindest.
+Arendada klassikalise geneetika baasil koostatud probleemülesannete lahendamist, teksti funktsionaalset lugemist ning matemaatika rakendamist probleemülesannete lahendamiseks.
+Suureneb tekstülesannete lahendamise oskus, matemaatika kasutamine probleemülesannete lahendamisel ning kinnistub arusaam klassikalise geneetika mõistetest. Paraneb nähtuste ja nendevaheliste seoste defineerimisoskus.

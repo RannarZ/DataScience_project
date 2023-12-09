@@ -1,0 +1,12 @@
+Välikursus toimub mõnes Eestist geoloogiliselt erinevas piirkonnas (viimasel kolmel aastal on läbivioimise paigaks olnud Tšehhi Vabariik). Kursuse käigus õpitakse tundma geoloogilise kaardistamise metoodikat komplitseeritud struktuuridega aladel. Tutvutakse vulkaaniliste, intrusiivsete ja moondekivimite lasumusvormidega, õpitakse kaardistama kurd- ja murrangstruktuure.
+"Aine eesmärgiks on:
+1) omandada geoloogilise kaardistamise välitöö oskused.
+2) valmistada üliõpilasi ette töötamiseks Läänemere regiooni spetisiifiliselt lihtsatest geoloogilistest  tingimustest erinevas, tektooniliselt ja struktuurselt keerulises geoloogilises situatsioonis. Selle tagamiseks on vajalik praktiline kokkupuude ja kogemus Eesti geoloogilises ehituses puuduvate geoloogiliste nähtuste, kivimite ja setete ning tektooniliste a struktuuridega, käsitletuna regionaalgeoloogilises ja geokronoloogilises kontekstis. "
+"Tudeng peab:
+1) ... tundma põhilisi geoloogilise kaardistamise välitöö võtted
+2) ... oskama kirjeldada geoloogilisi läbilõikeid
+3) ... oskama koostada geoloogilisi kaarte lhtudes kogutud kaardistamise andmetest
+4..oskama mõtestada regionaaseid geostruktuure ja nende arengulugu laamtektoonilises ja stratigraafilis-geokronoloogilises kontekstis.
+5) ...tundma tektooniliselt komplitseeritud piirkondadele iseloomulike geoloogiliste nähtuste ilminguid ja erinevaid avaldumisvorme ning nende dokumenteerimise  tüüpvõtteid. 
+6) ...tundma sette-, magma ja moondekivimite tektooniliselt mõjutatud   lasumisvorme, struktuure ja tekstuure ning metamorfismiga seotud muutusi. 
+7) ...osakama seostada regionaalse geoloogia iseärasusi piirkondlike maavarailmingutega ning mõistma regionaalset keskkonnageoloogilist konteksti."

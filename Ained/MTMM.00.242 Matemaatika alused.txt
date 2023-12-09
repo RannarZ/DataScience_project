@@ -1,0 +1,8 @@
+Kursus baseerub koolimatemaatikal. Süstematiseeritakse ja üldistatakse gümnaasiumis saadud teadmisi ja nende kasutamise oskust ülesannete lahendamisel. Astme- ja logaritmvõrrand. Suhe, võrre, protsentarvutus. Võrrandite (-süsteemide) koostamine. Vektorid, skalaar-, vektorkorrutis.
+Tudengite matemaatika baastaseme ühtlustamine nõrgemate järelaitamise teel.
+Selle kursuse läbinud üliõpilane:
+1. Oskab teostada tehteid murdudega, astmete ja juurtega.
+2. Oskab teha protsentarvutust, tunneb suhet, võrret.
+3. Oskab lahendada ruutvõrrandit, absoluutväärtust sisaldavat võrrandit ja võrratusi. Samuti trigonomeetrilist võrrandit ja võrratust.
+4. Tunneb jadasid, logaritme, elementaarfunktsioone.
+5. Oskab teostada tehteid vektoritega, skalaar- ja vektorkorrutist.

@@ -1,0 +1,7 @@
+Kursus annab ülevaate materjalide koostisest ja ehitusest, valmistamise ja töötlemise tehnoloogiatest, omadustest ja rakendusaladest.
+Aine eesmärgiks on anda ülevaade materjalide klassifikatsioonist, ehitusest, valmistamise ja töötlemise põhitehnoloogiatest, omadustest ja rakendusaladest.
+Kursuse läbinud üliõpilane:
+1. Oskab liigitada tehnomaterjale, teab nende ehitust, põhiomadusi ja rakendusvaldkondi.
+2. Teab struktuursete materjalide põhilisi valmistamise ja töötlemise tehnoloogiaid.
+3. Oskab seostada materjalide rakendusi ja omadusi nende valmistamiseks kasutatavate tehnoloogiate eripäraga (ehk põhjendada, miks antud liiki materjalide valmistamiseks kasutatakse just seda ja mitte mõnda teist tehnoloogiat).
+4. Oskab lahendada ülesandeid kursuses käsitletud teemadel.

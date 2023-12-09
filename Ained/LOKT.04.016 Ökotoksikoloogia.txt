@@ -1,0 +1,13 @@
+Kursuses käsitletakse ökotoksikoloogia põhialuseid, mis võimaldavad aru saada keskkonnas ja organismides toimuvatest protsessidest ning ohtlike ainete mõjust inimesele ja keskkonnale. Käsitletakse saasteainete levikut keskkonnas ning analüüsitakse koostöös kaasüliõpilastega sellega kaasnevaid keskkonnaprobleeme. Teadusartiklitest ning internetist saadud info põhjal tutvutakse ohtlike saasteainete omaduste ning toimetega. Kursuses tutvustatakse ökotoksikoloogilisi teste ning nende kaudu määratud parameetrite kasutamist ohutute piirnormide leidmisel.
+Anda ülevaade ökotoksikoloogia põhialustest ja keskkonna saastumisega kaasnevatest probleemidest. Arendada üliõpilastes iseseisva töö oskusi teadusartiklite ning infomaterjalidega töötamisel ning akadeemilist kirjaoskust referatiivse ülevaate koostamiseks ökotoksikoloogia valdkonnas. Kasutades ökotoksikoloogia temaatikat aidata üliõpilastel arendada kriitilist mõtlemisoskust ning analüüsivõimet globaliseeruvas maailmas, kus praktiliselt kõikide tegevusvaldkondade koosmõjus kujuneb reaalne oht ökosüsteemidele.
+Üliõpilane:
+1)	tunneb ökotoksikoloogia uurimisvaldkonda ning ökotoksikoloogia ja toksikoloogia terminoloogiat;
+2)	tunneb kemikaaliseadust, sellest tulenevaid kohustusi ning Euroopa Liidu normatiivdokumente (REACH määrus, jt), mis reguleerivad ohtlike kemikaalide kasutamist. Oskab leida vajalikku informatsiooni kemikaalide ohutuskaartide ning ohutu kasutamise eeskirjade kohta;
+3)	oskab leida infot teadusväljaannetest ja internetist ökotoksilisi probleeme põhjustavate kemikaalide leviku ning toimete kohta, et prognoosida võimalikke tagajärgi ökosüsteemidele;
+4)	oskab iseloomustada kemikaalide levikut erinevates keskkonna osades ning analüüsida levikuga kaasnevaid stsenaariume ning ökotoksilisi tagajärgi;
+5)	tunneb kemikaalide oluliste parameetrite (püsivus, bioakumuleeruvust ja toksilisus) määramise meetodeid ning oskab leida sellekohast infot;
+6)	oskab koostöös teiste üliõpilastega analüüsida kemikaalide olulisi omadusi, et ennustada kemikaalide toimet elustikule ja ökosüsteemidele;
+7)	tunneb kemikaalide ohtlike omaduste klassifitseerimise aluseid;
+8)	tunneb toksikokineetilisi ja toksikodünaamilisi protsesse organismides ning oskab iseloomustada ning klassifitseerida toksikantide põhjustatud toksilisi toimeid;
+9)	teab oluliste ökotoksikoloogiliste testide läbiviimise põhimõtteid ning oskab testides saadud tulemuste alusel määrata kemikaalide ohutuid koguseid keskkonnas;
+10)	on kursis ökotoksiliste kemikaalide seireuuringutega, oskab leida sellekohast infot ning hinnata ohtlike kemikaalide kasutamisega seotud riske.

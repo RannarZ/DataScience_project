@@ -1,0 +1,7 @@
+Aine toimub koostöös Lavakujunduse ainega.
+Süvendada konstrueerimise, konstruktsioonide joonestamise ja ruumilise kujutamise oskuseid.
+Kursuse edukalt läbinud üliõpilane:
+- tunneb peamisi laval kasutatavaid konstruktsioonisüsteeme;
+- oskab leida lahendusi levinumate tüüpkonstruktsioonide kinnitamiseks;
+- oskab iseseisvalt konstrueerida lihtsamaid objekte;
+- omab ettekujutust dekoratsioonide montaaži ja demontaaži nõuetest ning objekte vastavalt sellele konstrueerida.

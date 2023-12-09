@@ -1,0 +1,8 @@
+Digitaalne keskkond on kultuuri ja kirjanduse uurimist kiiresti muutnud. See tähendab kultuuriandmete säilitamist ja esitamist või digidokumendi olemuse mõistmist uutmoodi, automaatset tekstianalüüsi, keerukate kultuurisüsteemide arvutimodelleerimist või andmetundlikke teooriaid (nt kultuurievolutsiooni teooria). Paraku on praegu kombeks, et kõik häguste piiride ja ebaselge definitsiooniga on "digitaalne".
+Kursus on mõeldud üliõpilastele teejuhiks selles valdkondadeüleses maailmas, mis hüpleb toimetamisteooriate, geograafiliste infosüsteemide, arvutilingvistika, meediauuringute ja võrguteaduse vahel. Olemata kaugeltki ammendav, annab kursus ülevaate digihumanitaaria peamistest teemadest, lähenemistest ja ideedest, pöörates tähelepanu ka kultuuriandmete ja tekstianalüüsi ajaloole.
+Kursuse eesmärk on tutvustada digihumanitaaria valdkonna mitmekesisust: käsitleda humanitaarteaduste arvutistamise teoreetilisi ja metoodilisi vaatenurki ning digihumanitaaria uusi uurimusi ja kriitilist mõtlemist selles.
+Kursuse läbinud üliõpilane:
+1) teab digihumanitaaria peamisi teemasid, probleeme ja uurimistöö arengusuundi;
+2) saab aru arvutuslikest lähenemistest humanitaaria probleemide ja andmete puhul;
+3) on tutvunud mitmesuguste meetoditega, alates teksti märgendamisest kuni loomuliku keele töötlemise, kaartide ja võrgustikeni;
+4) oskab kavandada oma projekti, rakendada oma teadmisi uurimistöö jaoks ja paigutada töö laiemasse teoreetilisse raamistikku.

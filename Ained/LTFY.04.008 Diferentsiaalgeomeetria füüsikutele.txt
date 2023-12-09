@@ -1,0 +1,3 @@
+Loengukursus on sissejuhatus diferentsiaalgeomeetria arvutamise põhimeetoditesse ja nende rakendustesse teoreetilise füüsika tüüpilistes probleemides.
+Loengukursuse eesmärk on tutvustada diferentsiaalgeomeetriaga näidete ja rakendustega teoreetilises füüsikas.
+Pärast kursust osaleja teab diferentsiaalgeomeetria põhiobjekte, konkreetsemalt öeldes muutkonnad, kihtkonnad, lõiked, tensoriväljad, Lie rühmad ja seostused, ja nende rakendusi klassikalises mehanikas, väljateoorias ja gravitatsioonis. Ta oskab nende objektidega arvutada ja neid teoreetilise füüsika probleemides rakendada.

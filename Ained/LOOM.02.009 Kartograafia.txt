@@ -1,0 +1,13 @@
+Kartograafia põhikursus. Antakse ülevaade nähtuste kartograafilistest kujutamisviisidest, üldistamisest, kaartide valmistamisest ja nende vormistamise põhitõdedest. Puudutatakse ka matemaatilise kartograafia ja digitaalkartograafia aluseid. Praktiliste tööde käigus keskendutakse väikeseformaadilise kaardi koostamisele.
+Tutvustada kartograafia ja kaardivalmistamise peamisi teoreetilisi printsiipe
+Aine läbimise järel üliõpilane:
+- valdab kartograafia põhimõisteid, oskab neid selgitada;
+- saab aru kommunikatsiooni olemusest ja ulatusest kartograafias;
+- mõistab kartograafiliste projektsioonide olemust;
+- mõistab kaarditootmise protsessi olemust;
+- tunneb põhilisi kaardi kujutusviise ning kartograafiliste märkide kujundamise põhimõtteid;
+- tunneb kaardikirjade liike ja funktsioone ning oskab kaardikirju kaardile paigutada;
+- teab peamisi kaardi generaliseerimise võtteid;
+- saab aru värvide kasutamisest kartograafias
+- tunneb trükitehnoloogia põhimõtteid
+- omab ülevaadet Eesti kaardisüsteemist

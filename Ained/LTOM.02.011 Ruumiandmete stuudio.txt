@@ -1,0 +1,9 @@
+Kombineeritud teoreetiline (30%) ja praktiline õpe (70%). 
+Stuudio allosad:
+Keskkonnaandmete hõive.
+Ruumiandmete iseärad ja hõive.
+Andmete usaldusväärsus ja kvaliteet.
+Andmete ristkasutus.
+Ruumianalüüs
+Anda õppijale arusaamine ja oskused ruumiandmete haldamiseks ning esmane ruumiandmete analüüsi oskus.
+Teab erinevat tüüpi ruumiandmete tüüpe ja oskab neid kasutada, on suuteline kavandama ja rakendama ruumiandmekogu: tunneb olulisi andmete ja andmebaaside formaate ja tarkvarasid, kasutada ja hallata ruumiandmebaasi. Teab koordinaatsüsteeme ja oskab  valida vajadusele vastavalt õiget koordinaatsüsteemi. Oskab kasutada ja luua metaandmeid. Teab ruumiandmete standardeid ja oskab hinnata ruumiandmete kvaliteeti. Oskab kasutada peamisi ruumianalüüsi meetodeid ja analüüsivahendeid.

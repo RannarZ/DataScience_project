@@ -1,0 +1,11 @@
+Vaatluse all on jaotuse mitteparameetriline hindamine ja järkstatistikute põhiomadused. Kõige olulisema osa moodustavad
+mitteparameetrilised hüpoteeside kontrollimise meetodid, peamine tähelepanu on pööratud paiknemiskarakteristikute
+mitteparameetrilisele hindamisele.
+Kogu materjali kohta lahendatakse ülesandeid.
+Anda üliõpilastele põhiteadmised mitteparameetrilise statistika alustest ja peamistest töövõtetest.
+Aine läbinud üliõpilane
+- Teab järkstatistikute põhiomadusi;
+- Tunneb enamkasutatavaid mitteparameetrilisi teste; 
+- Oskab testida sagedamini esilekerkivaid hüpoteese ka siis, kui uuritava tunnuse jaotus pole teada;
+- Oskab arvutada mitteparameetriliste testide võimsust (või vajaliku valimi suurust);
+- Oskab mitteparameetrilise statistika meetodeid kasutada praktiliste ülesannete lahendamisel.

@@ -1,0 +1,14 @@
+Biokeemias kasutatavate põhimeetodite teoreetiliste aluste tundmaõppimine ja juhendi järgi nende praktiline rakendamine.
+
+Temaatika praktikumide kaupa:
+I Sissejuhatus: spektrofotomeetria ja tiitrimismeetodid.
+II Valkude kontsentratsiooni fotomeetriline määramine.
+III Puhvrerlahused ja pH. 
+IV α-amülaasi puhastamine geelfiltratsioonil ja eriaktiivsuse määramine.
+V Ensüümreaktsioonide kiirust määravad tegurid ja kineetiliste parameetrite määramine.
+VI Valkude puhastamine afiinsuskromatograafiaga ja tulemuste analüüs SDS geelelektroforeesiga.
+Aine eesmärk on anda ülevaade põhilistest töövõtetest ja meetoditest biokeemias
+Kursuse läbinud üliõpilane:
+- oskab kasutada laboriseadmeid eksperimentide läbiviimiseks.
+- tunneb peamisi biokeemilisi meetodeid ja nende tööpõhimõtteid.
+- oskab eksperimenditulemusi analüüsida ja tulemuste alusel protokolle vormistada.

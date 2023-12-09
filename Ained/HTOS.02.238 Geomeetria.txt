@@ -1,0 +1,7 @@
+Kursus on orienteeritud klassiõpetajale. Vaadeldakse põhilisi tasandilisi ja ruumilisi kujundeid. Käsitletakse nende kujundite põhiomadusi, pindala ja ruumala arvutamist ning tõestusülesandeid.
+Süstematiseerida, ühtlustada ja täiendada edasi seni saadud teadmisi tasandilistest ja ruumilistest kujunditest.
+Õppeaine läbinud üliõpilane
+1) valdab põhikoolis õpetatava geomeetria terviklikku sisu, 
+2) oskab liigitada kujundeid ja mõisteid,
+3) oskab rakendada õpitud teadmisi ülesannete lahendamisel,
+4) oskab ülesandeid modelleerida, analüüsida ja üldistada.

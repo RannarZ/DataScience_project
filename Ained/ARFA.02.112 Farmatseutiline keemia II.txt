@@ -1,0 +1,6 @@
+Õpitakse tundma orgaaniliste raviainete analüüsimist ja selle teoreetilisi aluseid. Tutvustatakse tähtsamate raviainete saamist nende keemilisi omadusi ja kvalitatiivse ja kvantitatiivse analüüsi meetodeid. Üliõpilastele antakse ülevaade tähtsamate raviainete struktuuri ja bioloogilise aktiivsuse vahelistest seostest.
+Farmatseutilise keemia eesmärgiks on tutvustada farmaatsia üliõpilastele orgaanilisi raviaineid, nende omadusi ning kvalitatiivseks ja kvantitatiivseks analüüsiks kasutatavaid meetodeid.
+Kursuse läbinud üliõpilane:
+-	tunneb kursusel tutvustatud orgaanilisi raviaineid
+-	oskab lähtuvalt raviaine omadustest valida raviainele sobivaid kvalitatiivse ja kvantitatiivse analüüsi meetodeid
+-	oskab kirjeldada tähtsamate raviainete gruppide struktuuri ja bioloogilise aktiivsuse vahelist sõltuvust.

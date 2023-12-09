@@ -1,0 +1,14 @@
+Käsitletakse probleemi identifitseerimise, teadusliku hüpoteesi püstitamise, uurimismeetodite valiku ja rakendamisega seotud küsimusi. Õpetatakse teaduspublikatsioone kriitiliselt analüüsima ning neid avaldamiseks ette valmistama. Rõhutatakse uurimistöö adekvaatse planeerimise ja eetikanormide järgimise tähtsust.
+Aine õpetamise eesmärk on anda magistriõppe üliõpilastele süsteemne ülevaade teadustöö metoodikast ning süvendada nendes probleemidele teadusliku lähenemise oskust.
+Pärast kursuse lõpetamist üliõpilane:
+- tunneb inimuuringute eetika põhialuseid 
+- mõistab erinevate uuringukavandite olemust (kirjeldav uuring, eksperimentaalne uuring, juht-kontrolluuring, 
+  läbilõikeuuring, pikiuuring, ristuuring, gruppide paralleeluuring jt)
+- on kursis teadusliku kirjutamise põhimõtetega 
+ja oskab:
+- sihipäraselt kasutada teaduskirjanduse andmebaase
+- kriitiliselt analüüsida teaduslikku kirjandust
+- määratleda teaduslikku probleemi
+- sõnastada teaduslikku hüpoteesi ja uurimistöö eesmärki
+- koostada uurimistöö plaani
+- teostada uurimuslikku projekti juhendaja suunamisel

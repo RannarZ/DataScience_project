@@ -1,0 +1,3 @@
+Tutvustatakse matemaatika õpetamise erimetoodikat RÕK ja LÕK matemaatika ainekavast lähtuvalt:   numeratsioon miljoni piires, mitmekohaliste arvude (arvud miljonini) liitmine, lahutamine, korrutamine ja jagamine, nimega arvud, ühe- ja mitmenimeliste arvude liitmine, lahutamine, korrutamine ja jagamine, geomeetria, harilikud ja kümnendmurrud, protsent, algebra.
+Käsitletakse matemaatika õpetamise erimetoodikat.
+Teab ja on võimeline rakendama praktikasse matemaatika õpetamise erimetoodikat ning omab teadmisi valida õigeid metoodilisi võtteid matemaatikatunni läbiviimiseks RÕK ja LÕK matemaatika ainekava ulatuses õpiraskustega õpilastele.

@@ -1,0 +1,10 @@
+Teoreetilise mehaanika staatika osa põhiterminid ja -teoreemid: Newtoni seadused, jõud, jõupaar, moment, jõudude mõju sõltumatuse printsiip, tasapinnaline jõusüsteem, tasakaaluvõrrandid, keha tasakaal hõõrde olukorras.
+Tugevusõpetuse elastsusteooria osa põhimõisted: pinge, sisejõud ja välisjõud, Hooke'i seadus, deformatsioon, pinnamomendid, surutud varda stabiilsus.
+Staatikaga määratud talad, toereaktsioonid, sisejõudude (paindemomendi, põikjõu ja pikijõu) epüürid.
+Anda üliõpilasele üldised teadmised varraselementide tööst, välisjõudude mõjul varraselementides tekkivatest sisejõududest, nende määramise meetoditest ning staatikaga määratud varraskonstruktsioonide kandevõime määramisest.
+Kursuse edukalt läbinud üliõpilane
+- oskab koostada reaalse konstruktsiooni varrasmudelit (arvutusskeemi);
+- oskab määrata konstruktsiooni staatikalise määramatuse astet;
+- oskab määrata varrasmudelile mõjuvate välisjõudude poolt põhjustatud toereaktsioone ja sisejõude;
+- oskab määrata varraste ristlõigete tunnussuurusi;
+- oskab määrata varraskonstruktsiooni tugevust ja püsivust.

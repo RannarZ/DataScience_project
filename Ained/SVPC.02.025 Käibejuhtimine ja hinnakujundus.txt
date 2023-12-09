@@ -1,0 +1,8 @@
+Käibejuhtimise olemus. Majutusettevõtte kulude struktuur. Tegevusnäitajate analüüs. Turu segmentimine. Hotelli hinnakujunduse meetodid. Kliendikäitumise alusel nõudluse prognoosimine ja tellimuste juhtimine.
+Aine eesmärgiks on, et õppija saab ülevaate nõudlust mõjutavatest teguritest, kliendikäitumisest ning käibejuhtimise aluseks olevate ressursside juhtimisest majutusettevõtetes.
+Õppeaine läbinud õppija:
+* teab hotelli kulude struktuuri
+* mõistab nõudluse ja hinna omavahelist sõltuvust
+* analüüsib kliendikäitumist ja segmendib turgu
+* teab ja tõlgendab toa müügihinda mõjutavad tegureid
+* prognoosib majutusteenuste nõudlust

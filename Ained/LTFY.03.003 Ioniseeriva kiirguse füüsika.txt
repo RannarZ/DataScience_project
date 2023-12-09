@@ -1,0 +1,7 @@
+Käsitletakse röntgen- ja elektronkiirguse allikaid ning kiirguse vastastikmõju kondensainega, sünkrotronkiirguse peamisi kasutusalasid ning röntgen- ja elektronspektroskoopia tehnikaid.
+Anda ülevaade ioniseerivatest kiirgustest ja nende vastastikmõjust ainega, vastavatest uurimismeetoditest ja seonduvast erialasest kirjandusest.
+Aine läbinud üliõpilane:
+- Teab ioniseerivate kiirguste ning aine vastastikmõju elementaarprotsesse;
+- Teab erinevate aine ja ioniseeriva kiirguse vastastikmõjul põhinevate uurimismeetodite võimalusi ja piiranguid, oskab valida konkreetse ülesande jaoks sobiva meetodi;
+- Teab sünkrotronkiirguse tekitamise põhialuseid, tunneb sünkrotronkiirguse monokromatiseerimisel ja fokuseerimisel kasutatavaid põhilisi optilisi skeeme ning sünkrotronkiirguse rakendusalasid;
+- Oskab töötada iseseisvalt ioniseerivate kiirguste ja aine vastastikmõju käsitleva kirjandusega.

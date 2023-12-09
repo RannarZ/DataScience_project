@@ -1,0 +1,3 @@
+Modelleerimise printsiibid. Dünaamiliste protsesside modelleerimine. Funktsioonide lähendamise mudelid. Lineaarne planeerimine. Optimiseerimine. Füüsikaseadustel põhinevad mudelid. Diferentsiaalvõrranditel põhinevad mudelid.
+Arendada tudengite erinevate protsesside seostamise oskust ja seoseanalüüsi. Modelleerimise printsiipide tundmaõppimine ja rakendamine lihtsamate protsesside korral.
+Kursuse läbinud üliõpilane  tunneb modelleerimise printsiipe, oskab koostada lihtsamaid funktsioonide lähendamise, lineaarse planeerimise, optimiseerimise ja füüsikaseadustel põhinevaid mudeleid

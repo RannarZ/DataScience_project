@@ -1,0 +1,11 @@
+Sissejuhatav biostatistika kursus, mis sobib nii statistiliste algteadmiste omandamiseks kui ka statistiliste põhitõdede meeldetuletamiseks. Loengutes tutvustatakse statistilise andmeanalüüsi üldiseid põhimõtteid (andmete kirjeldamisest usaldusvahemike ja enamkasutatavate lihtsate statistiliste testideni). Praktikumides kasutatakse vabavara R, mille abil rakendatakse loengutes saadud teadmisi reaalsetel andmetel.
+Meditsiinialaseks teadustööks vajalike biostatistikaalaste algteadmiste ja oskuste omandamine.
+Kursuse lõpetanu saab aru ja oskab praktiliselt:
+* uuringuandmeid korrektselt sisestada
+* aru saada, mis tüüpi tunnustega on tegemist
+* leida kirjeldavaid statistikuid: keskmine, standardhälve, mediaan, kvartiilid, miinimum, maksimum, standardviga  
+* illustreerida oma andmeid sobivate tabelite ja graafikutega
+* ära tunda, milline on tunnuse jaotus ja valida vastavalt õige analüüs
+* leida usaldusintervalli valimikeskmisele ja protsendile
+* teha lihtamaid statistilisi võrdlusi (parameetrilised ja mitteparameetrilised meetodid)
+* uurida tunnustevahelisi seoseid (kahemõõtmelise sagedustabli analüüs, korrelatsioon, ANOVA, Bonferroni parandus, OR, RR)

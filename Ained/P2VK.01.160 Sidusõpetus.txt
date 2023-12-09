@@ -1,0 +1,4 @@
+Weave Point programmi tutvustus, kangaste kujundamine, tööproovide rakendamine TOIKA arvutiteljele, valitud rakendusega suure kanga kudumine.
+Aine eesmärk on omandada teadmised ja oskused erinevate kangaste kudumise võimalustest TOIKA arvutitelgedel.
+Üliõpilane tunneb Weave Point arvutiprogrammi ja oskab seda kasutada kangaste kavandamisel. 
+Üliõpilane oskab oma erialastele ideedele leida sobivaima kangakudumise tehnoloogilise lahenduse TOIKA telgedel.

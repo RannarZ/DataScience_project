@@ -1,0 +1,5 @@
+Kursuse käigus vaadeldakse juhtimise infosüsteemi ja konkreetsemalt arvestuse infosüsteemi ülesehitust ja toimimist. Antakse ülevaade erinevatest majandustarkvaradest ja nendega töötamise põhimõtetest.
+Anda teadmisi arvestuse infosüsteemi kui üldise juhtimis-infosüsteemi olemusest, selle kujundamisest ja rakendamisest. Kursuse läbinul on ülevaade Eestis laiemalt kasutatavatest majandustarkvaraidest ning teab millistest kriteeriumitest tuleks lähtuda ettevõtte majandustarkvara valikul.
+Aine läbinud üliõpilane:
+1)	omab ülevaadet erinevatest tarkvaradest ja oskab võrrelda nende funktsionaalsust,
+2)	teab majandustarkvara valikukriteeriume.

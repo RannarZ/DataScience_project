@@ -1,0 +1,9 @@
+Kursus hõlmab järgmiseid teemasid: Inimese taju, mälu ja töötlemine; sisend- ja väljundseadmed ja -kontrollid; kasutajaliidese põhitõed; kasutajaliideste ja kasutajakogemuse disaini- ja hindamisprotsessid; kasutajaliideste ja kasutajakogemuse disaini meetodid; kasutajaliideste ja kasutajakogemuse hindamise meetodid; disainmõtlemine ja loovus; prototüüpimine; valikteemad.
+Aines tutvustatakse tudengitele inimese ja arvuti interaktsiooni põhialuseid keskendudes kasutajaliideste ja kasutajakogemuse kavandamise, arenduse ja hindamise meetodite tutvustamisele ja rakendamisele. Teemade käsitlus katab kasutajaliideseid tavapärastest töölauarakendustst laiemalt.
+Kursuse eduka läbimise järel on tudengid võimelised:
+1.	mõistma inimese taju, mälu ja informatsiooni töötlemise põhitõdesid;
+2.	mõistma arvuti sisend- ja väljundspetsiifikaid lähtuvalt kasutajaliideste ja kasutajakogemuse disaini põhimõtetest;
+3.	leidma ja rakendama sobivaid meetodeid kasutajate vajaduste kindlakstegemiseks ja nende teisendamiseks kasutajaliidese kontseptsiooniks;
+4.	looma kontseptsiooni põhjal kasutajaliidese prototüüpe;
+5.	leidma ja rakendama kasutajaliideste hindamiseks sobivaid meetodeid ning iteratiivselt parandusi-täiendusi tegema.
+6.	Mõistma tavapärastest töölauarakendustest erinevaid kasutajaliideseid.

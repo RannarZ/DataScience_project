@@ -1,0 +1,7 @@
+Kursus sisaldab: 
+1)	Juhendatud õpe (parameetrilised/mitteparameetrilised algoritmid, toetusvektorite masinad, tuumad, närvivõrgud).
+2)	Juhendamata õpe (klasteriseerimine, dimensioonide kahandamine, soovituste süsteem, süvaõpe).
+3)	Parimad praktikad masinõppes (bias-variance teooria, innovatsiooni protsess masinõppes ja tehisintellektis).
+Kursus samuti toetub mitmetele näidisjuhtumite lahendustele ja rakendustele, nii et üliõpilane õpib kuidas rakendada masinõppe algoritme nutirobotite ehitamiseks (taju, juhtimine), teksti mõistmiseks (veebiotsing, rämpspostitõrje), arvutinägemiseks, andmekaevanduses ja muudes alades.
+See kursus annab laia sissejuhatuse masinõppesse, andmekaevandusse ja statistilisse mustrituvastusse.
+Antud kursuse raames üliõpilased õpivad kõige efektiivsemaid masinõpe meetodeid ning saavad harjutada nende iseseisvat juurutamist ja tööle panemist. Samuti õpivad nad kuidas kiiresti ja osavalt rakendada neid meetodeid uute probleemide lahendamiseks.

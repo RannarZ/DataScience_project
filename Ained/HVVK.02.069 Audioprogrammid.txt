@@ -1,0 +1,15 @@
+Annab teadmised süntesaatorite ja salvestussüsteemide ajaloost ning arengust. Tutvustab ja õpetab kasutama analoogsüntesaatori heli tekitamise printsiipi ja võimalusi. Annab ülevaate ja tutvustab tarkvaralisi süntesaatoried ja sämplereid ning näitab nende ühildumisvõimalusi. Annab teadmised ja oskused MIDI kasutamiseks erinevate seadmete programmide vahel. Õpetab MIDI informatsiooni konverteerimist noodistusprogrammi ning partiide väljaprintimist.
+Õppeaine eesmärgiks on: 
+*	Anda teadmised süntesaatorite ajaloo ja kasutuselevõtu kohta
+*	Anda ülevaade eri tüüpi süntesaatoritest
+*	Anda ülevaade ja teadmised erinevate heliprogrammide ajaloo, iseärasute ja võimaluste kohta
+*	Õpetada kasutama nii analoog kui digitaalseid ja tarkvaralisi süntesaatoreid ning sämplereid
+*	Anda ülevaade ja õpetada kasutama MIDI formaadi võimalusi
+*	Anda oskused MIDI informatsiooni ühildamiseks notatsiooniprogrammidega
+Aine läbinud üliõpilane:
+*	Omab teadmisi ja arusaamist erinevate heliprogrammide ajaloost, tööpõhimõtetest ja erisustest ning võimalustest
+*	Tunneb erinevaid süntesaatoreid ja nende kasutamise ja ühildamise võimalusi
+*	Tunneb ja oskab kasutada MIDI süsteeme ning ühildada tarkvaralisi ning raudvaralisi seadmeid
+*	Oskab programmeerida MIDI informatsiooni ning seadistada erinevat tüüpi MIDI-ühilduvad seadmed 
+*	Tunneb ja oskab kasutada analoogsüntesaatori heligeneraatori võimalusi
+*	Tuuneb MIDI formaate ning oskab MIDI informatsioonist luua tavakasutuse noodimaterjali

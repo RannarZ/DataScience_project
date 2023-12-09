@@ -1,0 +1,9 @@
+Loengukursuses käsitletakse pöördumatute protsesside, lineaarse koste ja fluktuatsioonide füüsika põhiprintsiipe, füüsikalise kineetika aluseid ning erinevaid faasisiirete ja kriitiliste nähtuste mudeleid.
+Statistilise füüsika magistrikursuse eesmärgiks on mittetasakaaluliste makroskoopiliste süsteemide ning faasisiirete ja kriitiliste nähtuste füüsika põhiprintsiipide esitamine.
+Kursuse positiivsele hindele läbinu:
+- tunneb pöördumatute protsesside kirjeldamise põhiprintsiipe;
+- tunneb lineaarse koste kvantstatistilist teooriat;
+- saab aru fluktuatsioonide ja fluktuatiiv-dissipatiivteoreemi rollist statistilises füüsikas;
+- oskab interpreteerida Boltzmanni kineetilist võrrandit ja suudab seda rakendada erinevates füüsikalistes situatsioonides;
+- tunneb I- ja II-liiki faasisiirete feonmenoloogilist teooriat;
+- tunneb erinevaid korrastuste mudeleid.

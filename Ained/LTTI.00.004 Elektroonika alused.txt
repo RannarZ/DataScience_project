@@ -1,0 +1,19 @@
+* Skeemiteooria, alalisvool, vahelduvvool;
+* digitaalelektroonika alused;
+* elektroonikakomponendid, (trafo, diood, transistor, jne.), nende otstarve ja tööpõhimõte;
+* optoelektroonika (fotoelement,fotodiood, optron, jne.), tööpõhimõte ja kasutamine;
+* elektromehhaanilised seadmed (relee, mootor, generaator jne.), tööpõhimõte ja kasutamine;
+* elektrilised mõõtühikud (võimsus, impedants, jne.). Seadmete vastastikune ühildamine;
+* mitte-elektrilised suurused (valgus, pH, temperatuur, jne), sensorid te tööpõhimõte ja kasutamine;
+* elektriohutus.
+Kursuse eesmärk on anda bakalaureusetudengitele algteadmised elektrist ja magnetismist esitades ühe kursuse raames elektrotehnika, elektrimõõtmiste, skeemiteooria, analoogelektroonika ja digitaalelektroonika põhitõed. Kursus koosneb teoreetilistest loengutest ja praktilistest näidetest.
+Kursuse läbinu oskab iseseisvaltkasutada kaasaegset laboritehnikat ilma iseendale või aparatuurile viga tegemata, või jätkata õpinguid mõnel kõrgema taseme elektroonikakursusel.
+Selleks omandab kursuse läbinu aljärgnevad teadmised:
+* elektriskeemide üldpõhimõtted, alalisvooluahelad, vahelduvvooluahelad;
+* elektrilised mõõdetavad suurused (võimsus, impedants, jne.);
+* digitaalelektroonika alused;
+* levinuimad elektroonikakomponendid, nende eesmärk ja tööpõhimõtted (trafo, diood, transistor, operatsioonivõimendi, jne.);
+* optoelektroonika põhimõtted (fotodiood, fotoelement);
+* elektromehhaanilised seadmed (relee, mootor, generaator, jne.); 
+* andurite tööpõhimõtted (valgus, pH, temperatuur);
+* elektriohutus.

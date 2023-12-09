@@ -1,0 +1,7 @@
+Antakse ülevaade R keele peamistest konstruktsioonidest ja andmetüüpidest, andmetöötlusvõimalustest ning hõlpsast jooniste tegemisest teegi ggplot2 vahenditega.
+Anda ülevaade statistikapaketi R põhilistest andmetöötlusvõimalustest.
+Aine läbinud üliõpilane:                  
+- tunneb R keele  süntaksit ja andmetüüpe,                   
+- oskab andmeid sisse lugeda, töödelda ja salvestada,                   
+- oskab kasutada kirjeldava statistika meetodeid,                   
+- oskab visualiseerida andmeid ja seoseid tunnuste vahel.

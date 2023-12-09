@@ -1,0 +1,31 @@
+Kursus sisaldab loenguid ja praktikume ning kodutööd
+1. Röntgenkiirguse saamise põhimõte, kujutise tekkimine (loengute materjalis)
+(Radioloogias on loeng Röntgenoloogia alused ja põhiprintsiibid)
+2. Kiirguskaitse (artikkel)
+3. Intraoraalsed võtted (loeng)
+3.1. Bitewing
+3.2. Periapikaalne võte
+3.3. Paralleeltehnika ja nurgapoolitustehnika.
+4. Ekstraoraalsed röntgenülesvõtted (loeng)
+ 4.1. Panoraamülesvõtted
+4.2. Koonuskimp kompuutertomograafia (CBCT)
+5. Vähemkasutatavad röntgenülesvõtted hambaravis
+5.1. Tsefalogramm, Oklusaalne, Lateraalne põiki võte 
+5.2. Kolju külgülesvõte
+6. Röntgenuuringu kirjeldamise alused
+7. Praktikum
+8. Kodused ülesanded
+9. Test
+1. Anda põhiteadmisi suuradioloogia füüsikalistest alustest ja hambaravis kasutatava röntgendiagnostilise aparatuuri tööpõhimõtetest. 
+2. Jagada teadmisi, mis aitavad patsiendile selgitada radioloogilise uuringu protseduuri olemust informeeritud nõusoleku saamiseks. 
+3. Õpetada röntgenkiirguse ohutut kasutamist hambaarsti igapäevatöös.  
+4. Selgitada hambaravis kasutatavate röntgenoloogiliste uuringute määramise põhimõtteid ja õpetada röntgenanatoomiat.
+5. Jagada juhiseid röntgenülesvõtete kvaliteedi hindamiseks s.h õpetada ära tundma peamisi vigu.
+6. Praktiseerida röntgenuuringute tulemi kirjeldamist ja patoloogiate diagnoosimist.
+Aine läbinud üliõpilane:
+1. Omab teoreetilisi teadmisi suuradioloogia üldpõhimõtetest ja kiirgusohutusest.
+2. Omab teoreetilisi teadmisi hambaravis kasutatava röntgendiagnostilise aparatuuri tööpõhimõtetest.
+3. Oskab  teha suusiseseid ja panoraam röntgenülesvõtteid.
+4. Teab röntgenülesvõtete näidustusi ja vastunäidustusi.
+5. Oskab hinnata röntgenülesvõtte kvaliteeti ja kirjeldada uuringu tulemit.
+6. Tunneb röntgenanatoomiat ja oskab diagnoosida röntgenülesvõttel sagedamini esinevaid patoloogiaid.

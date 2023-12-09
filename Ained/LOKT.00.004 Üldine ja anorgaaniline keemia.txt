@@ -1,0 +1,10 @@
+Pööratakse põhitähelepanu keemilise termodünaamika, kineetika, elektrokeemia ja lahuste temaatikale. Käsitlemist leiavad ka aatomi ehituse ja keemilise sideme põhiseisukohad. Samuti tutvustatakse eelkõige proviisoriõppe seisukohalt oluliste lihtainete ning keemiliste ühendite saamist, omadusi ja füsioloogilist toimet.
+Üliõpilane tunneb üldise- ja anorgaanilise keemia põhimõisteid ja põhilisi seaduspärasusi, sest üldine ja anorgaaniline keemia on aluseks keemiaga seotud eriala-ainete omandamisel proviisoriõppes.
+Üldised õpiväljundid:
+1.	Oskab kasutada korrektselt  keemia-alaseid põhimõisteid, sümboleid, ühikuid. (KT-d)
+2.	Oskab ohutult planeerida lihtsamaid praktilisi töid.
+3.	Omab süsteemseid teadmisi, oskab arutleda ja langetada otsuseid üldise ja anorgaanilise keemia peamistest teemadest ning oskab neid rakendada praktikas. (praktikumide suuline vastamine, praktiline kontrolltöö, KT-d, eksam)
+4.	Oskab luua seoseid teoreetiliste keemia alaste põhiteadmiste ja eluliste näidete vahel. (ülesannete lahendamine, probleemülesanne, praktikum)
+5.	Oskab leida eri allikatest vajalikke teoreetilisi teadmisi, oskab kogutud infot hinnata, kriitiliselt analüüsida ja suudab kogutud teoreetilisi teadmisi rakendada elulise ülesande lahendamisel. (Lihtsamad elulised probleemülesanded)
+Ülekantavad oskused:
+1.	Probleemülesannete ja praktiliste tööde vastamiste raames arendatakse üliõpilase kirjalikku väljendusviisi ja suulise eneseväljenduse oskusi. Arendatakse meeskonnatöö oskuseid.

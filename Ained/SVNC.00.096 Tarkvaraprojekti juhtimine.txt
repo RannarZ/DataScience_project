@@ -1,0 +1,3 @@
+Tarkvaratehnika paradigmad, projekti juhtimine, ülesande ja tarkvara nõuete analüüs.
+Omandatakse tarkvaratehnika alased algteadmised ja esmane oskus tööks tarkvaraprojekti põhietappides. Vastavad teadmised on hädavajalikud osalemisel tarkvaraprojektides.
+Kursust läbinu üliõpilane omab süvendatud teadmisi tarkavaraprojekti juhtimise etappidest, sh kavandamine, realiseerimine, testimine, hooldus jmt. Kursuse käigus saab selgeks vähemalt ühe arendusmetoodika  ja vahenditekomplekti kasutamist.

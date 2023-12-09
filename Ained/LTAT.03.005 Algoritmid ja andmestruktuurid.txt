@@ -1,0 +1,6 @@
+Andmestruktuuri olemus. Klassikalised andmestruktuurid koos seonduvate algoritmidega: järjendid, paisktabelid, puud, graafid.
+Anda süstemaatiline sissejuhatus põhilistesse andmestruktuuridesse ja nendega seonduvatesse algoritmidesse ning esmane kogemus nende realiseerimisel.
+Kursuse läbinud tudeng:
+1) saab aru algoritmi keerukuse mõistest, oskab algoritmi keerukust empiiriliselt ja lihtsamatel juhtudel ka analüütiliselt hinnata ning võrrelda algoritmide töökiirust keerukushinnangute alusel;
+2) tunneb põhilisi andmestruktuure ja nendega seonduvaid klassikalisi algoritme, nende kasutustingimusi ja eesmärke ning saab aru nende algoritmide tööpõhimõttest;
+3) oskab neid andmestruktuure ja algoritme arvutis realiseerida, kasutada ning eesmärgist lähtuvalt sobivamaid andmestruktuure ja algoritme praktikas eelistada.

@@ -1,0 +1,6 @@
+Projektitöö olemus. Projekti tsükkel. Probleem ja lahendus. Projekti kavandamine loogilise maatriksi meetodil. Eesmärgid ja mõõdikud. Tegevuste ja ressursside planeerimine. Eelarve. Ajakava. Projektinäidete analüüs.
+Kursuse eesmärgiks on anda ülevaade projektitöö olemusest eriala kontekstis ning kujundada alusoskused projektide kavandamiseks.
+Üliõpilane:
+- tunneb projektitöö põhimõisteid ja projektide ülesehitust;
+- oskab analüüsida probleemi, seada eesmärke, planeerida tegevusi ja ressursse;
+- oskab koostada lihtsat projektikavandit.

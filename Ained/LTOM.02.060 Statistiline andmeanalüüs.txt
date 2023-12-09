@@ -1,0 +1,4 @@
+Statistilise andmetöötluse meetodite ja katse planeerimise aspektide tutvustamine. Praktiline töö statistikaprogrammide abil.
+Anda algteadmised statistikast ja ülevaate statistiliste meetodite kasutamisest teadustöös.
+Kursuse edukalt läbinud üliõpilased on omandanud teadmised statistiliste meetodite kasutamisest teadustöös koos praktilise rakendamisega programmide R ja STATISTICA abil. Nad on suutelised valima sobiva statistikameetodi antud teadusliku probleemi lahendamiseks, kontrollima meetodite eeldusi, kasutama parameetrilisi ja mitteparameetrilisi teste hüpoteeside kontrollimiseks ja tegema põhjendatud järeldusi.
+Nad on võimelised suhtlema statistikateemadel ja vormistama korrektses statistikakeeles teaduslikke tekste kasutatud meetodite ja saadud tulemuste kohta.

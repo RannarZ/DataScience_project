@@ -1,0 +1,15 @@
+Kursuse põhirõhk on projekti ressursside planeerimisel ning kohustuste õigeaegse täitmise tagamisel. Üliõpilasel tuleb praktiliselt koostada ja ellu viia teemakohane projekt.
+Annab ülevaadet tarkvaraprojekti olemusest ning eripäradest. Annab edasi arusaama projektijuhtimise erinevatest võtmetest, meetoditest ja tehnikatest. Aina raames antakse edasi teadmisi ja oskusi projektijuhtimise erinevate etappide ja komponentide eestvedamisest ja kontrollimisest, sh projekti planeerimine, riskide juhtimine, ülesannete jagamine jmt.
+Kursuse läbinud üliõpilane: 
+
+- teab projektijuhtimise põhimõisteid. 
+
+- planeerib IT projekti ettevõtte kui terviku vaatest. 
+
+- juhib ja viib projekti käigus läbi  riskianalüüsi. 
+
+- kirjeldab projekti erinevaid etappe ja kontrollib tööde täitmist projekti jooksul. 
+
+- hindab projekti tegelikku seisu ning reageerib õigeaegselt ja adekvaatselt projekti ohustavatele situatsioonidele. 
+
+- dokumenteerib projekti.

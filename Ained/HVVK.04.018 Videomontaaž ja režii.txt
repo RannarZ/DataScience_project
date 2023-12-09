@@ -1,0 +1,5 @@
+Aine läbinu on tuttav enda isikliku kaamera kasutamisega video filmimise eesmärgil ning oskab enda filmitud materjali importida arvutisse ning töödelda vastavas programmis. Detailsemalt õpitakse tundma Davinci Resolve tarkvara.
+Tutvustada tudengile videorezii põhiteadmisi.
+Kursuse edukalt läbinud üliõpilane:
+-on tuttav enda kaamera seadistamise ja rakendamisega tööolukorras
+-on tuttav Davinci Resolve tarkvara kasutamisega

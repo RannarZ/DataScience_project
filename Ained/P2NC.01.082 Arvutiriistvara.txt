@@ -1,0 +1,11 @@
+Arvuti riistvara erinevad tasandid loogikaelementidest erinevate protsessoriteni. Arvutikomplekti kuuluvad mäluseadmed, sisend-väljundseadmed ja andmevahetust nende vahel. Kursuse raamidesse kuuluvad ka probleemid mis on seotud veakindluse, paralleeltöötluse ja spetsiaalse arvutite riistvara realiseerimisega erinevates kasutusvaldkondades
+Anda kuulajatele ettekujutus arvuti riistvarast ja selle peamistest funktsioonidest
+Kursuse läbinud üliõpilane 
+
+- teab arvutite arhitektuuri põhiprintsiipe ning arvuti ehitust; 
+
+- võrdleb erinevaid protsessorite arhitektuure; 
+
+- teab erinevaid sisend/väljund seadmeid; 
+
+- seob sobiva tarkvara riistvaraga.

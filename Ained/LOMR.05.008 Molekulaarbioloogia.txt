@@ -1,0 +1,8 @@
+Kursus annab ülevaate molekulide struktuuri ja funktsioonide seostest kolmes põhilises geneetilise informatsiooni ülekande protsessis: replikatsioon, transkriptsioon ning translatsioon. Teisi geneetilisi mehhanisme (näiteks DNA rekombinatsioon ja reparatsioon, RNA protsessimine, regulatiivsed RNAd, ribosoomide ehitus, valkude stabiilsus) käsitletakse näidete varal lähtudes struktuuri ja funktsiooni seostest.
+Kursuse põhieesmärk on anda süsteemsed teadmised päriliku informatsiooni säilitamise ja ülekande mehhanismidest.
+Aine läbinud üliõpilane
+- selgitab molekulide struktuuri ja funktsiooni vahelisi seoseid
+- tunneb päriliku informatsiooni säilitamise mehhanisme
+- selgitab kuidas geeniekspressioon on reguleeritud transkriptsiooni ja transkriptsiooni järgsetel tasemetel
+- oskab kasutada omandatud teadmisi järgnevates bioloogia ainekursustes 
+- kasutab korrektselt eesti keelset terminoloogiat

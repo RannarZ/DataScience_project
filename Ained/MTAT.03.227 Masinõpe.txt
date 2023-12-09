@@ -1,0 +1,7 @@
+Masinõppe kursus käsitleb metoodikaid ja algoritme mille abil arvutiprogrammid õpivad andmete (näidete) baasil mingit ülesannet järjest paremini lahendama. Kursusel käsitletakse masinõppe põhiprintsiipe, keskendudes juhendatud õppe (supervised learning) algoritmidele. Tutvutakse masinõppe peamiste mudelitüüpidega, näiteks otsustuspuud, lineaarsed mudelid, kaugus-põhised mudelid, tõenäosuslikud mudelid, ansambelmudelid ja tehisneurovõrgud. Kursuse raames viiakse õpitu kinnistamiseks läbi praktilisi kodutöid.
+Kursuse üldeesmärk on tutvuda masinõppe printsiipide ja meetoditega teoreetilisest ja praktilisest aspektist.
+Kursuse edukalt läbinud üliõpilane on võimeline:
+- tundma ära olukorrad, kus võiks kaaluda masinõppe meetodite rakendamist;
+- etteantud ülesande puhul tundma ära, millisesse masinõppe alamvaldkonda see kuulub;
+- kirjeldama enimkasutatud juhendatud õppe algoritmide tööpõhimõtteid ning selgitama, mida nende algoritmide tehtavad eeldused konkreetse rakendusvaldkonna jaoks tähendavad;
+- oskama praktikas teostada juhendatud masinõppe algoritme rakendavat lahendust.

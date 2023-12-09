@@ -1,0 +1,12 @@
+KURSUS ANNAB LAIAPÕHJALISE ÜLEVAATE ANDMEKAITSE REGULATSIOONIST. ESMALT KÄSITLETAKSE ANDMEKAITSE TEOREETILISI LÄHTEKOHTI NING VAJADUST ANTUD VALDKONNA JÄRELE JA ISIKUANDMETE KAITSMISE ÜLDISI KÜSIMUSI. SAMAS ANALÜÜSITAKSE ANDMEKAITSET KUI OSA ÕIGUSEST PRIVAATSUSELE, MIS TULENEB EUROOPA INIMÕIGUSTE KONVENTSIOONI ART 8.
+
+TEISEKS TUTVUSTATAKSE ERINEVAID RAHVUSVAHELISI JA KOHALIKKE ANDMEKAITSEALASEID ÕIGUSAKTE NING NENDEST TULENEVAID KAITSEMEHHANISME. 
+
+KOLMANDAKS ANALÜÜSITAKSE LÄHEMALT ANDMEKAITSE SISUST JA KAITSMIST VAJAVAST ÕIGUSHÜVEST TULENENUD KOHTUVAIDLUSI EESTIS JA EIÕK-S.
+Anda ülevaade andmekaitse teoreetilistest lähtekohtadest, andmekaitse praktilisest vajadusest, andmekaitse alustest ja kaitsemehhanismidest.
+Õppeaine läbinud tudeng:
+- mõistab andmekaitse sisu ja vajadust
+- tunneb andmekaitsealast seadusandlust Eestis ja EL-s
+- suudab mõista ja analüüsida õiguste prevaleerimist (andmekaitse vs. meediavabadus; õigus privaatsusele vs. vabadus)
+- suudab positsioneerida andmekaitset seoses teiste inimõiguste ja nendest tulenevate õigustega
+- tunneb isikuandmete kaitsemehhanisme ja võimalusi Eestis ja EL-s

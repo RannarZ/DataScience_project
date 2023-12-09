@@ -1,0 +1,7 @@
+Biostatistika alused: tõenäosus ja diagnostiliste testide omaduste uurimine, andmete esitamise ja analüüsi üldpõhimõtted. Epidemioloogilised näitajad, nende leidmine ja kasutusalad. Statistika roll meditsiinialastes teadusuuringutes. Epidemioloogilised uuringud, nende tüübid ja korraldamise üldpõhimõtted, kliinilised katsed.
+Praktiseeriva arsti jaoks vajalike elementaarsete teadmiste omandamine epidemioloogia ja biostatistika valdkonnast
+Aine lõppedes üliõpilane:
+- oskab arvutada ja kirjeldada tervisenäitajaid rahvastikurühmas,
+- teab ja oskab kasutada rahvastiku  tervisenäitajate andmebaase,
+- tunneb põhilisi kirjeldavaid statistikameetodeid
+- oskab kriitiliselt hinnata teadustööde tulemusi.

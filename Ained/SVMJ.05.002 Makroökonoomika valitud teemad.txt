@@ -1,0 +1,12 @@
+Kursus koosneb kahest blokist. Kursuse esimene osa tutvustab kursus olulisi kontseptsiooni rahvusvahelises makroökonoomikas - rahvusvaheline riskijaotus ja perioodidevaheline tarbimise asendatavus. Neid kontseptsioone kasutatakse seejärel, et analüüsida millised on nt. jooksevkonto puudujääkide ja ülejääkide võimalikud põhjused ning millised neist põhjustest on empiiriliselt olulised. Lisaks kasutatakse neid kontseptsioone selleks, et aru saada miks riigid laenavad, kui palju nad saavad laenata, millised on põhjused laenude tagasimaksmiseks ning millal riigid otsustavad minna või lähevad pankrotti.
+
+Kursuse teine osa aitab mõista ja õpetab kasutama lihtsamaid dünaamilisi stohhastilisi üldise tasakaalu (DSGE) mudeleid, mis on saanud standardseks tööriistaks makroökonoomikas. DSGE mudeleid lahendatakse paberi ja pliiatsiga ning arvutil kasutades tarkvarapaketti ja programmeerimiskeelt Matlab. Neid mudeleid kasutatakse selleks, et vastata sellistele küsimustele nagu näiteks kuidas süüa kooke, kasvatada puid, ühtlustada tarbimist üle aja, ning kuidas tehnoloogia, maitse ja valitsuse kulutuste šokid mõjutavad majandust.
+
+Kursuse käigus loevad tudengid teadusartikleid, kirjutavad retsensioone, lahendavad ülesandeid nii paberil kui arvutis ning diskuteerivad õpitud mudelite toel majanduse aktuaalsete küsimuste ja võimalike lahenduste üle.
+Kursuse eesmärgiks on anda üliõpilastele ülevaade kaasaegsetest makroökonoomika tööriistadest, mis aitavad mõista majanduse toimimist.
+Peale kursuse läbimist on üliõpilane omandanud järgmised oskused:
+- mõistab millist rolli mängivad rahvusvaheline riski jagamine ja perioodidevaheline asendatavus makroökonoomikas;
+- oskab analüüsida riikide võla kujunemist ja riikide maksejõuetuse põhjuseid;
+- saab aru dünaamilistest stohhastilise üldise tasakaalu (DSGE) mudelitest;
+- oskab kasutada lihtsamaid DSGE mudeleid majanduse analüüsil;
+- oskab kriitiliselt lugeda tänapäeva teaduskirjandust makroökonoomikas.

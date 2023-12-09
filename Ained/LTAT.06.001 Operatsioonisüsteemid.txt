@@ -1,0 +1,10 @@
+Kursus annab ülevaade operatsioonisüsteemide funktsioonidest, ülesehitusest ja tööpõhimõtetest. Tuginetakse peamiselt Unix-laadsetele operatsioonisüsteemidele, kuid käsitlus on laiem, hõlmates ka teistes operatsioonisüsteemides kasutatavaid meetodeid.
+Kursuse läbinu mõistab, mis ja milleks on operatsioonisüsteem   ning kuidas see töötab. Kursuse läbinu on paigaldanud ja skriptinud vähemasti Windows- ja Unix-tüüpi opsüsteeme.
+Kursuse läbinu
+* Saab aru, missugustest kihtidest ja komponentidest operatsioonisüsteem  koosneb ning kuidas toimub suhtlus erinevate osade vahel ning   füüsilise ja virtualiseeritud riistvaraga
+* Mõistab paralleeltöötlust - protsesse, lõimi,  mitmeprotsessorisüsteeme, sünkroniseerimist ja planeerimist
+* Saab aru salvestussüsteemidest ja failisüsteemidest - mis on nende  ülesanded, liidesed ja algoritmid; on ise hallanud salvestussüsteeme  ja failisüsteeme
+* Saab aru mäluhaldusest ja virtuaalmälust
+* Saab aru arvutivõrkude kihtidest ja TCP/IP protokollidest
+* On paigaldanud ja hallanud Windows- ja Unix tüüpi operatsioonisüsteeme
+* On kasutanud skriptimist operatsioonisüsteemi tasemel objektide  juhtimise automatiseerimiseks

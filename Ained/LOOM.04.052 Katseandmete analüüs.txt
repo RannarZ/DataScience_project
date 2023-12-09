@@ -1,0 +1,7 @@
+Antakse ülevaade ökoloogias enimkasutatud statistilistest meetoditest ja tutvustatakse vastavate analüüside läbiviimise võimalusi personaalarvutil. Eelteadmisi statistikast ei eeldata.
+Õpetada iseseisvalt läbi viima statistilisi analüüse ökoloogilises uurimistöös ette tulevates tüüpolukordades
+.Kursuse läbinu:
+    - mõistab statilise analüüsi vajalikkust ja üldist filosoofiat;
+    - oskab valida olukorrale sobivat analüüsi;
+    - oskab arvutiprogrammi kasutades analüüse läbi viia ja tulemusi interpreteerida;
+    - oskab esitada analüüside tulemusi.

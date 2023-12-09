@@ -1,0 +1,7 @@
+Käsitletakse majandusprobleemide lahendamiseks kasutatavaid kvantitatiivseid meetodeid, vastavate ülesannete formuleerimist, peamisi  lahendusvõtteid (graafiline lahendusmeetod, simpleksmeetod, transpordiülesannete lahendusvõtted), ülesannete lahendamist arvutil ning saadud tulemuste analüüsi.
+Ainekursuse omandamine annab üliõpilastele teadmised ja kogemused majandusprobleemide analüüsimisel, planeerimisel ja optimeerimisel kasutatavate matemaatiliste mudelite koostamisest, lahendusmeetodite valikust ja saadud lahendustulemuste alusel otsuste langetamise võimalustest.
+Tunneb erinevaid matemaatilisi mudeleid ja meetodeid ning nende olemust.
+Oskab majanduspraktikas esile tulevaid probleeme esitada situatsiooni matemaatilise mudelina.
+Oskab valida selle probleemi lahendamiseks sobiva(d) matemaatilise(d) meetodi(d).
+Oskab valitud matemaatilisi meetodeid kasutada ja saadud tulemusi tõlgendada.
+Tunneb võimalusi matemaatilise mudeli tulemuste kasutamiseks otsuste langetamisel.

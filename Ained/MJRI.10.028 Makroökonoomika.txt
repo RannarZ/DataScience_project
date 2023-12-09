@@ -1,0 +1,14 @@
+Makroökonoomika kursus annab ülevaate järgmistest teemadest: SKP kujunemine kogunõudluse ja kogupakkumise koosmõjul, majandusareng ja selle tsüklilisus, valitsuse (riigi) roll majanduse mõjutamisel, tööturu toimimise põhimõtted, kogunõudluse kujunemine kaheperioodilise mudeli raamistikus, jooksevkonto ja maksebilanss, rahaturu toimimise põhimõtted, inflatsioon ja selle mõjud, makromajandusliku tasakaalu kujunemine IS-LM mudeli raamistikus
+Tutvustada üliõpilastele kaasaegseid makroökonoomika kontseptsioone  eesmärgiga mõista majanduse kui terviku toimimise mehhanisme.
+Aine läbinud üliõpilane 
+* mõistab SKP kujunemise mehhanismi kogunõudluse ja kogupakkumise koosmõjul;
+* mõistab majandusarengu ja majandustsüklite mehhanismi; 
+* omab ülevaadet kogunõudluse kaheperioodilisest mudelist; 
+* omab ülevaadet tööturu toimimisest ning tööpuudust selgitavatest olulisematest teooriatest; 
+* mõistab avaliku sektori funktsioone ja tegevuse põhimõtteid; 
+* saab aru rahaturu toimimisest ning keskpanga funktsioonidest, samuti inflatsiooni mõistest ning inflatsiooni ja eelarvedefitsiidi seostest; 
+* omab ülevaadet vahetuskursi, intressi ning hindade arbitraažist ning suudab vastavaid majandusülesandeid lahendada; 
+* oskab kasutada IS-LM mudeli raamistikku riigi raha- ja eelarvepoliitika analüüsimisel nii suletud kui avatud majanduses; 
+* oskab analüüsida erinevate eelarve- ja rahapoliitika instrumentide mõju riigi majandusnäitajatele; 
+* omab ülevaadet Eesti makromajanduslikust arengust iseseisvusaastatel; 
+* oskab analüüsida Eesti majanduse ees seisvaid valikuid, kasutades kaasaegseid majanduspoliitika instrumente

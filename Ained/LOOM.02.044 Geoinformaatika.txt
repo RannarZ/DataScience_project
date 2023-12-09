@@ -1,0 +1,3 @@
+Ülevaade geoinfosüsteemidest ja andmebaasidest, olulisemad ruumiliste andmete haldamise ja analüüsi vahendid, praktiline töö ruumiandmete ja geoinfosüsteemidega.
+Anda esmane ülevaade geoinformaatikast, andmebaaside loomisest ja kasutamisest, kartograafia põhitõdedest ning GIS tarkvara kasutamise  ja andmebaasihalduse esmased praktilised oskused
+Omab ülevaaded geoinformaatika alustest, oskab esmatasandil kasutada GIS tarkvara, oskab teha lihtsamaid teemakarte ja andmebaase.

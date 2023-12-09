@@ -1,0 +1,8 @@
+Kursusel kaetavad teemad sisaldavad: ärianalüütiku rolli, ärianalüüsi elutsüklit, strateegia analüüsi, huvigruppide analüüsi, andmete kogumise võtteid, äri modelleerimist, ärinõuete määratlemist, äri parandamise variantide määratlemist, tasuvusuuringuid, riskianalüüsi, talituslugude loomist.
+Kursus annab tudengitele ülevaate ärianalüüsi alustest, põhimõtetest ja võtetest rõhuga ärianalüüsil IT süsteemide kontekstis.
+Aine läbinud üliõpilane on võimeline:
+1) Tuvastama ja sõnastama ärivajadusi ja võimalusi organisatsioonis.
+2) Koguma, organiseerima ja looma tuvastatud ärivajadusega või -võimalusega seotud dokumentatsiooni ja sisendit organisatsiooni huvigruppidelt.
+3) Kujundama ja hindama valikuid ärisüsteemide parandamiseks lähtudes ärivajadusest või -võimalusest.
+4) Läbi viima IT süsteemi arendusprojekti tasuvusuuringut, arhitektuurilist hindamist ja riskianalüüsi lähtudes ärivajadusest või -võimalusest.
+5) Ette valmistama ja esitama majandusliku põhjenduse IT süsteemide arendusprojektidele.

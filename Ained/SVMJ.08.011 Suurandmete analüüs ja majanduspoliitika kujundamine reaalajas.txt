@@ -1,0 +1,8 @@
+Suurandmete olemus ja võimalused keeruliste probleemide lahendamiseks. Suurandmetega seotud väljakursed. Andmetööstuse olemus; mudelid, regulatsioonid.
+Õppeaine eesmärgiks on selgeks teha suurandmete ja andmetööstuse mõiste, struktuur, ressursid, väärtusahel, teenused erinevates valdkondades ja sektorites ning selgitada ärimudeleid andmetööstuses, samuti kaasaegseid arenevad andmetööstuse mudelid, tekkivaid regulatsioonivorme andmetööstuses, ning siduda reaalajas poliitika kujundamine andmetööstuse võimalustega.
+Kursuse edukalt läbinu: 
+* saab aru suurandmete ja andmetööstuse mõjudest avaliku sektori juhtimises ja majanduspoliitikate kujundamises; 
+* oskab näha suurandmete analüüsi rakendamise võimalusi keeruliste probleemide lahendamiseks spetsiifilistes avaliku sektori valdkondades; 
+* omab ülevaadet erinevatest suurandmete kasutamisega seotud väljakutsetest ja riskidest;   
+* suudab hinnata andmetööstuse mahtusid ja arenguid ning leida koostööpartnereid;
+* omandab kontakte tehnoloogiafirmadega ja teadlastega teistest valdkondadest (meditsiin, IT, robootika, keskkond).

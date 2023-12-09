@@ -1,0 +1,5 @@
+Kursusel tutvustatakse tervise edenduses mõjukaks osutunud klassikalisi ja uuemaid käitumise muutmise mudeleid (sh health belief model, transtheoretical model, social learning, COM-B, tiny habits, müksamine jne). Lisaks mudelite tutvustamisele käsitletakse väljakutseid nende rakendamisel ja mõju mõõtmisel.
+Tutvustada teoreetiliste mudelite rolli käitumise mõjutamisel tervise edenduse näitel.
+"* Analüüsib tervist edendavaid sekkumisi erinevate mudelite mõistetes
+* Oskab valida oma eesmärkidele sobivaid mõjutamise mudeleid
+* Oskab teooriaprintsiipidest kausaalse mudeli aluseid luua.  "

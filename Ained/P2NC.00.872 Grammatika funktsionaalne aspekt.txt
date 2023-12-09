@@ -1,0 +1,5 @@
+Kursuse jooksul vaadeldakse keele grammatiliste kategooriate funktsionaalseid eripärasid. Kursus eeldab eelnevad teadmisi formaalsest grammatikast.
+anda ülevaade grammatilistest vormidest ja süntaktilisest konstruktsioonidest nende poolt täidetavate funktsioonide seisukohast.
+1) tunneb funktsionaalse grammatika aluseid; 
+2) omab ettekujutust grammatiliste vormide ja kõne süntaktiliste konstruktsioonide funktsionaaleripärasustest;
+3) oskab analüüsida teksti selles funktsionaal-semantiliste väljade avaldumise seisukohalt.

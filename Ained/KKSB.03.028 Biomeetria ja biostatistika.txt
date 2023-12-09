@@ -1,0 +1,3 @@
+Käsitletakse bioloogiliste näitajate mõõtmismeetodeid,  tulemuste töötlemist erinevate matemaatilise statistika meetodite abil ning saadud arvandmete baasil järelduste tegemist uuritava objekti või nähtuse kohta.
+Aine õpetamise eesmärk on anda üliõpilastele teadmised matemaatilise statistika meetoditest ning bioloogiliste objektide mõõtmismeetoditest.
+Üliõpilane mõistab bioloogiliste näitajate mõõtmismeetodeid,  tulemuste töötlemist . Omab algteadmisi bioloogiliste näitajate mõõtmismeetoditest,  tulemuste töötlemisest erinevate matemaatilise statistika meetodite abil. Tunneb erinevaid matemaatilise statistika andmeanalüüsi meetoteid.

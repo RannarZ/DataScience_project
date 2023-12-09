@@ -1,0 +1,8 @@
+Spetsifitseeritud ülesande põhjal praktiliste tööde sooritamine.
+Üliõpilane omandab infotehnoloogiaalased põhimõisted.
+Üliõpilane omandab algoritmilise mõtlemise alused.
+Kursuse läbinud üliõpilane:
+- on kursis graafilise programmeermise keeltega;
+- oskab luua lihtsamaid algoritmilisi graafikaid ;
+- oskab kirjeldada arvutivõrkude toimimispõhimõtet TCP/IP ja HTTP näidete varal;
+-  oskab spetsifitseeritud ülesande põhjal realiseerida lihtsamaid algoritme keskkonnas MAX/MSP.

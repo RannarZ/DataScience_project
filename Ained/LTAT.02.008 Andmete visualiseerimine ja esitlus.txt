@@ -1,0 +1,11 @@
+Kursuse eesmärgiks on anda teoreetilised ja praktilised oskused andmete visualiseerimiseks ning analüüsi tulemuste kommunikeerimiseks. Kursuse käigus anname ülevaate olulisematest andmete visualisatsiooni meetoditest, visuaalse disaini põhimõtetest ja nende rakendustest esitluste, postrite ja näiduktahvlite kujundamisel.
+Kursuse eesmärgid on:
+- tutvustada andmete visuaaliseeerimise põhialuseid
+- anda ülevaade andmete kujutamise viisidest, vastavalt andmetüübile
+- arendada praktilised oskused andmete efektiivseks visualiseerimiseks
+- anda ülevaade diagrammide ja infograafika võimalustest andmeteadlase töö tulemuste kommunikeerimisel
+- tutvustada loo rääkimise ja disaini põhimõtteid ning rakendusi slaidide, postrite ja näidiktahvlite kujundamisel
+Üliõpilane teab ja oskab kasutada andmete visualise esitamise põhiprintsiipe
+Üliõpilane oskab praktikas leida parima visualisatsiooni etteantud andmetele ja selle ka teostada
+Üliõpilane teab millal ja kuidas kasutada interaktiivsust 
+Üliõpilane oskab luua visualisatsioonide põhjal esitlusi, postriteid ja näidikutetahvleid järgides parimaid disaini ja kommunikatsiooni tavasid.

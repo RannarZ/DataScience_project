@@ -1,0 +1,10 @@
+Sissejuhatus disaini; disainiprotsessi olemus ja meetodid, disainmõtlemise põhimõtted; meeskondade moodustamine, lähteülesende konkretiseerimine, ajakava ja tööplaani koostamine; klienditeekond, keskkonna analüüs, sihtrühmauuringud; huvigruppide kaart, persoona koostamine; afiinsusdiagramm; info sünteesimine, persoona elustiili analüüs; segmenteerimine; protoüüpimise olemus ja prototüüpide versioonid. Loovmeetodid; prototüüpide testimine ja muutmine; ärimudel, teenindusplaan, organisatsiooni ettevalmistamine prototüübi pakkumiseks massidele (finantsid, personal, turundus, protsessid jne.); ärimudeli/tegevusmudeli analüüs.
+Anda ülevaade disaini arengust ning mõjust ühiskonna ning ettevõtluse arengule. Arendada oskusi, kasutada disainmõtlemise ja -juhtimise võtteid organisatsiooni arendamisel ning disainida praktiliselt toote- või teenuse prototüüp. Aine raames rakendavad tudengid disainiprotsessi kohta omandatud teadmisi, lahendades konkreetseid ülikooli välistelt organisatsioonidelt tulnud praktilisi ülesandeid või valides ise disainiprojekti lähteülesandeks väljakutse. Praktiliste ülesannete lahendamine toimub nii ülikoolis kui ülikoolivälistes organisatsioonides.
+Õppeaine läbinud õppija:
+* teab disainivaldkonna termineid
+* oskab disainiprojekti juhtimisel kasutada disainmõtlemise põhimõtteid (kaasamine, teenuse terviklikkus jmt)
+* teab disaini seoseid organisatsiooni tegevusmudeli ning strateegilise juhtimisega
+* oskab analüüsida organisatsiooni väärtuspakkumist kliendi seisukohast ning koostada tüüpkliendi profiili (persoonat)
+* teab (teenuse)disaini protsessi etappe ning oskab planeerida teenusearendusprojekti ajakava ning koostada lähteülesannet
+* oskab valida erinevate (teenuse)disaini meetodite vahel ning kasutada tüüpilisemaid (teenuste)disaini meetodeid/tööriistu disainiprotsessis
+* töötab välja lähteülesande põhjal disainilahenduse

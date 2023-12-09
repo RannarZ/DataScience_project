@@ -1,0 +1,7 @@
+Informaatika kui elukutse, selle roll ühiskonnas, selle õppimine, ajalugu ja erinevad suunad.
+Anda tudengitele üldülevaade informaatikute rollist ühiskonnas, nendega seotud ametikohtadest; arvutiteadusest ja selle ajaloost. Motiveerida tudengeid nende edasistes õpingutes informaatika alal.
+Tudeng:
+1. oskab kirjeldada erinevaid informaatikaga seotud ameteid, nende täitjate tööülesandeid  ja nende tähtsust ühiskonnale
+2. suudab põhjendada selle ja muude informaatikaga seotud ainete õppimise vajalikkust iseenda jaoks.
+3. suudab välja tuua põhilisi sündmuseid informaatika ajaloos ja seletada nende tähtsust. 
+4. oskab anda ülevaate arvutiteaduse eri valdkondadest ja nende põhilistest probleemidest või mõnest huvitavamast aspektist.

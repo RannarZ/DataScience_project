@@ -1,0 +1,8 @@
+Õppeaine võtab vaatluse alla käitumusliku majandusteaduse, ratsionaalse ja administratiivse mudeli, mänguteooria, heuristika, piiratud ja ökoloogilise ratsionaalsuse. Õppeaine toetub tugevalt kaasustele ja eksperimentide tutvustamisele. Lisaks antakse ülevaade Eesti majanduse makrokeskkonnast.
+Kursuse eesmärgiks on ettevõtte juhtimisotsustele majandusteoreetilise tausta loomine.
+Kursuse  edukalt läbinu: 
+* oskab rakendada erinevaid tehnikaid majandusteoreetiliste mudelite loomiseks ja äriprobleemide lahendamiseks (optimeerimine, otsustamine määramatuse tingimustes, mänguteooria);
+* tunneb tarbijakäitumise ja turunõudluse kujunemise põhimõtteid;
+* tunneb firmade käitumise seaduspärasusi erinevate turustruktuuride korral;
+* oskab analüüsida tarbijate ja ettevõtete käitumist nii matemaatiliste mudelite kui ka käitumuslike mudelite abil;
+* oskab analüüsida ettevõtluse makroökonoomilist konteksti Eesti näitel.

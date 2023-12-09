@@ -1,0 +1,8 @@
+Tutvutakse tõenäosusteooria põhimõistetega, käsitletakse looduses ja täppisteaduses sagedamini esinevate juhuslike suuruste jaotusseadusi ning omandatakse juhuslike andmete statistilise analüüsi meetodeid. Antakse ülevaade mõõtemääramatustest ja nende põhjendamisest tõenäosusteooria vahenditega.
+Kursuse eesmärk on anda miinimumtase vaatlusandmete ja mõõtmistulemuste töötlemisel vajalikest teadmistest, sealhulgas füüsika praktikumis ja üliõpilastööde koostamisel vajalikest andmetöötluse põhialustest.
+Kursuse positiivsele hindele läbinud üliõpilane:
+1.	mõistab metroloogia põhitõdesid; 
+2.	oskab rakendada mõõteprotseduuride juures enamkasutatavaid jaotusseaduseid; 
+3.	oskab mõõtmisandmete põhjal hinnata mõõtmistulemust ning selle laiendmääramatust etteantud usaldusnivool; 
+4.	oskab analüüsida mõõtetulemuse ning mõõtemääramatuse realistlikkust ning eristada olulisi ning ebaolulisi määramatuse komponente; 
+5.	oskab planeerida ning optimeerida mõõtemetoodikat, lähtudes etteantud veapiiridest ning kasutada olevast mõõteaparatuurist.

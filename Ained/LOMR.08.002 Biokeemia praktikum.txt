@@ -1,0 +1,15 @@
+Biokeemias kasutatavate põhimeetodite teoreetiliste aluste tundmaõppimine ja juhendi järgi nende praktiline rakendamine.
+
+Temaatika praktikumide kaupa:
+I. Ainete absorptsioonispektrid. Ekstinktsioonikoefitsiendi määramine. Aine kontsentratsiooni spektrofotomeetriline määramine. Aine kontsentratsiooni määramine tiitrimismeetodil.
+II. Valgu kontsentratsiooni fotomeetriline määramine.
+III. Aminohapete happelis-aluselised omadused. Puhvrerlahused. Valkude lahustuvus.
+IV. α-amülaasi puhastamine geelfiltratsioonil ja eriaktiivsuse määramine. Ensüümide toime spetsiifilisus.
+V. Ensüümreaktsioonide kiirust määravad tegurid. Invertaasi reaktsiooni kineetiliste parameetrite määramine inhibiitori juuresolekul ja ilma.
+VI. Alkoholi dehüdrogenaasi substraadispetsiifika, kineetiliste parameetrite määramine eri substraatide suhtes.
+VII. Valkude eraldamine ioonvahetuskromatograafiaga ja saadud fraktsioonide analüüs SDS geelelektroforeesiga.
+Aine eesmärk on anda ülevaade põhilistest töövõtetest ja meetoditest biokeemias.
+Kursuse läbinud üliõpilane:
+- oskab kasutada laboriseadmeid eksperimentide läbiviimiseks.
+- tunneb peamisi biokeemilisi meetodeid ja nende tööpõhimõtteid.
+- oskab eksperimenditulemusi analüüsida ja tulemuste alusel protokolle vormistada.

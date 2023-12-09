@@ -1,0 +1,8 @@
+Aine annab algteadmised tõenäosusteooriast ja matemaatilisest statistikast, lisaks sellele on kursuse eesmärgiks tutvuda rakendusstatistikapaketi kasutamisega, praktilise andmetöötluse ja tulemuste tõlgendamisega.
+Anda üliõpilastele põhiteadmised tõenäosusteooriast ja matemaatilisest statistikast ning oskus nende rakendamiseks ja interpreteerimiseks lihtsate ülesannete korral.
+Aine läbinud üliõpilane:
+1. teab tõenäosuse definitsiooni, täenäosuste liitmis- ja korrutamislauset, tingliku tõenäosuse mõistet ning oskab neid lihtsamates ülesannetes rakendada;
+2. teab põhilisi juhuslike suuruste jaotusi;
+3. on tuttav peamiste statistikamõistetega;
+4. tunneb statistiliste hüpoteeside kontrolli põhimõtteid;
+5. oskab statistikapaketi abil leida põhilisi valimikarakteristikuid, keskväärtuse usaldusintervalli ning neid interpreteerida.

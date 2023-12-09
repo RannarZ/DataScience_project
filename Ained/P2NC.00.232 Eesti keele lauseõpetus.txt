@@ -1,0 +1,5 @@
+Õpitakse tundma süntaksi mõistestikku ja süntaktilise analüüsi meetodeid, süvenetakse eesti keele lauseehitusse.
+omandada süsteemset ülevaadet eesti keele süntaksist.
+1) on omandanud teoreetilised teadmised lauseõpetusest;
+2) suudab rakendada teoreetilisi teadmisi praktikas: tunneb lause ehitust ja oskab määrata lauseliikmeid;
+3) oskab iseseisvalt koostada lauseid etteantud skeemi alusel.

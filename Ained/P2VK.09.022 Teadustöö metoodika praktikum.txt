@@ -1,0 +1,5 @@
+Teadustöö metoodika praktikumis õpitakse empiirilise andmestiku kogumise tehnikate väljatöötamist, andmete töötlemise ja analüüsimise tehnikate rakendamist, andmemassiivide kvalitatiivset ja kvantitatiivset analüüsi ning statistilist andmetöötlust.
+Eesmärk on õppida empiirilise andmestiku kogumise tehnikate väljatöötamist, andmete töötlemise ja analüüsimise tehnikate rakendamist, andmemassiivide kvalitatiivset ja kvantitatiivset analüüsi ning statistilist andmetöötlust.
+Teab empiirilise andmestiku kogumise meetodeid. 
+Koostab andmete kogumise meetodi.
+Analüüsib empiirilisi andmeid.

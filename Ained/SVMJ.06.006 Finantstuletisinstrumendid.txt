@@ -1,0 +1,3 @@
+Käsitletakse finantsriskide erinevaid liike, nende maandamise motiive, finantstuletisinstrumente praktiliste ülesannete lahendamse kaudu.
+Kursuse eesmärgiks on anda ülevaade erinevatest põhilistest finantstuletisinstrumentidest (forwardid, futuurid, swapid, optsioonid) ja nende kasutusalast finantsriskide maandamisel.
+Aine läbinud üliõpilane mõistab finantsriskide maandamise motiive, tuletisinstrumentide (forwardid, futuurid, optsioonid ja swapid) kasutamise seost erinevate finantsriskide (aktsiarisk, intressirisk, valuutarisk, kauba hinna risk, krediidirisk, likviidsusrisk) maandamisel; oskab hinnata tuletisinstrumentide väärtust ja teab väärtuse kujunemise aluseid.

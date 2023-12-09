@@ -1,0 +1,11 @@
+Analüütilise keemia praktikum algajatele. Fookuses on anda tudengile praktilised kogemused erinevate lihtsamate keemiliste analüüside läbiviimiseks. Metroloogilised aspektid on kursusesse kaasatud.
+Toetada loengus omandatut teooriat praktiliste oskustega. Pakkuda võimalust omandada alusteadmised töötamisest analüütilise keemia laboris. Toetada õppijate suulise eneväljendusoskuse arengut. Õppija arendab keemiliste analüüside läbiviimisega vajalikke õpioskusi (vajalikud töövõtted ja andmetöötlusoskused).
+Tudeng teab:
+*	Gravimeetrilise ja tiitrimeetrilise analüüsi põhimõtteid ja rakendusi;
+*	keemilise analüüsi prooviettevalmistuse põhimõtteid; 
+*	lihtsamate instrumentaalanalüüsi meetodite põhimõtteid.
+Tudeng on võimeline:
+*	korrektselt kasutama põhilisi töövahendeid analüütilise keemia laboris (kaalud, pipetid, büretid, kolvid, magnetsegajad jne);
+*	viima läbi kaalumist ja valmistama lahuseid korrektselt;
+*	viima läbi põhilisi prooviettevalmistuse etappe
+*	viima läbi lihtsamat keemilist  analüüsi (ka instrumentaalmeetoditel, koostama mõõtmiste kohta protokolli ja arvutama saadud mõõtmiste alusel tulemusi.

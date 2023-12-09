@@ -1,0 +1,11 @@
+Rühmad, ringid, korpused, vektorruumid. Polünoomi lahutuskorpus. Lõplikud korpused, nende omadused, konstrueerimine ja ühesus. Jälg ja norm. Normaalbaasiteoreem. Optimaalsed normaalbaasid. Juurimine lõplikes korpustes. Ringpolünoomid. Lõplike korpuste kommutatiivsus. Primitiivsed polünoomid. Taandumatute polünoomide konstrueerimine. Elliptilised kõverad üle lõplike korpuste.
+Üldiseks eesmärgiks on esitada ülevaade lõplike korpuste teooria põhitulemustest ja anda kuulajatele võimalus omandada lõplikes korpustes arvutamise põhivõtted. Kursus on mõeldud katma rakenduste (eriti kodeerimisteooria ja krüptoloogia)  jaoks olulisemaid teemasid, sealhulgas lõplike korpuste erinevaid esitusviise, ühejuuri ja ringpolünoome, normaalbaaside teooriat ning taandumatute polünoomide konstrueerimist.
+Kursuse läbinud üliõpilane:
+1.	tunneb korpuse laiendi ja polünoomi lahutuskorpuse mõistet, on võimeline neid konstrueerima ja kasutama;
+2.	teab lõpliku korpuse mõistet ja selle peamisi omadusi, suudab viimaseid tõestada, lõplikke korpusi konstrueerida ja nendes arvutada;
+3.	tunneb ja oskab tõestada teoreemi lõplike korpuste kommutatiivsusest;
+4.	on tuttav taandumatu, minimaalse, primitiivse ja ringpolünoomi mõistetega, teab ja suudab tõestada nende omadusi ja on võimeline neid kasutama uute taandumatute polünoomide leidmiseks ja lõplike korpuste teistviisi esitamiseks;
+5.	tunneb n. astme juure, ühejuure ja primitiivse ühejuure mõisteid, oskab neid lõplikes korpustes leida; 
+6.	teab lõpliku korpuse elemendi jälje ja normi, duaalse ja normaalbaasi mõisteid ning nende omadusi, sealhulgas normaalbaasiteoreemi, oskab viimaseid  tõestada;
+7.	tunneb lõplikes korpustes efektiivselt arvutamise põhitõdesid, sealhulgas optimaalsete normaalbaaside kasutamist; oskab tõestada teoreeme I ja II liiki optimaalsete normaalbaaside olemasolu kohta;
+8.	on tuttav elliptiliste kõveratega üle lõplike korpuste, oskab nendes arvutada ja teab elliptiliste kõverate diskreetse logaritmi probleemi ja selle rakendusi.

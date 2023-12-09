@@ -1,0 +1,7 @@
+* Kirjanduse süstemaatiline läbitöötamine etteantud tarkvaratehnika ja infosüsteemide teemal (kokku lepitud magistritöö juhendajaga)
+* Uurimiskava arendamine, aruandlus ja diskussioon ette antud teemal (kokku lepitud magistritöö juhendajaga)
+* Etteantud teema kirjanduskokkuvõtte ja uurimiskava tutvustus ja arutelu (kokku lepitud magistritöö juhendajaga)
+See seminar hõlmab tarkvaratehnika kaasaegseid teemasid. Üliõpilased on õppimisprotsessi aktiivselt haaratud, lugedes valdkonna akadeemilisi ja tööstusalaseid artikleid erinevatel teemadel, tutvustades neid kursusekaaslastele ja osaledes fokusseeritud aruteludes. Lisaks esitavad üliõpilased oma magistritöö kavandi, ja arutavad seda seminaris.
+Kursuse edukalt läbinud üliõpilased:
+1. Koguvad, analüüsivade ja esitavad teavet tarkvaraarenduse teemadel struktureeritud viisil.
+2. Arendavad, tutvustavad ja arutavad teadustegevuse kavandit etteantud tarkvaratehnika ja infosüsteemide valdkonna teemal.

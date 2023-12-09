@@ -1,0 +1,17 @@
+Kursus annab informatsiooni radioloogiliste meetodite kohta, nende diagnostiliste võimaluste ja puuduste kohta, näidustuste ja vastunäidustuste, ohtude kohta, patsiendi radioloogiliste uuringutele saatmise aluste ja patsiendi ettevalmistamise kohta. Kursus käsitleb radioloogiliste uuringute optimaalse planeerimise strateegiat, põhinedes erinevate radioloogiliste meetodite optimaalsel kasutamisel sõltuvalt radiatsioonidoosist. Antakse teadmised radioloogiliste meetodite optimaalsest planeerimisest erinevate organsüsteemide patoloogiate korral sõltuvalt kiirguskaitsest. Omandatakse teadmised laste ja rasedate uurimisega seotud probleemidest. Praktiliste tööde käigus õpitakse kasutama tänapäevaseid pildiarhiveerimissüsteeme ja radioloogilise uuringu kirjelduse järgi leidma radioloogilisi muutusi röntgenoloogias ja kompuutertomograafias.
+1.	Kursuse eesmärk on tutvustada uuemaid radioloogilisi uurimismeetodeid, erinevate diagnostilisi meetodite võimalusi
+2.	Kursuse eesmärk on anda ülevaade radioloogilisele uuringule saatmise ohtudest eri meetodite puhul  ja nende vältimisest
+3.	Kursuse eesmärk on anda põhjalikud teadmised kiirguskaitsest ja erinevatest kiirgusdoosidest erinevate radioloogiliste uuringute puhul eriti silmas pidades lapsi, noorukeid ja rasedaid.
+4.	Eesmärk on anda teadmisi erinevate radioloogiliste meetodite optimaalsest kasutamisest arvestades kiirguskaitset ja optimaalse uuringuplaani koostamisest eri patoloogiate korral, lastel ja rasedatel arvestades kiirguskaitset.
+1.	Üliõpilane oskab erinevate organsüsteemide patoloogiate kahtlusel koostada optimaalset radioloogiliste uuringute plaani sõltuvalt kiirguskaitsest, et kiirgusdoos oleks nii väike kui mõistlikult võimalik (ALARA printsiip). 
+2.	Üliõpilane oskab erinevate organsüsteemide patoloogiate kahtlusel koostada optimaalset radioloogiliste uuringute plaani sõltuvalt sellest, kuidas kõige kiiremini ja optimaalt  jõuda diagnoosini. 
+3.	Üliõpilane teab ja tunneb erinevate radioloogiliste uuringute näidustusi ja vastunäidustusi erinevate organsüsteemi patoloogiate korral
+4.	Üliõpilane oskab kirjutada saatekirja, et anda edasi kõige olulisem informatsioon radioloogiliste uuringu tegemiseks ja hindamiseks
+5.	Üliõpilane teab ja tunneb kiirgusdoose erinevatel röntgenoloogilistel uuringutel, kompuutertomograafias, nukleaarmeditsiinis ja angiograafis.
+6.	Üliõpilane teab patsiendi ohtusid magnettomograafias, magnettomograafiasse saatmise põhimõtteid ja tunneb sellealast seadusandlust 
+7.	Üliõpilane teab radioloogilisele uuringule saatmise, uuringute optimaalse valiku põhimõtteid lastel ja noorukitel sõltuvalt kiirguskaitsest, põhimõtteid kontrastaine süstimisel ja muid lapsi ohustavaid faktoreid. 
+8.	Üliõpilane teab radioloogilisele uuringule saatmise ja uuringute optimaalse valiku põhimõtteid rasedatel sõltuvalt kiirguskaitsest, põhimõtteid kontrastaine süstimisel ja muid loodet ohustavaid faktoreid. 
+9.	Üliõpilane teab radioloogilisele uuringule saatmise ja uuringute optimaalse valiku põhimõtteid neerupuudulikkusega, diabeedi ja allergiaga patsientidel ning muudel  patsientidel, kellele kontrastaine süstimine patsienti ohustab 
+10.	Üliõpilane teab ja tunneb menetlusradioloogiliste uuringute riske, erinevatele uuringutele saatmise põhimõtteid ja patsiendi ettevalmistust menetlusradioloogilisteks protseduurideks. 
+11.	Üliõpilane oskab arvestades radioloogi kirjeldust leida muutused skeleti ja rindkere röntgenipildil ning pea, rindkere ja kõhu kompuutertomograafias. 
+12.	Üliõpilane teab

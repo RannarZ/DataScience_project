@@ -1,0 +1,7 @@
+Esitatakse ülevaade kahjukindlustusmatemaatika põhiteemadest: kindlustustusandja rahavoogude mudel, kindlustuspreemiad, nende leidmise printsiibid, kindlustushüvitised, omavastutus. Uuritakse üksikriski ja koguriski jaotusi, vaadeldakse edasikindlustusmudeleid ja kindlustustehnilisi reserve.
+Aine eesmärgiks on kindlustusmatemaatika põhimõistete ning esmaste tehniliste oskuste omandamine aktuaarsete arvutuste teostamiseks kahjukindlustuses.
+Aine läbinud üliõpilane 
+- teab enamkasutatavamaid kindlustuspreemiate liike, hüvitise arvutamise ning omavastutuse rakendamise põhimõtteid;
+- teab põhilisi edasikindlustusmudeleid;
+- mõistab kindlustustehniliste reservide olemust;
+- oskab lahendada seotud praktilisi ülesandeid.

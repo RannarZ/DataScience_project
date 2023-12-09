@@ -1,0 +1,7 @@
+Alustame andmebaasi üldisest teooriast ja sellest, kuidas see hõlmab andmete ruumilist olemust. Tutvustatakse standardeid, mis võimaldavad geomeetria ja ruumiliste referentssüsteemide kasutamise viise andmebaasides. Õpitakse kasutama ruumifunktsioone, mis on keerukamate mudelite ehitusplokid. Juurdepääs andmebaasile töölaua- või veebikliendi abil saab olla teie praktiliste harjutuste oluliseks osaks.
+Kursuse eesmärgid on:
+*	anda ülevaade andmebaasiteooria alustest;
+*	õpetada ruumiandmete esitusviise andmebaasides ja nendega seotud standardeid; õpetada andmebaasides ruumiandmeid haldama ja analüüsima;
+*	õpetada kasutama ruumiandmeid erinevates kliendirakendustes;
+*	õpetada rakendama teoreetilisi teadmisi ruumiliste andmebaaside loomisel, kasutamisel ja ruumiandmete publitseerimisel PostgreSQL / PostGIS abil.
+Aine läbinud oskab visandada ja luua ruumilisi andmebaase, hallata ja analüüsida ruumiandmeid PostgreSQL/PostGIS keskkonnas

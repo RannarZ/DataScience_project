@@ -1,0 +1,34 @@
+Argumentatsiooniteooria moodul:
+1. Argumentatsiooniteooria I. 
+2. Argumentatsiooniteooria II. 
+3. Argumentide praktiline rekonstrueerimine ja hindamine I.
+4. Argumentide praktiline rekonstrueerimine ja hindamine II. 
+5. Kriitiline mõtlemine teaduses I. 
+6. Kriitiline mõtlemine teaduses II. 
+
+Filosoofiliste lahkarvamuste moodul:
+7. Lahkarvamused. 
+8. Uskumise eetika.
+9. Emotsioonid. 
+10. Teadusfilosoofilised küsimused. 
+11. Objektiivsus. 
+12. Sugu. 
+13. Vaba tahe.
+14. Enesemääramine.
+15. Õiglane sõda.
+
+
+NB! Kursusele on võimalik registreerida kolmel eri viisil (üliõpilasel tuleks valida neist üks):
+* HVFI.01.003 Filosoofilised lahkarvamused (6 EAP) - kogu kursus, kestab terve semestri,
+* HVFI.01.003 Filosoofilised lahkarvamused (3 EAP) - 1. osa "Argumentatsiooniteooria" (kestab 7 nädalat semestri esimesel poolel),
+* HVFI.01.003 Filosoofilised lahkarvamused (3 EAP) - 2. osa "Lahkarvamused" (kestab semestri teise poole).
+Aine esimene osa keskendub kriitilise mõtlemise ning argumenteerimise alustele (3 EAP), teine osa tutvustab tudengitele mitmeid distsipliinideüleseid filosoofilisi probleeme (3 EAP).
+Kursuse õpiväljundid jagunevad kaheks.
+1. Argumentatsioonimooduli läbinud tudeng:
+*	On õppinud tundma argumentatsiooniteooria aluseid ning peamisi mõisteid. Ta oskab neid argumendi analüüsil rakendada.
+*	On õppinud teiste teksti ja kõnet taasesitama nii, et põhiline tuleb selgelt välja. Ta oskab seda põhilist kriitiliselt analüüsida.
+*	On omandanud baasteadmised teaduslikust mõtlemisest ja metodoloogiast. Ta on kriitiliselt analüüsinud enda uurimistöö metodoloogiat.
+2. Filosoofiliste lahkarvamuste mooduli läbinud tudeng:
+*	Mõistab käsitletud teemade näitel filosoofiliste küsimuste eripära ja nende distsipliinideüleseid esinemisvorme ning implikatsioone.
+*	Oskab paigutada oma uurimistöö laiemasse mõtteloo konteksti.
+*	Oskab rakendada kursuse raames käsitletud mõisteid ja teooriaid konkreetsete juhtumite analüüsimisel.
