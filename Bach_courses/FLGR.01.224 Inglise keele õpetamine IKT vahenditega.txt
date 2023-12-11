@@ -1,0 +1,8 @@
+Kursus on eelkõige mõeldud praegustele või tulevastele inglise keele (või mõne muu võõrkeele) õpetajatele, kuid võib pakkuda huvi ka neile, kes soovivad arendada oma digipädevust üldisemalt. Kursus kombineerib auditoorse õppetöö iseseisva ja rühmatööga Moodle keskkonnas. Antakse ülevaade info- ja kommunikatsioonitehnoloogia kasutamise võimalustest võõrkeeleõppes ja analüüsitakse olemasolevaid veebipõhiseid õppematerjale. Käsitletakse arvuti kasutamist õppematerjalide koostamiseks, erinevaid internetipõhiseid otsingu- ja projektülesandeid, blogi, podcasti, wiki jm kasutamist õppetöös. Üliõpilased koostavad ise IKT-põhiseid õpiülesandeid ja analüüsivad kaaslaste koostatud materjale. Kursusel loodud materjalid koondatakse e-portfooliosse.
+Kursuse eesmärgiks on anda üliõpilastele vajalikud põhiteadmised ja -oskused IKT (info- ja kommunikatsioonitehnoloogiate) kasutamiseks võõrkeelte, eelkõige inglise keele, õppimisel ja õpetamisel.
+Kursuse edukalt läbinud üliõpilane oskab
+- hinnata enda ja õpilaste digipädevuste taset,
+- leida ja kriitiliselt analüüsida veebimaterjale,
+- kasutada individuaalselt ja koostöös erinevaid veebivahendeid digitaalsete õppematerjalide loomiseks,
+- hinnata ja anda tagasisidet eletroonilistele õppematerjalidele,
+- luua e-portfoolio ja kasutada seda õppetöös.

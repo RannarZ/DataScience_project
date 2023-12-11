@@ -1,0 +1,6 @@
+Kursuse raames on käsitletud kohanduv veebidisain, veebiraamistik Bootstrap 4, kasutajaliidese disain, kasutajakogemuse töövoog ja programmeerimiskeel JavaScript. Praktilise rühmatööna valmib lõpuprojekt.
+Anda teadmisi kaasaegsetest veebiarenduse tehnoloogiatest ja oskusi nende kasutamiseks oma projekti teostamisel.
+Kursuse läbinud üliõpilane: 
+1. oskab veebilehtede loomisel kasutada kaasaegseid veebiarenduse tehnoloogiaid
+2. oskab kasutada JavaScripti interaktiivse veebilehe loomiseks
+3. oskab planeerida ja kujundada kasutajaliidest järgides disaini põhiprintsiipe

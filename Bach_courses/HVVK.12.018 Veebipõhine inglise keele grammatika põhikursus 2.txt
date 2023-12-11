@@ -1,0 +1,7 @@
+Kursus on mõeldud keelekasutajatele, kes on omandanud vähemalt A2.2 tasemel keeleteadmised, kuid kes tunneb, et keelestruktuuride kasutamine vajab üleselgitamist ja harjutamist ning on läbinud grammatika kursuse esimese osa.
+Kursuse eesmärk on arendada õppija oskusi kasutada erinevaid igapäevaseid keelestruktuure peaasjalikult kirjalikus tekstiloomes.
+Õppija
+- tunneb ingliskeelses kirjalikus tekstis ära kasutatud grammatilised struktuurid ja oskab leida adekvaatse väljenduse eesti keeles;
+- oskab kasutada modaalverbe, tingimuslauseid, omadussõnu erinevas kontekstis, määrsõnu, kaudset kõne ja passiivi lihtsamaid vorme;
+- teab inglise keele lausestruktuuri ja oskab kasutada korrektset sõnajärge erinevates kõneviisides;
+- kasutab saadud teadmisi iseseisvalt nii suulises kui ka kirjalikus suhtluses.

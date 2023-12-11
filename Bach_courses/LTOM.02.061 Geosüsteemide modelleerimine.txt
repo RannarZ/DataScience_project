@@ -1,0 +1,3 @@
+Oskus dünaamiliste looduslike süsteemide modelleerimiseks ning mingi objekti praktiline modelleerimine. Soovitatavad algteadmised arvutiõpetusest.
+Õpetada üliõpilastele süsteemanalüüsi rakendamist.
+Suudab teha ja analüüsida lihtsaid dünaamilisi mudeleid.

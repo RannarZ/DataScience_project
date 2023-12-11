@@ -1,0 +1,13 @@
+- Programmeerimine keeles Elixir.
+- Sissejuhatus väledatesse tarkvaraarendusmeetoditesse.
+- Käitumisjuhitav tarkvaraarendus
+- Pidevintegratsioon
+- Rakenduste evitamine pilves.
+- Tarkvaratoote arendamine ja evitamine.
+Kursuse eesmärgiks on tutvustada väledat tarkvaraarenduse meetodit, mis tooks esile  pilvearvutuse ja tarkvara kui teenuse eeliseid
+Kursuse edukal läbimisel oskab tudeng:
+1. Arutleda tarkvaraarenduse pilve kasutamise probleemide ja võimaluste üle.
+2. Läbi viia tarkvaraprojekti ideest teostuseni.
+3. Rakendada väledaid arendusvõtteid nagu kasutuslood, käitumisjuhitav
+arendus, pidevintegratsioon ja evitus pilves.
+4. Töötada efektiivselt tarkvaraarendusmeeskonnas.

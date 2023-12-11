@@ -1,0 +1,10 @@
+Sissejuhatus masintõlkesse
+Neuromasintõlge (NMT)
+Dekodeerimise strateegiad ja hindamine
+Masintõlge väheste ressurssidega
+Mitmekeelsed tekstiandmestikud ja tõlkekvaliteedi ennustamine
+UX ja rakendused
+Keelemudelid masintõlkes
+Praktiline NMT ja projektid
+Maraton annab ülevaate masintõlke aluspõhimõtetest. See annab ka teadmisi tööstuse teadusuuringute ja edusammude esirinnas.
+Pärast osalemist mõistavad õpilased masintõlke aluspõhimõtteid, sealhulgas peamisi terminoloogiaid ja väljakutseid, puutudes samal ajal kokku valdkonna viimaste edusammudega. Praktiliste laborite ja koostööprojektide kaudu arendavad nad praktilisi oskusi ja tõhusaid meeskonnatöö võimeid.

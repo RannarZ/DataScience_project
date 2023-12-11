@@ -1,0 +1,5 @@
+Laboratoorne praktikum, mis õpetab üliõpilasi kasutama lihtsamaid optika mõõteriistu ja tegema optikaalaseid mõõtmisi.  Kursus sisaldab 12 praktilist tööd optika vallast.
+Anda vajalikud teadmised ja oskused laboratoorsete tööde sooritamiseks optika kursuse raames.
+Praktikumis arvestuse saanud üliõpilane
+* oskab kasutada enamlevinud optika mõõteriistu;
+* oskab vormistada katsetulemuste aruannet.

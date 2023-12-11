@@ -1,0 +1,9 @@
+Aine annab tõenäosusteooria ja matemaatilise statistika alase baasi kõrgema taseme andmeanalüüsi kursuste läbimiseks.
+Anda üliõpilastele teadmised ja oskused tõenäosusteoorias ja matemaatilises statistikas, mis võimaldavad magistriõppes läbida kõrgema taseme kursusi stohhastilise modelleerimise alal.
+Õppeaine edukal läbimisel üliõpilane:
+- tunneb kaasaegse tõenäosusteooria ülesehitust;
+- oskab konstrueerida vahemikhinnangut normaal-, binoom- ja selle sugulasjaotuste parameetritele nii ühe kui ka kahe valimi korral;
+- mõistab statistilise hüpoteesi olemust ja oskab selle sõnastada lähtuvalt ülesandest;
+- teab põhimeetodeid hüpoteeside kontrollimiseks nii ühe parameetri korral kui ka kahe parameetri võrdlemiseks;
+- omab ülevaadet regressioon- ja dispersioonanalüüsi ülesandest;
+- oskab rakendada õpitut punkt- ja vahemikhinnangute leidmiseks ning hüpoteeside kontrollimiseks ühe seletava tunnusega regressioonanalüüsi ja dispersioonanalüüsi ülesandes.

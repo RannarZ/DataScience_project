@@ -1,0 +1,7 @@
+.
+Õppeaine raames arendatakse välja kompetentsid vastavalt äriideele ärikontseptsiooni arendamiseks, jõudes eelarveprognoosini ja valmib prototüüp ning turule sisenemise plaan.
+Õppeaine läbinud üliõpilane
+- oskab välja arendada ja juhtida tervikult ettevõtlusprotsessi ideest kuni toote või teenuse prototüübini, 
+- tunneb piirkonna ja globaalse majanduskeskkonna arengutrende ning oskab oma ideed/ettevõtet positsioneerida globaalsete turgude ja trendide kontekstis,
+- oskab koostada turuanalüüse ja neid läbi viia,
+- on võimeline töötama nii üksi kui ka meeskonnaliikmena.

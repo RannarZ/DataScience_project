@@ -1,0 +1,10 @@
+Kursusel arendatakse eesti keele suulist ja kirjalikku väljendusoskust C1-tasemel.
+Õppeaine läbimise eeltingimuseks on eesti keele oskus kesktasemel (B2). Erinevad funktsionaalstiilid, teadusteksti olemus, refereeriv stiil, akadeemiliste tekstide mõistmine ja refereerimine, allikatele viitamine.
+Kursusel arendatakse eesti keele suulist ja kirjalikku väljendusoskust C1-tasemel ja keelekasutust erinevate funktsionaalstiilide puhul. Tutvustatakse teadusteksti olemust, arendatakse oskust eestikeelseid tekste mõista ja refereerida.
+Kursuse lõpuks üliõpilane 
+- teeb vahet üld- ja oskuskeele vahel 
+- oskab arutleda, arvamust avaldada, kommenteerida, seejuures keeleteadmisi eesmärgipäraselt kasutades
+- oskab kirjutada ametlikus stiilis e-kirja ja avaldust
+- oskab pidada ettekannet ja osaleda diskussioonis
+- oskab joonistel esitatud andmeid tekstis edastada
+- oskab kasutada refereerivat stiili, kirjutada lühikesi refereeringuid akadeemilistest tekstidest ning allikatele viidata.

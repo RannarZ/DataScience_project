@@ -1,0 +1,7 @@
+Klassiõpetajale orienteeritud aritmeetika kursus, kus antakse ülevaade erinevatest arvusüsteemidest ja arvuhulkadest, käsitledes põhjalikumalt naturaalarvude hulgaga seotud teemasid.
+Anda klassiõpetajale vajalikud teadmised aritmeetika põhiküsimustest ja hulgateooria alustest.
+Õppeaine läbinud üliõpilane 
+1)	valdab põhjalikult naturaalarvude hulga omadusi ja tehteid naturaalarvudega ning oskab saadud teadmisi rakendada õpetamisel I ja II kooliastmes,
+2)	omab ajaloolist ülevaadet erinevate arvusüsteemide ja arvuhulkade kujunemisest, 
+3)	tunneb arvuhulkade põhiomadusi, saab aru tehetest hulkadega ning suudab vastavaid tehteid konkreetsete hulkade korral ka rakendada,
+4)	oskab aritmeetiliselt lahenduvaid tekstülesandeid modelleerida, kasutada analüüsi ja sünteesi ülesande lahendamisel ning saadud vastust kriitiliselt hinnata.

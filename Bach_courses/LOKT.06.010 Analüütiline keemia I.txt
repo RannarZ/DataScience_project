@@ -1,0 +1,8 @@
+Algteadmised analüütilisest keemiast: proovi võtmine ja eeltöötlus, gravimeetria, titrimeetria, potentsiomeetria, kromatograafia, aatom- ja molekulspektroskoopia, andmetöötlus analüütilises keemias.
+Käsitletakse klassikalisi keemilise analüüsi meetodeid ja vaadeldakse protsesse (reaktsioone, tasakaale), millel need baseeruvad. Ülevaade antakse ka kasutatavamatest instrumentaalanalüüsi meetoditest.
+Aine läbinud tudengil on järgmised teadmised:
+(1) Keemilise analüüsi üldpõhimõtted: keemilise analüüsi käik, analüüsimetoodika, selle omadused.
+(2) Keemilised analüüsimeetodid (gravimeetria, titrimeetria, potentsiomeetria, kromatograafia, spektroskoopilised meetodid) ja nende aluseks olevad protsessid (sadenemine, tasakaaludreaktsioonid, molekulisisesed üleminekud).
+(3) Analüüsiobjekt ja proov, proovide ettevalmistamise üldprintsiibid ja põhilised meetodid.
+Aine läbinud tudengil on järgmised oskused:
+(4) Aine läbinud tudeng oskab omandatud teadmisi praktiliselt rakendada keemilise analüüsi ülesannete lahendamisel.

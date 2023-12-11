@@ -1,0 +1,7 @@
+Mis on HPC, kuidas arvutustöid teostada, moodulite süsteemi ja tarkvara tutvustus, enamlevinud tarkvarade kasutus, ressursside planeerimine, süsteemi arhitektuuri ülevaade, parimad praktikad.
+Eesmärk on anda ülevaade kõrgjõudlusega arvutustest, õpetada neid kasutama, tutvustada parimaid kasutusvaldkondi ja -tehnikaid, et võimaldada kiire ja efektiivne suuremahuliste ja keerukate andmetega arvutamine.
+-HPC arhitektuuri ja olemuse mõistmine
+-Oskus hallata arvutusressursse
+-Algaja paralleelarvutuste teadmised
+-Käsuridadega töötamise oskus
+-Enamkasutatavate HPC tarkvaralahenduste kasutusoskus (Galaxy, Jupyter, RStudio)

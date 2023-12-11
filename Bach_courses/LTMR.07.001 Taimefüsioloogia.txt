@@ -1,0 +1,10 @@
+Kursuses antakse ülevaade taimede veevahetusest, mineraaltoitumisest, fotosünteesist, hingamisest, kasvust ja arengust, nende protsesside omavahelistest suhetest ja seostest väliskeskkonnaga organismi tasandil.
+Aine annab ülevaade taimede molekulaarbioloogiast. See sisaldab fotosünteesi ja selle kontseptsioonid, taimede primaar metablismi, vee vahetus, mineraalse toitumise, kasvu ja arengu, ning interaktsioonid ümbruskonnaga.
+Aine läbinud üliõpilane:
+*	oskab seostada taimede anatoomilise ja morfoloogilise ehituse ning keemilise koostise iseärasused kohastumusena taimes toimuvate protsesside läbiviimiseks;
+*	oskab seletada lähtuvalt veepotentsiaali mõistest ja taime anatoomiast vee omastamise, liikumise ja eraldumise mehhanisme, mis võimaldavad reguleerida veevahetust sõltuvalt keskkonnatingimustest;
+*	on omandanud arusaamise kuidas C3, C4 ja CAM taimed rakendavad valguse energiat veest ja süsihappegaasist suhkrute tootmiseks. Teab fotosünteesi kohastumusi erinevatel keskkonnatingimustel;
+*	teab, milliseid keemilisi elemente omastavad taimed mullast, kuidas toimub nende omastamine ja ainevahetusse lülitumine membraanitranspordi vahendusel;
+*	oskab seletada taimede anatoomilise ja morfoloogilise struktuuri teket seemnes peituvast embrüost ja taime kasvuainete osa selles, samuti valgusretseptorite fütokroomi krüptokroomi ja neist lähtuvate signaaliradade tähtsust kohastumisel väliskeskkonnale fotomorfogeneesis;
+*	tunneb peamisi taimehormoone ja nende regulatsioonimehhanisme;
+*	teab peamisi taimepatogeenide vastu rakendatavaid kaitsemehhanisme.

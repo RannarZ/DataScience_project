@@ -1,0 +1,11 @@
+Kursus "Sissejuhatus algebralisse K-teooriasse" on põhiliselt pühendatud kahele esimesele rühmale K_0 (R) ja K_1 (R), kursuse lõpus defineeritakse lühidalt ka K_2 (R).
+
+Kursuse 1. osa tugineb Milnor'i õpikule "Introduction to algebraic K-theory" (esimesed 8 peatükki), keskendudes juhtudele, kus R on kas Dedekindi ring või R on täisarvuline rühmaring üle tsüklilise rühma (3 EAP).
+
+Kursuse 2. osa on pühendatud K_0 (R) tundmaõppimisele, kus R on täisarvuline rühmaring üle tsüklilise rühma, kus tsüklilise rühma järk on algarvu aste, täpsemalt p^2 (p on algarv), 3 EAP.
+
+Kursuse 2. osa tugineb järgmisele kahele teadusartiklile:
+1. Kervaire, M.A., Murthy, M.P. On the projective class group of cyclic groups of prime power order. Commentarii Mathematici Helvetici 52, 415-452 (1977).
+2. Stolin, A. An explicit formula for the Picard group of the cyclic group of order p^2. Proceedings of the American Mathematical Society 121(2):375-383 (1994). DOI: 10.1090/S0002-9939-1994-1243832-X.
+Anda ülevaade algebralise K-teooria põhimõistetest ja -tulemustest, keskendudes põhiliselt rühmadele K_0 (R) ja K_1 (R), kus R on assotsiatiivne kommutatiivne ring.
+Üliõpilane teab algebralise K-teooria tähtsamaid mõisteid ja tulemusi.

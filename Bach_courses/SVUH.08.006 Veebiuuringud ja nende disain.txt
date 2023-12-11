@@ -1,0 +1,6 @@
+Kursuses käsitletakse eelkõige neid veebiuuringute tahke, mis erinevad teistest uuringu läbiviimise viisidest (CAPI, CATI jt). Konkreetsemalt käsitletakse veebiuuringute eeliseid ja puudusi, võimalusi veebiküsitluse integreerimiseks teiste küsitlusviisidega, valimi moodustamise eripärasid, küsimustiku koostamist lähtuvalt veebiküsitluse iseärasustest ja vastamismäära problemaatikat. Kursuse praktiline osa võimaldab tudengitel ise läbi mõelda ja paika panna ühe veebiküsitluse uurimisdisain ning luua uuringukeskkonnas vastav küsimustik. Kursus toimub hübriidõppena, st auditoorses õppetöös on võimalik reaalajas osaleda nii klassiruumis kui üle interneti.
+Kursuse eesmärgiks on anda ülevaade veebiküsitluse ettevalmistamisest ja läbiviimisest. Kursuse edukas läbimine annab üliõpilastele teoreetilised alusteadmised veebiküsitluse eripäradest ja praktilise kogemuse veebiküsitluse disainimisest ja läbiviimisest.
+Kursuse edukalt läbinu 
+-	omab alusteadmisi veebiuuringute metodoloogiast;
+-	orienteerub veebiküsitluse uuringudisaini olulisemates küsimustes ja võimalikes lahendustes;
+-	oskab rakendada omandatud teadmisi veebiuuringu planeerimisel ja veebiküsimustiku loomisel.

@@ -1,0 +1,12 @@
+See kursus tutvustab 3D-geomodelleerimise tehnikaid Leapfrogi spetsialiseeritud tarkvaras, mida käsitletakse teooria sünteesis ning rakendatakse praktilistes harjutustes ja reaalelulistes geoloogilis-tööstuslikes juhtumiuuringutes.
+Kursuse eesmärk on anda teoreetilised baasteadmised teaduslikust ja tööstuslikust geoloogilisest 3D modelleerimisest ning kinnistada teadmised praktiliste harjutuste läbimisega kasutades tarkvara Leapfrog
+Pärast kursuse edukat läbimist tudeng:
+(1) tunneb geomodelleerimise, topoloogia, diskreetsete mudelite, võrgustike, geostatistika ja interpolatsiooni põhialuseid;
+(2) tunneb 3D andmeallikaid: pinnageoloogia, puuraukude ja geofüüsikaandmed (nt 2D ja 3D seismika);
+(3) oskab töötada Leapfrog tarkvaras: tunneb programmi probleeme ja funktsionaalsusi;
+(4) oskab modelleerida lihtsat kivimikihtide stratigraafiat;
+(5) oskab mudelile lisada murranguid ja murranguvööndeid;
+(6) suudab modelleerida kivimkehade kurrutusi;
+(7) oskab modelleerida keerulisi kivimkehi;
+(8) oskab koostada geoloogiliste objektide omaduste esitust, modelleerimist ja simulatsiooni;
+(9) oskab lihtsamat 3D modelleerimist seismika andmestiku põhjal

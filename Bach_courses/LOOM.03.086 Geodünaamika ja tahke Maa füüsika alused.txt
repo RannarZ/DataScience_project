@@ -1,0 +1,12 @@
+Kursuse käigus käsitletakse tahke Maa sfäärilist läbilõiget, füüsikalisi välju (raskusjõu ja magnetväli) ning erinevaid uurimismeetodeid Maa sisemuse uurimisel. Esitatakse litosfääri laamtektooniline, kuuma täpi ja superkontinentide tektooniline mudel. Loengukursus koosneb järgnevatest peatükkidest:
+
+1.	Sissejuhatus. Ülevaade meetoditest, mida kasutatakse Maa siseehituse uurimisel.
+2.	Maa gravitatsiooniväli. Maa mass ja tihedus; gravitatsioonijõu seos geoloogiaga; kivimite ja setendite tihedus ning poorsus; gravitatsioonjõu mõõtmine; gravitatsioon globaalsetel tektoonilistel situatsioonidel.
+3.	Maa magnetväli, selle kirjeldamine ja variatsioonid; magnetomeetria aparatuur; kivimite magnetilised omadused; geoloogiliste struktuuridega seonduv magnetväli; paleogeograafia alused.
+4.	Seismoloogia. Mehaaniline pinge ja deformatsioon; materjalide elastsed omadused; seismilised lained, lainete käitumine ja levik kihilises keskkonnas; maavärinad; maavärinate registreerimine ja kirjeldamine; maavärinad sisesfääride iseloomustamisel.
+5.	Maa soojusväli; maasisese soojuse allikad; soojusvoo tihedus; sulamisvööndid Maa sees.
+6.	Maa siseehitus. Maakoor, koore tüübid ja koostis. Maa vahevöö ja tuum, neis toimuvad protsessid.
+7.	Laamtektoonika. Laamade omavahelised piirid, neis toimuvad geoloogilised protsessid.
+8.	Kuumad täpid; vahevöö konvektsioon; laamasid mõjutavad jõud, superkontinendid.
+Omandada teadmised Maa sfäärilisest ehitusest, füüsikalistest väljadest, maakoore liikumisest ning nende teadmiste aluseks olevatest uuringumeetoditest.
+Üliõpilane tunneb detailselt Maa sfäärilist ehitust, laamtektoonika põhimõtteid, laamade äärtel toimuvaid protsesse, kuuma täpi magmatisimi seoseid laamtektoonikaga. Lisaks teab üliõpilane seismoloogia, gravimeetria, magnetomeetria ja termomeetria meetodite põhimõtteid.

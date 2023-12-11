@@ -1,0 +1,15 @@
+Rahanduse aine ja finantskeskkond. Eraisiku rahanduse alused. Raha ajaväärtus. Väärtpaberite analüüs. Pangateenused. Investeerimise protsess ja strateegiad. Fondi- ja börsiinvesteeringud.
+Õpetusega taotletakse, et õppija omandab rahanduse alased põhiteadmised ja -sõnavara, õpib tundma rahanduse spetsiifikat, omandab väärtuspõhise mõttelaadi ning arendab rahandustööks vajalikke praktilisi oskusi, analüüsivõimet ja probleemide lahendamise oskusi nii enda rikkuse suurendamiseks kui ka tegelemiseks ettevõtluses
+Kursuse läbinud üliõpilane teab:
+* eraisiku (isikliku)rahanduse põhikontseptsioone, sh. raha ajaväärtuse kontseptsioone
+* finantsmatemaatika põhikontseptsioone
+* väärtpaberite liike ja ettevõtte finantseerimise võimalusi
+* kommertspanganduse terminoloogiat ja pakutavaid teenuseid
+* investeerimispanganduse terminoloogiat ja pakutavaid teenuseid
+* Eesti finantskeskkonda (sh finantsturud)
+Kursuse läbimisel õppija oskab:
+* oma elus teha põhjendatud rahandusotsuseid
+* teha lihtsamaid finantsmatemaatilisi arvutusi taskuarvuti ja MS Exceli abil
+* arvutada väärtpaberite väärtust, tulusust, hinda, riski
+* koostada ja analüüsida pangalaenu ja liisingu graafikut, teha valuutaarvutusi ja hinnata krediidikulukuse määra finantseerimisel
+* hinnata finantsinvesteeringute tulu, kulu, kasumit ja kasumlikkust ning ka makse.

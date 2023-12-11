@@ -1,0 +1,10 @@
+Ülevaatekursus  ArcGIS-ist. Kuus praktikumi üksikkasutaja töölauaversiooni (ArcGIS Desktop) ja tema laiendustega.
+Saada ülevaade ArcGIS'i üldisest ülesehitusest ning omandada lähtealus iseseisvaks edasiõppimiseks. Saada esmane praktiline kogemus nimetatud tarkvaraga  ning erinevas formaadis geograafiliste andmetega töötamisel.
+Aine läbimise järel üliõpilane:
+- saab aru ruumiandmete koostoime olemusest
+- tunneb ArcGIS-i kasutamise loogikat ja oskab kasutada koordinaatsüsteeme
+- oskab luua ja hallata geoandmebaasi, muuta ruumiandmeid
+- oskab teha päringuid
+- oskab teha andmebaasist kartograafilist väljundit
+- oskab koostada lihtsamaid programme Model Builderis
+- on võimeline ennast isesiseisvalt antud valdkonnas täiendama

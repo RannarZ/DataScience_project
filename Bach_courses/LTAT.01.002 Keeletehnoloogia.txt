@@ -1,0 +1,18 @@
+Keeletehnoloogilised mõisted, kasutatavad lähenemised, meetodid, ressurssid, algoritmid ja andmestruktuurid
+- sõnade ja lausete struktuuri modelleerimine, analüüs ja kasutamine
+- tõenäosused, klassifitseerimine, jadade märgistamine, dünaamiline programmeerimine
+- masintõlge, informatsiooni kogumine, kõnesüntees ja -tuvastus, dialoogisüsteemid
+See kursus räägib
+- loomulike keelte automaattöötlusest, selle põhimeetoditest ja -algoritmidest, olemasolevatest ressurssidest ja tarkvarast
+- keelethnoloogilistest kommertsrakendustest ja sellest mis paneb need käima
+- mis keeletehnoloogias töötab ning mille üle meie veel pead murrame, nii eesti keele jaoks kui ka üldiselt
+Meie eesmärgid on
+- äratada teis huvi selle ala vastu, muidugi!
+- näidata, kuidas asjad töötavad
+- ja milliseid keeletehnoloogilisi rakendusi saab ise luua ja/või tööle saada
+Oodatud eelteadmised/-oskused kursuse läbimiseks:
+- ei karda programmeerimist, UNIXi käsurida ja algoritme, ning on valmis neid oskuseid juurde õppida
+Kursuse läbinu saab teada
+- kuidas töötavad sellised rakendused nagu Google Translate, Siri, XX ja YY
+- miks selliste lahenduste vastu tunnevad huvi mitmed ettevõted ja asutused üle maailma
+- kuidas luua oma rakendused mis sarnaseid asju teevad

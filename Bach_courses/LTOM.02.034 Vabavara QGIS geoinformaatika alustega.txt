@@ -1,0 +1,9 @@
+Kursus on suunatud kõikidele, kellel puudub eelnev kokkupuude geoinformaatikaga ja geoinformaatika tarkvaraga. Kursus on Moodle põhine ning jagatud 6 teemaks, mille üliõpilane läbib iseseisvalt. Teemad koosnevad teoreetilisest ja praktilisest osast ning lõppevad testi ja praktilise ülesandega. Viimaste lahendamiseks on välja töötatud üksikasjalikud juhendid. Kursuse raames toimub sissejuhatav  veebiloeng, kus lühidalt tutvustatakse teemasid ning kursuse läbimise käiku. Kursus lõppeb veebiseminariga, kus arutatakse iseseisvas töös tekkinud küsimusi.
+Koos vabavaralise QGIS õppimisega  tutvuda geoinformaatika põhialustega.
+Kursuse läbinud õppur:
+* oskab kasutada QGISi põhivõimalusi
+* tunneb QGISi tööpõhimõtteid
+* oskab kasutada erinevaid koordinaatidesüsteeme
+* oskab ruumiandmeid toimetada
+* oskab teha QGISis ruumianalüüse nii raster kui ka vektorandmetega
+* oskab QGISis kujundada kaarte

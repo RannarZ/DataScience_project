@@ -1,0 +1,8 @@
+tekstitöötlus, tabelarvutus, esitlus, Internet, e-mail.
+Anda teadmisi personaalarvutist, põhitarkvarast ja kaasaegse infotehnoloogia võimalustest; anda vajalikke oskusi tööks tekstitöötlus-, tabelarvutus- ja esitlusprogrammidega; tutvustada internetiga seotud põhimõtteid, elektronposti ja interneti etiketti ehk netiketti.
+- oskab töötada tekstitöötlusprogrammidega;
+- oskab luua keeruka struktuuriga tekstidokumente, milles on jaotused, tabelid ja tabeli arvutused, graafilised objektid, lingid, tähistid ja sisukord;
+- oskab otsida informatsiooni internetis, kasutades otsingu süsteemidele kohast keelt;
+- oskab teha lihtsaid tabelarvutusi ning koostada diagramme;
+- oskab ette valmistada presentatsioone;
+- mõistab netiketi põhimõtteid ning oskab neid rakendada.

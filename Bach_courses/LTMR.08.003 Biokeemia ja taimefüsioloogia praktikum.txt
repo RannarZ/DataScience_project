@@ -1,0 +1,15 @@
+Biokeemias ja taimefüsioloogias kasutatavate põhimeetodite teoreetiliste aluste tundmaõppimine ja juhendi järgi nende praktiline rakendamine.
+
+Käsitletavad teemad:
+- Ainete absorptsioonispektrid, analüüdi kontsentratsiooni spektrofotomeetriline määramine.
+- Aminohapete happelis-aluselised omadused. Puhvrerlahused.
+- Valgupuhastamise meetodid
+- Ensüümikineetika ja kineetiliste parameetrite määramine
+- Taimele iseloomulike ühendite (fenoolsed ühendid, fotosünteesipigmendid) ja ensüümide määramine
+- Fotosünteesi, kasvu ning veevahetuse parameetrite (veepotentsiaal, hüdrauliline juhtivus jne.) määramine
+- Mulla veemahutavuse ja pH määramine
+Aine eesmärk on anda ülevaade põhilistest töövõtetest ja meetoditest biokeemias ja taimefüsioloogias.
+Kursuse läbinud üliõpilane:
+- oskab kasutada laboriseadmeid eksperimentide läbiviimiseks.
+- tunneb peamisi laboritöö meetodeid ja nende tööpõhimõtteid.
+- oskab eksperimenditulemusi analüüsida ja tulemuste alusel protokolle vormistada.

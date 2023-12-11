@@ -1,0 +1,8 @@
+Kursusel arendatakse eesti keele suulist ja kirjalikku väljendusoskust C1 tasemel
+Kursusel arendatakse eesti keele suulist ja kirjalikku väljendusoskust C1 tasemel. Arendatakse oskust eesti-keelseid tekste mõista ja refereerida. Antakse ülevaade eesti keele struktuurist keeleõppe kontekstis.
+Kursuse lõpuks üliõpilane
+*	teeb vahet üld- ja oskuskeele vahel
+*	tabab kiiresti laia erialast teemaringi käsitlevate uudiste, artiklite, ülevaadete sisu ja asjakohasuse;
+*	oskab teha kokkuvõtteid keerukatest tekstidest; oskab neid resümeerida ja kommenteerida;
+*	oskab kirjalikus suhtluses selgelt ja täpselt väljenduda
+*	oskab õpitavate teemade piires kirjeldada, arutleda, arvamust avaldada, kommenteerida, sealjuures keeleteadmisi eesmärgipäraselt kasutades

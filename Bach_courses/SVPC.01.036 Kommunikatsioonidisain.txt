@@ -1,0 +1,7 @@
+Visuaalse kommunikatsiooni põhimõtted. Disainipõhimõtteid. Erinevaid töövahendeid vastavalt eesmärgile. Graafiline visualiseerimine. Enese visuaalne väljendusoskus. Tüpograafia. Infodisain ja infoesitlus.
+Aine eesmärgiks on anda teadmised visuaalse kommunikatsiooni ja graafilise disaini põhimõtetest ning nende rakenduslikest aspektidest veebipõhiste või vabavaraliste programmide näitel.
+Õppeaine läbinud õppija: 
+* teab kommunikatsiooni disaini põhimõtteid
+* teab ja oskab rakendada visualiseerimise tehnikaid
+* oskab valida erinevaid töövahendeid vastavalt eesmärgile 
+* mõistab infodisaini ja -esitluse põhimõtteid ja oskab neid rakendada vastavalt eesmärgile

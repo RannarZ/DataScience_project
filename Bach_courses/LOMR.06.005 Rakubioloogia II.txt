@@ -1,0 +1,3 @@
+Ülevaade raku kui elu elementaarüksuse ehituse ja funktsioneerimise põhiprintsiipidest.
+Aine eesmärgiks on anda süvendatud teadmisi pro- ja eükarüootse raku struktuuridest, funktsioonidest ja rakkude elutegevuse regulatsiooni mehhanismidest.
+Üliõpilased peavad saama ülevaate looma-, taime- ja bakteriraku üldisest ehitusest, põhilistest funktsioonidest ja nende elutegevust reguleerivatest mehhanismidest. Põhieesmärgiks on omandada süvendatud teadmised loomaraku ehitusest ja funktsioneerimisest.

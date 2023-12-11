@@ -1,0 +1,20 @@
+Auditoorsetes seminarides antakse ülevaade veebilehe loomisega seonduvatest vahenditest ja meetoditest. Teostatakse praktilisi töid. 
+Teemad: 
+1. Lähteülesande koostamine ja veebilehe planeerimine.
+2. Internetiturunduse vahendid ja strateegia.
+3. Sisuhaldussüsteem Wordpress.
+4. Veebilehe sisuloome.
+5. Otsimootorile optimeerimine.
+6. Veebianalüütika.
+Õppeaine eesmärk on anda põhiteadmised internetiturunduse strateegia, Wordpressi baasil veebilehe loomise ja haldamise, otsimootorile optimeerimise ja veebianalüütika kohta.
+Õppeaine läbinud õppija:
+1) teab, kuidas koostada veebilehe lähteülesannet;
+2) teab internetiturunduse vahendeid;
+3) teab vabavaralise sisuhaldussüsteemi Wordpress võimalusi;
+4) teab otsimootorile optimeerimise rolli;
+5) teab veebianalüütika võimalusi;
+6) oskab luua veebilehe lähteülesande ja internetiturunduse strateegia;
+7) oskab luua lihtsama veebilehe koos vajalike lisadega;
+8) oskab luua veebilehe sisuloome;
+9) oskab veebilehte optimeerida otsimootori jaoks;
+10) oskab kasutada veebianalüütika jaoks Google Analyticsi peamisi vahendeid.

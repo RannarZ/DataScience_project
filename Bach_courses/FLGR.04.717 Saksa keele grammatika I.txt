@@ -1,0 +1,18 @@
+Tähtsamad sõnaliigid (tegusõna, nimisõna, omadussõna, asesõna), nende vormistik ja vormide funktsioonid. 
+Saksa lauseehituse põhialused: tegusõna asukoht lauses (3 struktuuritüüpi) ja tüüpilised lausemudelid.
+Grammatika annab üliõpilastele võimaluse täiendada oma teadmisi saksa keele grammatika olulisemates küsimustes, mis on aluseks saksa keele valdamiseks nii kõnes kui kirjas. Kursuse eesmärgiks on keelelise mõtlemisoskuse arendamine.
+Pärast kursuse läbimist üliõpilane
+
+1) teab ja kasutab ükskeelseid elektroonilisi sõnaraamatuid (dwds.de, duden.de) ja keelekorpusi (deSkell) grammatilise teabe leidmiseks;
+2) oskab määrata nimisõnade sugu tähenduse ja järelliite põhjal ning tunneb enamlevinud homonüüme saksa keeles;
+3) kasutab kontekstis õigesti määravat, umbmäärast ja nullartiklit;
+4) tunneb viit mitmuse moodustamise põhitüüpi ja teab mitmuse moodustamise reegleid;
+5) tunneb nimisõnade käändkondi, oskab nimisõnu oma tekstides õigesti käänata nii ainsuses kui ka mitmuses;
+6) tunneb omadussõnade käändkondi ja oskab moodustada võrdlusastmeid, kasutab omadussõnu tekstides grammatiliselt õigesti;
+7) teab millised eessõnad nõuavad nimisõna geniitivis, daativis, akusatiivis või daativis (kus?) ja akusatiivis  (kuhu?) ning kasutab eessõnu tekstiloomes grammatiliselt õigesti;
+8) tunneb ja kasutab erinevaid ajavorme;
+9) tunneb ja kasutab tegusõna rektsiooni,
+10) määrab tegusõna eesliite (lahutatav/ mittelahutatav) ning kasutab neid kontekstis;
+11) moodustab tingiva kõneviisi (Konjunktiv II) erinevaid ajavorme ning kasutab neid tekstiloomes,
+12) moodustab passiivi erinevaid ajavorme ning kasutab neid tekstiloomes.
+13) väärtustab grammatikat ning kirjakeele normile vastavat kirjutusviisi, kasutades klaviatuuril saksa ß-i ja automaatset õigekirjakontrolli.

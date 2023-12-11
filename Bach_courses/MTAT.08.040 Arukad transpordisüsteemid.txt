@@ -1,0 +1,20 @@
+Õppeaines käsitletakse muuhulgas järgmisi teemasid:
+*Sissejuhatus arukatesse transpordisüsteemidesse
+*Avanseeritud transpordihalduse süsteemid
+*Avanseeritud reisi-informatsiooni süsteemid
+*Turvalisus ja avanseeritud juhi-abi süsteemid
+*ITS keskkonna-aspektid
+*Kommunikatsioonitehnoloogia ja selle rakendamine ITS-s
+*ITS standardid ja arhitektuur
+*ITS telekommunikatsioon
+*Mobiilsed rakendused
+*ITS ja turvalisus
+*ITS reeglistike temaatika
+*Karjäär ITS vallas
+Aine eesmärgiks on heita valgust info- ja kommunikatsioonitehnoloogia kasutamise tähtsusele transpordi vallas läbi arukate transpordisüsteemide (ITS - Intelligent Transportation Systems). Kursusel tutvustatakse süsteemide integreerimise ja tehnoloogiakasutuse  põhikontseptsioone ja printsiipe rakendatuna arukates transpordisüsteemides. Lisaks katab kursus võtmetehnoloogiaid nii seires, kommunikatsioonis ja andmehalduse vallas kui ka tehnoloogiaid süsteemide hindamisel, sealhulgas automaatset sõidukite positsioneerimist ja tuvastust, dünaamilisi juhtimissüsteeme, reisi-info süsteeme ning juhtumite avastamissüsteeme. Lisaks annab kursus ülevaate ITS teenustest ja lahendustest, sealhulhas majanduslikest, sotsiaalsetest ja keskkonna-alastest aspektidest ITS realisatsioonides.
+Kursuse läbinud tudeng:
+*omab head arusaama ITS rollist ning olukordadest, kus vastavad tehnoloogilised lahendused on õnsuudab mõelda kriitiliselt hinnates ITS rakendustes realiseeritud teholoogiaid
+*on arendanud välja võime hinnata tehnoloogiliste lahenduste kasutatavust transpordiprobleemide lahendamisel
+*oskab hinnata sotsiaalseid ja keskkonna mõjusid uute ITS tehnoloogiate kasutamisel
+*oskab planeerida, kujundada ja hallata ITS projekti realisatsiooni
+*suudab uurida ITS rakandusi globaalsel tasemel

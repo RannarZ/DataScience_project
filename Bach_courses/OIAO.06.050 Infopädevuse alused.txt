@@ -1,0 +1,8 @@
+Kursusel käsitletakse järgmisi teemasid: Ülevaade teadusinformatsiooni allikatest. Infootsingu põhimõtted ja strateegia. Otsing e-kataloogis ESTER ja Eesti artiklite andmebaasides.  Tartu Ülikoolile avatud teadusandmebaasid. Otsing erinevates otsikeskkondades. Infootsing Internetis. Infoallikate kvaliteedi hindamine. Plagiaat ja selle vältimine.
+Kursuse eesmärgiks on anda teadmisi ja praktilisi oskusi erialase teadusinformatsiooni otsimiseks.
+Kursuse lõpetanud tunnevad infootsingu põhimõtteid ja päringu koostamise tehnikaid ning rakendavad neid efektiivselt erinevates otsingukeskkondades;
+tunnevad ja oskavad kasutada olulisi teadusinfo andmebaase;
+tunnevad ja oskavad kasutada teadusinfo otsingukeskkondi internetis;
+oskavad hinnata infoallikate usaldusväärsust;
+oskavad vältida plagiaati;
+tunnevad ja oskavad kasutada viidetete haldamise ja bibliograafia koostamise vahendit Zotero.

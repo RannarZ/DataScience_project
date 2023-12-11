@@ -1,0 +1,10 @@
+Aines kaetakse järgmised teemad: 
+1.	Testi disain
+2.	Testi planeerimine
+3.	Meeskonnatöö aspektid testimisel
+Selle kursuse eesmärk on anda tudengitele võimalus rakendada tarkvara testimise kontseptsioone ja tehnikaid praktilise tegevuse käigus.
+Pärast kursuse edukat läbimist oskab üliõpilane: 
+1.	Arvestada tarkvara testimise sotsiaalsete aspektidega.
+2.	Valida ja rakendada konkreetsele tarkvaraprojektile sobivaid testimise tehnikaid.
+3.	Rakendada effektiivseid tehnikaid konfliktide lahendamiseks tarkvara testimise keskkonnas.
+4.	Luua ja põhjendada tarkvara testimise plaani, mis võtab mitmekülgselt uurimisele tarkvara kvaliteedi.

@@ -1,0 +1,6 @@
+HTML keele põhiprintsiibid. Erinevate veebitoimetid. Veebilehe publitseerimine.
+Kursuse eesmärgiks on anda alusteadmised veebilehtede koostamise põhimõtetest, HTML-keelest ja veebitoimetite kasutamisest, samuti veebilehtede publitseerimisest.
+Kursuse läbinud üliõpilane 
+- oskab koostada veebilehti HTML-keeles
+- oskab koostada ja korrastada teiste veebitoimetitega tehtud veebilehti 
+- oskab veebilehti publitseerida

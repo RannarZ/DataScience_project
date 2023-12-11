@@ -1,0 +1,7 @@
+Regressioonimudelite kasutamine sotsiaalmajanduslikke protsesse iseloomustavate andmete analüüsimisel ja uurimishüpoteeside testimisel. Õppeaine läbimise käigus tuleb koostada  empiiriline projekt ning diskuteerida probleemiseadeid ja uurimistulemusi. Projekti koostamise käigus omandatakse teadmisi, oskusi ja  kogemusi sobivate probleemiseadete ja uurimishüpoteeside püstitamiseks, vajalike andmete kogumiseks ja  süstematiseerimiseks, regressioonimudelite hindamiseks ja statistiliseks analüüsiks ning regressioonianalüüsi tulemuste sisuliseks tõlgendamiseks ja diskuteerimiseks. Omandatakse ka oskusi ja kogemusi sobiva arvutitarkvara kasutamiseks
+Omandada esmased teadmised ja oskused, mis võimaldavad kasutada regressioonanalüüsi meetodeid majandus- ja sotsiaalprotsesse iseloomustavate andmete analüüsimisel,  uurimishüpoteeside formuleerimisel ja testimisel ning analüüsitulemuste sisulisel tõlgendamisel.
+Teadmised regressioonimudelite formuleerimiseks, hindamiseks ja regressioonianalüüsi tulemuste sisuliseks tõlgendamiseks ning uurimishüpoteeside testimiseks. 
+Oskus formuleerida ja diskuteerida uurimishüpoteese, millede testimisel saab kasutada regressioonanalüüsi.
+Oskus leida ja kasutada regressioonanalüüsi läbiviimiseks vajalikke andmeid.
+Teadmised ja oskused hinnata ja analüüsida regressioonimudeleid kasutades selleks sobivat tarkvara. 
+Oskused ja esmased kogemused  regressioonianalüüsi kasutamiseks empiiriliste projektide  tegemisel ning uurimistulemuste diskuteerimisel.

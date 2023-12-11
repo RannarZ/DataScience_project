@@ -1,0 +1,18 @@
+Sissejuhatav aine
+- informaatika eriala üliõpilastele informaatika ja selle rakenduste probleemide ja meetodite ning erialaste karjäärivõimaluste tutvustamiseks,
+- loengutel ja seminaridel aidatakse tudengitel omandada vajalikud oskused, millega ülikoolis õppides kokku puutuda tuleb. Kursuse raames antakse ülevaade õppimisstiilidest ja nendega hakkama saamisest, samuti rühmatöö olemusest. Tudengitel aidatakse tegeleda eneseanalüüsiga, stressi ja problemaatiliste olukordadega toimetulekuga ning tutvustatakse akadeemilisi tavasid.
+Anda üliõpilastele
+- ülevaade informaatika erinevatest valdkondadest ja rakendustest ning võimalikest spetsialiseerumissuundadest ja nendega seotud ametikohtadest,
+- ülevaade erinevatest õpistiilidest ja õppimisvõtetest, ajakasutusest, õpimotivatsioonist,
+- kogemus akadeemilise teksti vormistamisest ja avalikust esinemisest seminaris,
+- kogemus oma õppimisele ajakulu analüüsimisest ja eesmärkide seadmisest,
+- põhilised oskused, mis on vajalikud informaatika erialal õppimiseks.
+Kursuse läbinud üliõpilane
+- saab ülevaate informaatika erinevatest rakendustest ja uurimissuundadest ning on tutvunud informaatikute võimalike karjääriradadega,
+- tunneb oma võimalusi ja eripära õppijana ning oskab ülikoolis õppides nendele toetuda,
+- planeerib teadlikult ja otstarbekalt oma õppimist ülikoolis ning koostab oma õppeplaani kogu õppeajaks,
+- kasutab üldisi ja erialaspetsiifilisi õppimisvõtteid, valib oma eesmärkidele vastava õppimisvõtte õppeaine kontekstis, teadvustab varasema kogemuse põhjal enda ja kaastudengite jaoks töötavaid ja mittetöötavaid õpistiile,
+- oskab leida motivatsiooni õppimisel ja analüüsida oma ajakasutust,
+- oskab vormistada lihtsat akadeemilist teksti ja omab esinemiskogemust,
+- osaleb grupitöös lihtsa veebirakenduse koostamisel kasutades versioonihaldustarkvara,
+- tutvub instituudi uurimisrühma või ettevõtte tööga ning analüüsib oma õppimisvajadust ja karjäärivõimalusi informaatikuna.

@@ -1,0 +1,10 @@
+Antud kursus on sissejuhatus analüütilisse geomeetriasse.  Kursuses vaadeldakse järgmisi teemasid: 1) vektoralgebra (reeper ja selle poolt määratud koordinaadisüsteem, skalaar-, vektor- ja segakorrutamine); 2) sirge ja tasandi võrrandid, rakendused; 3) ristkoordinaatide teisendused, ortogonaalmaatriksid, Euleri nurgad, polaar-, silinder- ja sfäärkoordinaadid; 4) koonuselõiked (ellips, hüperbool, parabool) ja nende optilised omadused, teist järku joonte uurimine ortogonaalinvartiantide abil; 5) teist järku pinnad.
+Loodus- ja täppisteaduste valdkonna üliõpilastele geomeetria algteadmiste andmine. Õppija arendab arvude ja arvutamisega seotud õpioskusi õpitavate teemade ja ülesandetüüpide lõikes.
+Selle kursuse läbinud üliõpilane:
+1. oskab kasutada vektoreid ja vektoralgebra tehteid lihtsamate ülesannete lahendamisel;
+2. tunneb ära sirge võrrandi, oskab seda erinevate algandmete põhjal koostada, oskab määrata sirgete vastastikuseid asendeid ruumis ning arvutada punkti kaugust sirgest ja sirgete vahelist nurka;
+3. tunneb ära tasandi võrrandi, oskab seda erinevate algandmete põhjal koostada, oskab määrata tasandite või sirge ja tasandi vastastikuseid asendeid ruumis ning arvutada punkti kaugust tasandist, samuti kahe tasandi või sirge ja tasandi vahelist nurka;
+4. oskab kasutada polaarkoordinaatide süsteemi tasandil, silinder-koordinaatide ja sfäärkoordinaatide süsteemi ruumis lihtsamate ülesannete lahendamisel;
+5. tunneb ära teist järku joone võrrandi, oskab seda koostada erinevate algandmete põhjal, oskab arvutada teist järku joone võrrandi ortogonaalinvariante, oskab määrata teist järku joone tüüp ortogonaal-invariantide põhjal ning teab teist järku joontega seotud põhimõisteid;
+6. tunneb ära teist järku pindu ruumis ja teab teist järku pindadega seotud põhimõisteid;
+7. valib ülesannete lahendamiseks sobivad matemaatilised kontseptsioonid (valemid) ning rakendab neid ülesannete lahendamisel.

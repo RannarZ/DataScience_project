@@ -1,0 +1,27 @@
+Aine toimub kahel semestril. Esimese osa läbimine on eelduseks teisele osale pääsemiseks. Esimene osa on pigem teoreeriline koos tahvlipraktikumidega. Teine osa rohkem praktiline (õpitakse VHDLi ja praktiseeritakse seda FPGA riistvaral).
+
+Käsitletakse erinevaid kombinatoorseid loogikalülitusi, nende abil sooritatavaid matemaatilisi ja loogikatehteid. Tutvustatakse mitmesuguseid mäluga loogikalülitusi ja nendel baseeruvaid mäluelemente. Selgitatakse digitaalsüsteemide disainimisel ja modelleerimisel vajalikke kontseptsioone. Kirjeldatakse digitaalsignaali kodeerimist, kompressimist ja veakorrektsiooni meetodeid. 
+Märksõnad: ajalooline ülevaade; digitaalsete lülituste teooria; kombinatsioonloogikaahelad ja nende modulaardisain; mäluelemendid; järjendloogikaahelad; digitaalsete süsteemide disain; modelleerimine ja simulatsioonid; formaalne kontroll; vigade mudelid ja testimine.
+
+Soovituslikud eeldusained:
+	MTAT.05.110	Diskreetse matemaatika elemendid (3 EAP)
+	MTAT.03.100	Programmeerimine (6 EAP)
+Õppeained, millele on soovituslikuks eeldusaineks:
+	LOFY.03.014 	Mikroprotsessorid (6EAP)
+	LOFY.01.017 	Digitaalelektroonika (3EAP)
+	LOFY.03.016 	Riistvaraprojekt (6EAP)
+* Anda ülevaade mineviku mikroskeemidest ja sardsüsteemidest ning kaasaegsete projekteerimise käikudest, meetoditest ja vahenditest;
+* anda põhjalik ülevaade digitaalsüsteemide modelleerimisest;
+* anda põhjalik ülevaade riistvara kirjelduskeelest VHDL;
+* õpetada riistvara kirjelduskeele kasutamist erinevatel disaini- ja abstraktsioonitasemetel;
+* anda ülevaade digitaalsüsteemide sünteesist registersiirete ja loogika tasemel FPGA baasil;
+* õpetada tööstuslike simuleerimis- ja sünteesivahendite kasutamist.
+Aine I osa edukalt läbinud õppija:
+1) Oskab opereerida erinevate numbrisüsteemide ja loogikaväratitega ning neid praktikas rakendada.
+2) Suudab rakendada kuni 5 sisendiga funktsiooni teisendamist Booleani loogika, Venni diagrammide või Karnaugh kaardi abil.
+3) Tunneb erinevaid puhvreid, summaatoreid, (de)koodreid, (de)multipleksereid, koodimuundajaid, lukustuvaid mäluelemente, trigereid, registreid ja komparaatoreid.
+Aine II osa edukalt läbinud õppija:
+1) Oskab kõrvutada erinevaid mikroskeemi tüüpe (PLA, PAL, ASIC, CPLD ja FPGA) ning valida neist praktikas sobilikuma.
+2) Oskab kasutada FPGA programmeerimiseks kasutatavat CAD vahendit Xilinx Vivado.
+3) Suudab iseseisvalt tegeleda VHDL keeles lihtsamate ja keskmise raskusega ülesannete programmeerimisega (k.a. visuaalprogrammeerimine) FPGA riistvarale ning leida tekkinud küsimustele iseseisvalt lahendusi. Lisaks suudab kirjutada lahendusele simulatsiooni ja seda analüüsida.
+4) Oskab analüüsida ja hinnata valmis VHDL koodi, suudab seda kohaseid meetodeid ja vahendeid kasutades iseseisvalt edasi arendada, teab vahendeid millega saab VHDL koodi muuta kiiremaks või energiasäästlikumaks.

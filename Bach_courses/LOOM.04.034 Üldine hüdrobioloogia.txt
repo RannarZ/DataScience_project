@@ -1,0 +1,21 @@
+Teemad:
+1. teema: Sissejuhatus hüdrobioloogiasse
+2. teema: Plankton
+3. teema: Bentos
+4. teema: Süvaveealade ökoloogia
+5. teema: Rannalähedaste ökosüsteemide ökoloogia
+6. teema: Rifid
+7. teema: Ojad ja jõed: ühesuunalise vee vooluga süsteemid
+8. teema: Järved ja ookeanid kui funktsionaalsed tervikud
+9. teema: Veeökosüsteemid ja globaalökoloogia
+10. teema: Inimtegevuse mõjud veeökosüsteemidele
+11. teema: Järvede ajalugu (paleolimnoloogia)
+Üliõpilased saavad selgeks hüdrobioloogia põhialused ja -mõisted. Nad omandavad ülevaate erinevatest veeökosüsteemidest, hüdrobiontide rühmadest ning neid mõjutavatest keskkonnateguritest. Tudengid jõuavad arusaamisele veeökosüsteemide struktuurist ja funktsioneerimisest. Nad teadvustavad vastastikused seosed veeökosüsteemide, globaalsete kliimanähtuste ning inimtegevuse vahel.
+Õppeaine edukal läbimisel üliõpilased: 
+* Valdavad hüdrobioloogia põhimõisteid ja hüdrobioloogiliste protsesside ning seoste toimimise põhiprintsiipe.
+* Tunnevad peamisi hüdrobiontide rühmi ja oskavad välja tuua hüdrobiontide kohastumusi eluks vee-biotoopides ning nende suhteid keskkonnateguritega.
+* Oskavad tuua näiteid hüdrobiontide vahelistest suhetest, toiduahelatest ja mõistavad neid kontrollivaid mehhanisme.
+* Omavad ülevaadet erinevatest veeökosüsteemidest, nende struktuurist ja seda kujundavatest teguritest.
+* Oskavad leida ja selgitada seoseid veeökosüsteemide, inimtegevuse ning globaalsete kliimanähtuste vahel.
+* On võimelised nägema konkreetseid hüdrobioloogilisi probleeme ka laiemas sotsiaal-majanduslikus või globaal-ökoloogilises kontekstis.
+* Oskavad iseseisvalt leida vajalikku informatsiooni, seda kriitiliselt analüüsida ning seostada eelnevalt omandatud teadmistega.

@@ -1,0 +1,12 @@
+Kogenud praktikud: Karin Luiga (BDO); Iren Lipre, Kaie Maennel (Deloitte); Ranno Tingas (EY); Kai Paalberg, Meeli Tali-Aruväli (GT); Mari Salmu, Karin Oras (KPMG); Alice Ligi, Erki Mägi (PwC) käsitlevad riskide liike ja nende juhtimise protsessi: riskide tuvastamist, -hindamist ning haldamist. Sealhulgas käsitletakse peamisi küberturvalisuse raamistikke ja mõisteid. Uuritakse kuidas toimib riskijuhtimise protsess ettevõttes ja milline on siseaudiitori roll selles. Käsitletakse maksukorralduse ja -poliitika liike ja põhimõtteid, ning maksusüsteemide erinevusi ja sarnasusi Eesti vs. teiste riikide vahel. Analüüsitakse rohepöörde ja talendisõjaga kaasnevaid riske ja nende maandamise võimalusi.
+Aine eesmärgiks on koostöös audiitor- ja nõustamisfirmadega (KPMG, PwC, GT, EY, Deloitte, BDO) anda õppijatele süsteemne ja praktiline ülevaate  riskijuhtimise valdkondadest:  arvestussüsteemi korraldamine ja andmete avalikustamine, küberriskid,  piiriülese tegevuse juriidilised riskid,  rahvusvahelise talendisõja ja rohepöörde riskid, sotsiaalsete riskide juhtimine ja aruandlus. Fookuses on riskide tuvastamise ning maandamise võimalused.
+Kursuse edukalt läbinu: 
+* teab äririskide juhtimise eesmärke, protsessi ja põhimõtteid;  
+* mõistab, kuidas tuvastatakse riskid ja kuidas on siseaudiitor seotud riskide juhtimisega;
+* teab, kuidas ja millised olulisemad küberturvalisuse aspektid mõjutavad ettevõtte tegevust (sh finantsjuhtimist).
+* teab erinevusi ja sarnasusi Eesti vs. teiste riikide maksusüsteemide vahel; mõistab välistööjõuga kaasnevaid maksuriske ja -erinevusi;
+* teab ESG kontseptsiooni ning EL-i regulatsioone ja muudatusi ja oskab nendega arvestada;
+* teab, milliste juriidiliste vaidlustega võib (finants)juht kokku puutuda; 
+* teab, miks on talendirisk äririskidest tõusnud esikohale ja teab viise nende teadlikuks juhtimiseks;
+* mõistab andmekaitset ja compliance'it üldiselt; 
+* on teadlik riskijuhtimise tegevuse eetilistest aspektidest, võimalustest, piirangutest;

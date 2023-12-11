@@ -1,0 +1,9 @@
+Tegu on sissejuhatava ainekursusega, mis käsitleb erinevaid küberdomeeni ja -poliitikaga seotud teemasid alates selle haldusest, juhtimisest ja koostööst nii riiklikul kui rahvusvahelisel tasemel.  Käsitletavad teemad hõlmavad erinevaid riiklikke lähenemisi küberpoliitika juhtimisele, küberkuritegevusele, kübersõjapidamisele, küberjulgeolekule, kübernormidele ja rahvusvahelisele koostööle küberruumis.
+
+Aine on praktilise väljundiga ning loenguid annavad oma valdkonda praktiseerivad eksperdid erinevatest avaliku ja erasektori asutustest.
+Kursuse eesmärgiks on anda sissejuhatav ülevaade ja raamistik küberdomeeni ja -poliitikaga seotud teemadest ja nendes orienteerumiseks ning arendada arusaama sellest, kuidas toimub küberpoliitika juhtimine ning kuidas küberkaalutlused mõjutavad riiklikku ja rahvusvahelist julgeolekupoliitikat.
+Kursuse edukal läbimisel on üliõpilane suuteline:- mõistma küberpoliitika riiklikke ja rahvusvahelisi toimemehhanisme;
+	- kirjeldama, kuidas suhestub küberpoliitika julgeolekupoliitikaga;
+	- Mõistma tervikliku lähenemisviisi ja sektoriülese koostöö olulisust küberjulgeoleku tagamisel;
+	- andma ülevaadet küberkuritegevuse olemusest ning põhilistest trendidest tänapäeva maailmas;
+	- Mõistma, kuidas eri riigid suhtuvad rahvusvahelise õiguse kehtimisse küberruumis.

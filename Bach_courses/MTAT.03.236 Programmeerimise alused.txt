@@ -1,0 +1,7 @@
+Programmi ja algoritmi mõiste. Algoritmi esitusviisid, plokkskeemid. Hargnev algoritm. Tsükkel. Alamalgoritm. Tekstina püstitatud ülesande  algoritmi koostamine. Programmi struktuur. Nimed. Muutujad. Tehted. Avaldised.
+Loogilised avaldised, võrdlemised. Tingimuslause. Tsükkel. Järjend. Järjendi läbivaatamine. Alamprogrammid. Andmevahetus kasutaja ja failidega. Lihtne kasutajaliides.
+Üliõpilane omandab algoritmilise mõtlemisviisi alused ja tutvub mõningate programmeerimisvõtetega.
+Kursuse läbinud üliõpilane 
+- on motiveeritud kasutama arvutit ja koostama vajalikke programme oma edasise stuudiumi vältel;
+- oskab programmeerimise baaskonstruktsioone (hargnemine, tsükkel, alamprogramm) esitada programmilõikudena;
+- oskab tekstina püstitatud lihtsa ülesande realiseerida arvutiprogrammina.

@@ -1,0 +1,6 @@
+Arvutused ja andmetöötlus analüütilises keemias. Ettevalmistus praktikumitööde tulemuste arvutamiseks.
+Kinnistada loengus õpitut erinevate rakendusülesannete lahendamise teel ning toetada õppijaid praktikumides vajaliku arvutusoskuse omandamisel/parendamisel tabelarvutusprogrammi kasutamises keemilise analüüsi arvutustes.
+Õppeaine läbinud õppija:
+Kasutab korrektselt keemilise analüüsi juures vajalikke põhiseoseid füüsikaliste suuruste (mass, aine hulk, tihedus, massiprotsent, erinevat tüüpi kontsentratsioonid) vahel.
+Mõistab proovi eeltöötluse erinevate etappide sisu ja oskab neid arvesse võtta analüüsitulemuse arvutamisel.
+Arvutab keemilise analüüsi tulemuse, hinnates kriitiliselt andmekogu ning saadud tulemust, sealjuures kasutades sihtotstarbeliselt tabelarvutusprogrammi (nt MS Excel).

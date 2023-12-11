@@ -1,0 +1,7 @@
+Kursus koosneb kolmest osast, millest iga osa keskendub ühele mängumootorile: Unity, Godot ja Unreal Engine 4. Igat mootorit kasutades teeb tudeng väikese mänguprototüübi rakendades õpitud teadmisi.
+Aines õpetatakse kasutama kolme enamlevinud mängumootorit: Unity, Godot ja Unreal Engine 4. Tudeng õpib neis mootorites looma mängu struktuuri ning teab milline mootor sobib tema probleemi lahendamiseks kõige paremini.
+Aine läbinud tudeng:
+- On omandanud põhiteadmised Unity, Godot ja Unreal Engine 4 mängumootorite kasutamiseks.
+- Oskab neid mootoreid kasutades oma mängu programmeerida.
+- Teab millised on neis mootorites kasutatavad arhitektuurimustrid ning oskab neid kasutada.
+- Oskab võrrelda nende mootorite sobivust oma probleemi lahendamiseks.

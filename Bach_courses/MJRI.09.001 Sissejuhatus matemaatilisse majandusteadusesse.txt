@@ -1,0 +1,8 @@
+Kursus tutvustab teoreetilistes majandusmudelites kasutatavaid matemaatilisi meetodeid, mille tundmine on vajalik majandusteaduslike õpikute ning teadusartiklite mõistmiseks, eeldamata kõrgema matemaatika kursuse läbimist. Käsitletavate matemaatiliste meetodite kasutusvõimalusi majandusteaduses illustreerivad näited majandusteooriast. Sealjuures ei ole eesmärgiks näitena kasutatud majandusmudelite täielik analüüs ja tõlgendamine, viimast tehakse järgmiste kursuste käigus.
+Kursus annab kogemuse, kuidas kasutada matemaatilisi meetodeid majandusteoreetilistes mudelites.
+Aine läbinud üliõpilane 
+* tunneb erinevaid matemaatilisi meetodeid (diferentseerimine, integreerimine, optimeerimine) ja nende kasutusvõimalusi majandusmudelite analüüsimisel;
+* oskab majandusteoorias ette tulevaid probleeme esitada verbaalse mudelina ning selle põhjal püstitada matemaatilise mudeli;
+* oskab matemaatilise mudeli esitada ka graafilisel kujul;
+* oskab valida mudeli analüüsimiseks sobiva matemaatilise meetodi ning seda kasutada;
+* oskab analüüsi tulemusi tõlgendada

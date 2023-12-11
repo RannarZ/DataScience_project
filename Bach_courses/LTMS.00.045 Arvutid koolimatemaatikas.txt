@@ -1,0 +1,7 @@
+Ülevaade arvutite kasutamisest koolimatemaatika õpetamisel ja õppimisel. Keskendutakse Eesti koolides olemasolevatele programmidele. Muuhulgas tutvustatakse dünaamilise geomeetria programme ja arvutialgebrasüsteeme. Käsitletakse õpppematerjalide leidmist, kohandamist ja koostamist. Ikt kasutamist puudutava teadusartikli  analüüs.
+Eesmärgiks on anda ülevaade arvutite kasutamisest koolimatemaatika õpetamisel ja õppimisel.
+Oskab otsida, eristada ja hinnata erinevaid programme ja tarkvara matemaatika õpetamiseks.
+Oskab kasutada mitmeid Eesti koolidele kättesaadavaid arvutiprogramme ja tarkvara matemaatika õpetamisel.
+On suuteline koostama ja hindama tunnikonspekti.
+On suuteline leidma, kohandama ja koostama õppematerjale matemaatika õppimise soodustamiseks kasutades selleks info- ja kommunikatsioonitehnoloogia vahendeid.
+Leiab ja analüüsib IKT kasutamist puudutavaid  teadusartikleid.

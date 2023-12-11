@@ -1,0 +1,8 @@
+Aine raames antakse ülevaade uurimismeetoditest ja nende kasutamise eeltingimustest ja -viisidest ning nõuetest. Selgitatakse erinevaid andmetüüpe, andmete omandamise viise, seonduvaid kvaliteedinõudeid ja andmete kasutustingimusi. Antakse ülevaade, millised on nõuded erinevat tüüpi andmete analüüsimiseks ning kuidas saadud tulemusi tõlgendada ning esitleda. Tutvustatakse levinumaid andmeanalüüsiks kasutatavaid metoodikaid ning tarkvarapakette.
+Anda ülevaade nii kvantitatiivsetest kui ka kvalitatiivsetest uurimismeetoditest (sh andmete otsimisest, kogumisest, kvaliteedist, kasutamisest, andmeanalüüsi kavandamisest ja läbiviimisest, tulemuste tõlgendamisest ning esitlemisest) ning kuidas neid praktiliselt kasutada.
+Õppeaine läbinud õppija:
+* teab, mis on kvalitatiivne ning kvantitatiivne uurimismeetod
+* oskab kavandada või tellida uurimust
+* oskab otsida või koguda andmebaasidest andmeid ning analüüsida nende kvaliteeti 
+* oskab analüüsida ja tõlgendada saadud andmeid
+* oskab esitleda andmeanalüüsi tulemusi

@@ -1,0 +1,12 @@
+Selles kursuses vaadeldakse järgmisi teemasid: mitme muutuja funktsiooni piirväärtus ja pidevus, osatuletised, tuletis antud suunas, gradient, diferentseeruvus, täisdiferentsiaal, pinna puutujatasand ja normaal, liitfunktsiooni diferentseerimine; ilmutamata funktsioonid, nende diferentseerimine; mitme muutuja funktsiooni ekstreemumid; esimest ja teist liiki joonintegraalid; kordsed integraalid; trigonomeetrilised Fourier' read.
+Kursuses tutvutakse mitme muutuja funktsioonide diferentsiaal- ja integraalarvutuse ning Fourier' ridade teooriaga. Kriitilise mõtlemise oskuse toetamine, matemaatilise suulise eneseväljendusoskuse arendamine. Õppija arendab arvude ja arvutamisega seotud õpioskusi õpitavate teemade ja ülesandetüüpide lõikes.  Toetada õppijat suuliseks eksamiks valmistumisel (suuline vaheeksam, lõpueksam).
+Selle kursuse läbinud üliõpilane:
+1) oskab kirjeldada koonduvust ja tõkestatust ruumis Rm; teab mitme muutuja funktsiooni piirväärtuse epsilon-delta-definitsiooni ja oskab seda rakendada;
+2) oskab selgitada seoseid funktsioonide osatuletiste ja diferentseeruvuse vahel, nende mõistete geomeetrilist tähendust ning oskab tõestada nendega seotud tähtsamaid teoreeme; oskab leida lihtsamate funktsioonide osatuletisi ja täisdiferentsiaali;
+3) oskab defineerida ilmutamata funktsiooni mõistet ja tõestada selle põhiteoreemi ühe muutuja funktsiooni korral; oskab lahendada lihtsamaid ekstreemumülesandeid;
+4) oskab defineerida joone kaare pikkust ja joonintegraale; oskab arvutada lihtsamaid joonintegraale;
+5) oskab defineerida kahekordset integraali, teab selle tähtsamaid omadusi; teab tähtsamaid muutujate vahetusi kahe- ja kolmekordse integraali korral; oskab tõestada Greeni valemit ja seda rakendada;
+6) teab funktsiooni trigonomeetrilise Fourier' rea mõistet, oskab lihtsamaid funktsioone Fourier' ritta arendada; oskab tõestada Riemanni lemmat, Dirichlet' teoreemi Fourier' rea punktiviisi koonduvusest;
+7) valib ülesannete lahendamiseks sobivad matemaatilised kontseptsioonid ning rakendab neid ülesannete lahendamisel;
+8) uurib ja koostab loogilisi arutelusid kursuse käigus õpitud matemaatiliste kontseptsioonide raames;
+9) on arutlenud suulisel vaheeksamil ja suulisel lõpueksamil matemaatiliste kontseptsioonide olemuse, tõestuse ja näidete üle.

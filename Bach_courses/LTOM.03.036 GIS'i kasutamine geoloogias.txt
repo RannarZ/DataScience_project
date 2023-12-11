@@ -1,0 +1,11 @@
+Kursuse käigus kasutatakse programme ArcGIS ja QGIS praktiliste geoloogia alaste ülesannete lahendamisel. Tutvutakse erinevate andmetüüpidega ja õpitakse neid kasutama. Tutvutakse allikatega, kust saada geoloogilisi andmeid: Maa-amet, EELIS, EGT, geoloogiafond jne. Põhioskustena õpitakse kuidas käsitleda vektor- ja rasterandmeid ning kuidas nende abil ruumianalüüsi teha.
+Kursuse eesmärgiks on kinnistada põhiteadmisi geoinfosüsteemide kasutamisest ning siduda neid geoloogia valdkonna ülesannetega. Anda digipädevused edasiseks õppetööks ning baasteadmised täitmaks geoloogi tööülesandeid
+Aine läbimise järel üliõpilane:
+(1)	omab põhiteadmisi programmide ArcGIS ja QGIS kasutamisest
+(2)	oskab peamisi töövõtteid GIS-programmides
+(3)	oskab otsida geoloogilisi andmeid (vektorandmed, WMS, WFS)
+(4)	oskab kasutada geoloogilisi ruumiandmeid (kanda neid kaardile ning teha lihtsamaid ruumianalüüse)
+(5)	oskab kasutada ning luua rasterandmeid
+(6)	omandab oskused kasutada LiDAR-andmeid geoloogilistes rakendustes
+(7)	on tutvunud andmebaasidega ja SQL päringute tegemisega
+(8)	on tutvunud geoloogias kasutatavate GIS-i pluginatega

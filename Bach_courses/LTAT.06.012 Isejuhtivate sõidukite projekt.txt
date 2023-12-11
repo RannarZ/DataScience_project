@@ -1,0 +1,8 @@
+Rakendusprojekt isejuhtivate sõidukite võistlusel osalemiseks või uurimistöö isejuhtivate sõidukite valdkonnas, mis lepitakse kokku juhendajaga.
+Autonoomsus on isejuhtivate sõidukite kontekstis sõiduki võime töötada ilma inimese sekkumiseta. Sellised sõidukid varieeruvad kuju ja suuruse poolest, sealhulgas näiteks robottolmuimejad, isejuhtivad sõidukid, mis toimetavad ladudes ning ka robottaksod jne.
+Kursuse eesmärk on anda üliõpilastele teadmisi osaledes isejuhtivate sõidukite projektis. Projektiks võib olla kas rakendus, millega osaletakse isejuhtivate sõidukite võistlusel, või isejuhtivate sõidukite teadusuuringute alamvaldkonna uurimistöö.
+Õppeaine läbinud õpilane on võimeline:
+I.	kasutama rakendus- või uurimisprojekti jaoks süstemaatilist lähenemist.
+II.	kavandama projekti vastavalt eesmärkidele ja ajakavale. 
+III.	töötama koostöös juhendaja ja meeskonnaliikmetega.
+IV.	koostama tulemustest kirjaliku raporti ja esitama seda suuliselt.

@@ -1,0 +1,13 @@
+Olulisemateks teemadeks on aeglase lugemise põhjused, teksti sisu mõistmise viisid, kiirlugemise harjutamise võtted ja vaimse töö efektiivsuse tõstmise võimalused.
+Kursus toimub e-õppena, mille käigus üliõpilased kiirlugemistarkvara 5.1.30 abil: 
+1.	Teevad lugemiskiiruse ja omandamiskiiruse teste
+2.	Harjutavad kiirlugemise võtteid
+a)	tagasivaatamiste vältimine,
+b)	nägemisvälja suurendamine,
+c)	lugemine sõnarühmade kaupa.
+Tarkvara salvestab kõikide õppijate kõikide testide ja harjutuste tulemused ja võimaldab õppijal jälgida oma lugemisoskuse arengut.
+Kiirlugemiskursuse eesmärgiks on tutvustada teksti sisu täielikuma mõistmise ning kiirema omandamise võtteid ja harjutada nende kasutamist kiirlugemise tarkvaraga.
+Õppeaine läbinud üliõpilane
+1) teab, millised on aeglase lugemise põhjused,
+2) teab, milliste võtete abil saab teksti sisu paremini mõista ja kiiremini omandada,
+3) on arendanud oskusi teksti sisu kiiremaks ja täielikumaks omandamiseks.

@@ -1,0 +1,9 @@
+Loengukursus sisaldab blokke kõikidest arvutuskeemia (teoreetilise keemia) valdkondadest:
+- keemiliste struktuuride digitaalne esitamine, 
+- kvantkeemia, 
+- molekulaarmehaanika, 
+- molekulaardünaamika, 
+- keemiainformaatika, 
+- jne.
+Anda ülevaade kaasaaegsetest arvutuskeemia meetoditest keemiliste protsesside ja nähtuste ning materjalide omaduste kirjeldamisel.
+Üliõpilane omab ülevaadet ja teadmisi kaasaegsete arvutuskeemia meetodite rakendamisest keemiliste protsesside ja nähtuste lahtiseletamisel ja materjalide omaduste kirjeldamisel.

@@ -1,0 +1,8 @@
+Elektrimõõteriistade kasutamist ning tuntumaid elektri- ja magnetismialaseid eksperimentaalmeetodeid käsitlev laboratoorne praktikum. On täienduseks elektri ja magnetismi kursusele. Praktikum hõlmab 14 teemat kokku 33 tööga. Semestri jooksul tuleb sooritada 10 laboratoorset tööd.
+Anda füüsikaüliõpilastele teadmised ja oskused enamlevinud elektrimõõteriistade kasutamiseks ning elektri- ja magnetismialaste eksperimentide teostamiseks.
+Praktikumis arvestuse saanud üliõpilane:
+*  teab ja oskab selgitada elektromagnetismi seadusi ja põhitõdesid;
+*  oskab kasutada enamlevinud elektrimõõteriistu;
+*  oskab kavandatud mõõtmiste tegemiseks kokku panna elektriskeemi;
+*  on omandanud põhiteadmised elektriohutuse valdkonnas;
+*  on õppinud kasutama andmetöötluseks ja aruande vormistamiseks programmipaketti MathCAD.

@@ -1,0 +1,7 @@
+Robootika on Eesti koolides kiiresti arenev valdkond, mis aitab rakendada erinevates õppeainetes õpitud teadmisi praktiliste ülesannete lahendamisel. Kursuse praktikumides pannakse kokku erinevaid hetkel erinevates kooliastmetes levinud robootikakomplekte nagu BeeBot, mBot, LEGO Mindstorms EV3, Arduino ja Raspberry Pi. Samuti valmistatakse kursusel osaleja ette robootika huviringi vastavate toetavate teemadega nagu robootikaringi vahendite hankimine, robootikatundide korraldus, reklaam, materjalide ettevalmistus ja tundide läbiviimine. Kursus koosneb neljast neljatunnisest praktilisest sessioonist ning nende vahele jäävast iseseisvast e-õppest.
+Üliõpilane saab ettevalmistuse I-III kooliastmetes ja gümnaasiumis kasutatavate robootikavahendite õpetamiseks robootikatunnis.
+Kursuse läbinud õppur:
+* kirjeldab koolirobootika ajalugu ja levikut Eestis;
+* paneb kokku algosadest vähemalt ühe koolirobootika baasroboti;
+* kasutab roboti põhiandurite lugemeid roboti juhtimiseks praktiliste ülesannete lahendamisel;
+* programmeerib roboteid kasutades graafilist ja tekstilist programmeerimiskeskkonda.

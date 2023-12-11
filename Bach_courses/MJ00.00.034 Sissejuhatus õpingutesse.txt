@@ -1,0 +1,8 @@
+Aine raames tutvustatakse teaduskonna struktuuri, õppetöö korraldust ja reegleid. Üliõpilased saavad teadmisi ja oskusi Tartu Ülikooli infosüsteemide ja teaduskirjanduse andmebaaside kasutamise, kirjalike töödele esitatud nõuete ning korrektse viitamise kohta. Üliõpilased saavad ka teadmisi erinevate praktikavõimaluste kohta.
+Aine eesmärgiks on tutvustada TÜ majandusteaduskonda, õppetöö korraldust ja õppetööga seonduvaid nõudeid ja reegleid ning ligipääsu IT süsteemidele, õppe- ja teaduskirjanduse andmebaasidele. Antakse ülevaade kirjalike tööde vormistamisele esitatavatest nõuetest ja üliõpilased saavad esmased kogemused nende rakendamisel.
+Kursusel osalenud tudengid: 
+- teavad õppekava ülesehitust ning tunnevad õppetöö korraldust ja reegleid;
+- tunnevad TÜ majandusteaduskonna struktuuri ja oskavad kasutada selle kodulehte;
+- oskavad kasutada erinevaid õppimiseks vajalikke IT-süsteeme, õppe- ja teaduskirjanduse andmebaase;
+- teavad, millistele nõuetele peavad vastama TÜ majandusteaduskonna üliõpilastööd ning oskavad neid korrektselt vormistada;
+- oskavad kasutatud allikatele korrektselt viidata ning vältida plagiaati.

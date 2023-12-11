@@ -1,0 +1,7 @@
+Praktilised teadmised analüütilisest keemiast: proovi võtmine ja eeltöötlus, gravimeetria, titrimeetria, potentsiomeetria, kromatograafia, aatom- ja molekulspektroskoopia ning metoodikate valideerimise ja mõõtemääramatuse alused.
+Aine eesmärgiks on anda ülevaade keemilisest analüüsi kõigist etappidest alustades proovivõtust kuni tulemuste esitamiseni. Käsitletakse proovivõtu ja eeltöötluse põhiprintsiipe ning erinevaid analüüsimeetodeid: gravimeetria, titrimeetria, potentsiomeetria, kromatograafia, aatom- ja molekulspektroskoopia ning massispektromeetria. Tutvustatakse analüüsimetoodikate valideerimise põhimõtteid ja mõõtemääramatuse aluseid.
+Omandatakse järgmised teadmised:
+- keemilise analüüsi üldprintsiibid: analüütiline signaal, müra, selektiivsus
+- metoodikate valideerimise ja mõõtemääramatuse hindamise alused
+- keemilised analüüsimeetodid (gravimeetria, titrimeetria, potentsiomeetria, kromatograafia, spektroskoopilised meetodid) ja nende aluseks olevad protsessid (sadenemine, tasakaaludreaktsioonid, molekulisisesed üleminekud)
+- proovide ettevalmistamise üldprintsiibid

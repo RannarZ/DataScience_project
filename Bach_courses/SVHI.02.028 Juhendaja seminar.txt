@@ -1,0 +1,7 @@
+Antakse juhiseid lõputöö projekti koostamiseks.
+Toetada üliõpilasi lõputöö projekti koostamisel.
+Õppeaine läbinud üliõpilane juhendaja toel:
+1) selgitab teoreetilistele allikatele toetudes oma töös lahendamist vajava probleemi;
+2) sõnastab uurimistöö teema, eesmärgi ja uurimisküsimused/hüpoteesid;
+3) määratleb uurimistöö valimi ning valib  andmekogumiseks ja andmeanalüüsiks sobivad meetodid;
+3) koostab töö valmimise ajakava ja esitab bakalaureusetöö projekti

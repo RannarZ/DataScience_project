@@ -1,0 +1,8 @@
+Kursuse raames antakse ülevaade vene keele morfoloogilisest ja süntaktilisest süsteemist: vaadeldakse vene keele sõnaliike, vormimoodustust, sõnaliigi funktsioneerimist, süntaktiliste seoste tüüpe ja vahendeid sõnaühendis, liht- ja liitlauses, vene lause tüüpe.
+1) anda teoreetiline ülevaade vene keele grammatikast (morfoloogiast ja süntaksist): sõnaliikidest ja sõnaliigi funktsioneerimisest vene keeles, sõnaühendist, liht- ja liitlausest jne;
+2) praktiliste tööde kaudu kujundatakse oskust teha sõnavormi morfoloogilist analüüsi ja sõnaühendi, liht- ja liitlause süntaktilist analüüsi.
+1) valdab peamist terminoloogiat (terminoloogiasüsteemi), teab mõistete tänapäevaseid tähendusi ("sõnavorm", "grammatiline vorm", "grammatiline kategooria", "sõnaühend", "lause" jne), omab teadmisi programmi teoreetilise materjali alal;
+2) oskab kindlaks teha eraldi sõnavormide grammatilisi tähendusi ja nende väljendusviise;
+3) oskab teha sõnavormide morfoloogilist analüüsi, analüüsis märkida üleminekut ühelt sõnaliigilt teisele;
+4) oskab esile tuua lauses olevaid sõnaühendeid, eristada neid teistest sõnakombinatsioonidest; neid analüüsida;
+5) oskab teha liht- ja liitlause mitmeaspektilist analüüsi.

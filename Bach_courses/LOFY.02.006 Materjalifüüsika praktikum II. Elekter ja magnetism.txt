@@ -1,0 +1,8 @@
+Kursus on mõeldud materjaliteaduse üliõpilastele. Kursus sisaldab 8 praktilist tööd elektri ja magnetismi vallast.
+Anda vajalikud teadmised ja oskused laboratoorseteks töödeks elektri ja magnetismi alal.
+Praktikumis arvestuse saanud üliõpilane:
+* teab ja oskab selgitada elektromagnetismi seadusi ja põhitõdesid;
+* oskab kasutada enamlevinud elektrimõõteriistu;
+* oskab kavandatud mõõtmiste tegemiseks kokku panna elektriskeemi;
+* on omandanud põhiteadmised elektriohutuse valdkonnas;
+* oskab ette antud elementidega (takistid, kondensaatorid, induktiipoolid) vahelduvvoolu skeemi järgi arvutatada oodatavad voltmeetrite ja ampermeetrite näidud

@@ -1,0 +1,19 @@
+Kursus algab rakkude pooldumise faaside ja peamiste sündmuste kirjeldusega imetaja rakkudes ja mudelorganismides Xenopus, Drosophila ning pärmid. Hilisemad loengud käsitlevad rakutsükli molekulaarseid kontrollmehhanisme. Juttu tuleb rakutsükli pearegulaatoritest - tsükliinist sõltuvatest proteiini kinaasidest ja tsükliinidest, mis neid ensüüme aktiveerivad. Arutlusele tuleb ka rakutsükli kontrollmehhanismide roll organismide arengus kui ka nende mehhanismide defektide roll vähktõve tekkes. Tänavuse kursuse uuendatud varianti on juurde lisatud eelmise aasta jooksul tehtud läbimurded käävi kontrollpunkti, tsütokineesi ja kinetokoori struktuuri alal.
+1. Rakkude pooldumise tsükli peamised etapid eukarüootides
+2. Rakutsükli analüüsiks kasutatavad mudelorganismid
+3. Rakutsüklit kontrollivate mehhanismide ülevaade
+4. Rakkude pooldumise erinevaid etappe reguleerivad lülitid 
+5. Kromosoomide duplitseerumine
+6. Varajane mitoos: kromosoomide ettevalmistamine segregatsiooniks
+7. Mitoossikäävi moodustumine
+8. Mitoosi lõpetamine
+9. Tsütokinees
+10. Meioos
+11. Rakkude kasvu ja suurust kontrollivad mehhanismid
+12. Rakutsükli käigus tekkinud DNA kahjustuse leidmine ja parandamine
+13. Rakutsükli süsteemibioloogia, ülevaade matemaatilistest mudelitest
+14. Rakutsükkel vähkkasvajates
+Kursuse eesmärgiks on anda osalejatele ülevaade rakkude pooldumise tsükli peamistest mehhanismidest ja juurutada süsteemibioloogiline arusaam neid reguleerivatest kontrollvõrgustikest.
+Kursusel on kaks peamist eesmärki:
+1) Anda osalejatele ülevaade rakkude pooldumise tsüklist ja selleteemaliste teadusuuringute peamistest küsimustest tänapäeval
+2) Anda osalejatele kogemus teadusartiklite kriitilise lugemise ja analüüsi alal

@@ -1,0 +1,10 @@
+Kursuse sisuks on õppida küljendama matemaatilist teksti makroküljendussüsteemi LaTeX baasil. Enamik tundidest kulub süsteemi LaTeX tundmaõppimisele. Vaadeldakse ka failivormingute konverteerimist, funktsioonide graafikute ning muude vektorgraafika jooniste koostamist. Lisaks harilike tekstide küljendamisele on kõne all ka slaidiesitluste koostamine LaTeXi abil.
+1) Õppijal on soosiv hoiak edaspidi vormistada matemaatilist teksti küljendussüsteemi LaTeX abil.
+2) Õppija oskab elementaarsel tasemel (teksti- ja valemirežiim, pealkirjad, loetelud, tabelid, viited, lihtsate makrode koostamine jne) kasutada küljendussüsteemi LaTeX.
+3) Õppija teab süsteemist LaTeX saadavaid väljundvorminguid (DVI, PS, PDF) ja oskab läbi viia nendevahelisi konverteerimisi.
+4) Õppija oskab elementaarsel tasemel töödelda rasterpilte ja lisada neid LaTeX-dokumenti.
+5) Õppija oskab elementaarsel tasemel koostada funktsioonide graafikuid Maxima abil ja vektorgraafika jooniseid MetaPosti abil ning lisada neid LaTeX-dokumenti.
+1) Õppija oskab elementaarsel tasemel (teksti- ja valemirežiim, pealkirjad, loetelud, tabelid, viited, lihtsate makrode koostamine jne) kasutada küljendussüsteemi LaTeX.
+2) Õppija teab süsteemist LaTeX saadavaid väljundvorminguid (DVI, PS, PDF) ja oskab läbi viia nendevahelisi konverteerimisi.
+3) Õppija oskab elementaarsel tasemel töödelda rasterpilte ja lisada neid LaTeX-dokumenti.
+4) Õppija oskab elementaarsel tasemel koostada funktsioonide graafikuid Maxima abil ja vektorgraafika jooniseid MetaPosti abil ning lisada neid LaTeX-dokumenti.

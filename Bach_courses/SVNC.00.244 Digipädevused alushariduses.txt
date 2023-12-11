@@ -1,0 +1,12 @@
+Rahvusvaheline haridustöötaja digipädevuse raamistik DigCompEdu. 
+Eesti õpetajate digipädevusmudel ja õpetaja enesehindamise küsimustik, mis aitab õpetajal enda digipädevust täpsemalt analüüsida. 
+Seadusandlus. 
+Digitehnoloogia ja selle kasutamine lasteaias. 
+Turvaline IKT kasutamine, eakohane online-etikett.
+Digipädevusmudeli tutvustamine ja enesearengu ning -hindamise valmisoleku kujundamine digivaldkonnas. Kujundada valmidus rakendada IKT vahendeid teadvustatult igapäevases õppe- ja kasvatustegevuses. Virtuaalkeskkonna kui ühe kasvukeskkonna ohtude ja võimaluste teadvustamine lapse igakülgse arengu toetamisel.
+Üliõpilane: 
+* Analüüsib oma digipädevust ja kavandab enesearenguks vajalikke tegevusi;
+* Teadvustab (digitaal)meedia kui kasvukeskkonna osatähtsust eelkooliealise lapse igakülgses arengus: leiab lahendusi võimalikele meediast tulenevatele probleemidele, omab valmisolekut lastevanemate nõustamiseks üldisemates meediat puudutavates kasvatusküsimustes; 
+* Oskab kavandada ja teostada meediakasvatust läbi igapäevase lõimitud õppe- ja kasvatustegevuse;
+* Oskab otsida, hinnata ja kasutada erinevat meedia sisu laste eakohasel ja igakülgsel arendamisel; 
+* Tunneb IKT-põhise õppe põhimõtteid, metoodikat ja vahendeid ning oskab neid õppetegevustesse integreerida.

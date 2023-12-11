@@ -1,0 +1,12 @@
+Kursuse põhiteemadeks on
+-valkude struktuur
+-ensümaatilise katalüüsi põhiprintsiibid
+-süsivesikute ja rasvade struktuur ja funktsioon
+-nukleiinhapete struktuur
+-rasvade, süsivesikute ja aminohapete peamised metaboolsed rajad
+Kursuse eesmärgiks on anda ülevaade peamistest biokeemia põhiprintsiipidest, biokeemiliste molekulide struktuurist ja metaboolsete radade toimimisest.
+Peale kursust oodatakse üliõpilastelt
+- tunda peamisi bioloogilisi makromolekule ja nende monomeere.
+- aru saada katalüüsi rollist biokeemias.
+- teada põhilisi metaboolseid radu ja olla tuttav anabolismi ja katabolismi peamiste regulatsioonikohtadega.
+- võimet siduda biokeemilise reaktsioone üldiste keemiliste printsiipidega ja mõista, kuidas normaalse metabolismi häired võivad põhjustada inimeste haigusi.
